@@ -1,0 +1,41 @@
+Metadata-Version: 2.4
+Name: raphtory
+Version: 0.16.2
+Classifier: Programming Language :: Rust
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Dist: pandas>=2.0.3
+Requires-Dist: pyarrow>=18
+Requires-Dist: numpy>=1.26.0
+Requires-Dist: seaborn>=0.11.2 ; extra == 'plot'
+Requires-Dist: matplotlib>=3.4.3 ; extra == 'plot'
+Requires-Dist: pyvis>=0.3.2 ; extra == 'pyvis'
+Requires-Dist: networkx>=2.6.3 ; extra == 'networkx'
+Requires-Dist: raphtory[pyvis,networkx] ; extra == 'export'
+Requires-Dist: raphtory[export,plot] ; extra == 'all'
+Requires-Dist: docstring-parser>=0.16 ; extra == 'dev'
+Requires-Dist: pandas-stubs ; extra == 'dev'
+Requires-Dist: maturin>=1.8.3 ; extra == 'dev'
+Requires-Dist: tox>=4.25 ; extra == 'dev'
+Requires-Dist: raphtory[all] ; extra == 'test'
+Requires-Dist: requests>=2.31.0 ; extra == 'test'
+Requires-Dist: pyjwt[crypto]>=2.10.1 ; extra == 'test'
+Requires-Dist: pytest>=8 ; extra == 'test'
+Requires-Dist: pytest-benchmark>=5.1.0 ; extra == 'test'
+Requires-Dist: nbmake ; extra == 'tox'
+Provides-Extra: plot
+Provides-Extra: pyvis
+Provides-Extra: networkx
+Provides-Extra: export
+Provides-Extra: all
+Provides-Extra: dev
+Provides-Extra: test
+Provides-Extra: tox
+Home-Page: https://github.com/Raphtory/raphtory/
+Requires-Python: >=3.9
+Project-URL: homepage, https://github.com/pometry/raphtory
+Project-URL: documentation, https://docs.raphtory.com/
+Project-URL: repository, https://github.com/pometry/raphtory
+Project-URL: twitter, https://twitter.com/raphtory/
+Project-URL: slack, https://join.slack.com/t/raphtory/shared_invite/zt-xbebws9j-VgPIFRleJFJBwmpf81tvxA
+Project-URL: youtube, https://www.youtube.com/@pometry8546/videos
