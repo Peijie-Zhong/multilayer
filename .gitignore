@@ -1,4 +1,8 @@
-data/
+sync_data/
+transport_data/
 output/
 plot/
 .venv/
+GenLouvain/
+__pycache__/
+IterModMax/
