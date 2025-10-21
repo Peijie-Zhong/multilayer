@@ -1,14 +1,3 @@
-import multilayerGM as gm
-
-# -*- coding: utf-8 -*-
-"""
-生成多层网络并导出 u,v,layer,u_label,v_label
-- N:            节点池大小（物理节点的全集为 [0, N-1]）
-- coverage:     长度为 L-1 的列表，表示相邻层之间的共享比例（Jaccard：|∩|/|∪|）
-- nodes_per_layer: 长度为 L 的列表，表示每一层的节点数
-输出: edges.csv
-"""
-
 import math
 import random
 from typing import List, Dict, Set, Tuple

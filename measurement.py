@@ -3,21 +3,8 @@ import pandas as pd
 from collections import defaultdict, Counter
 from sklearn.metrics import adjusted_mutual_info_score
 
-def compute_layerwise_ami_avg(name: str, data_dir: str = "data", output_dir: str = "output") -> float:
-    """
-    读取 data/{name}.csv 与 output/{name}_communities.csv，
-    逐层计算 AMI，并返回各层 AMI 的平均值。
+def compute_layerwise_ami_avg(name: str, data_dir: str = "sync_data", output_dir: str = "output") -> float:
 
-    参数
-    ----
-    name : 基础文件名（不含扩展名），例如 "test"
-    data_dir : 真值文件所在目录，默认 "data"
-    output_dir : 预测结果所在目录，默认 "output"
-
-    返回
-    ----
-    float : 所有可计算层的 AMI 平均值；若没有任何可计算层，返回 float('nan')
-    """
     gt_path = os.path.join(data_dir, f"{name}.csv")
     pred_path = os.path.join(output_dir, f"{name}_communities.csv")
 
@@ -78,5 +65,5 @@ def compute_layerwise_ami_avg(name: str, data_dir: str = "data", output_dir: str
         # sklearn 会把非数值标签自动作为分类标签处理
         ami = adjusted_mutual_info_score(y_true, y_pred, average_method="arithmetic")
         amis.append(ami)
-
+    print(amis)
     return float(pd.Series(amis).mean()) if len(amis) > 0 else float("nan")
