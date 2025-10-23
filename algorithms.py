@@ -32,3 +32,6 @@ def infomap_communities(input_csv_path, output_csv_path, jsd_relax_rate=0.25):
         })
     output_df = pd.DataFrame(results).sort_values(['layer', 'node_id']).reset_index(drop=True)
     output_df.to_csv(output_csv_path, index=False)
+    print(f"{input_csv_path} complete.")
+
+
