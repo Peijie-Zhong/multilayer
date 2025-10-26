@@ -1,6 +1,6 @@
 import pandas as pd
 from infomap import Infomap
-from __future__ import annotations
+
 import numpy as np
 from typing import Dict, List, Tuple
 from scipy import sparse
