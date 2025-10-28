@@ -16,17 +16,6 @@ def build_layer_node_sets(
     stochastic: str = "binomial",
     seed: int = 42,
 ):
-    """
-    按速率构造多层节点集合 S_l：
-    - 第0层：从 [0..N-1] 中采样 init_size 个节点
-    - 每步 l->l+1：
-        * 每个上一层节点以 (1 - leaving_rate) 概率存活
-        * 从候选池以 join_rate 决定新进入数量，然后采样加入
-      forbid_reentry=True 时，候选池为“从未出现过的节点”；否则为“当前不在层内的所有节点”（允许回流）
-    返回：
-      layer_sets: List[Set[int]]
-      stats:      每层的统计信息（规模、存活数、新进入数、Jaccard等）
-    """
     assert 0 <= init_size <= N
     assert 0 <= join_rate <= 1 and 0 <= leaving_rate <= 1
     assert L >= 1
@@ -37,7 +26,6 @@ def build_layer_node_sets(
     universe = list(range(N))
     layer_sets: List[Set[int]] = []
 
-    # 第0层
     S0 = set(py_rng.sample(universe, init_size))
     layer_sets.append(S0)
 
@@ -58,7 +46,7 @@ def build_layer_node_sets(
         S_count = len(survivors)
         candidates = [u for u in universe if (u not in survivors)]
         if stochastic == "binomial":
-            n_join = int(rng.binomial(n=len(candidates), p=join_rate))
+            n_join = int(rng.binomial(n=len(prev), p=join_rate))
         elif stochastic == "expected":
             n_join = int(round(join_rate * a))
         else:

@@ -37,10 +37,12 @@ def infomap_communities(input_csv_path, output_csv_path, jsd_relax_rate=0.25):
             'layer': rev_layer_map[layer_id],
             'community': community_id
         })
+    
     output_df = pd.DataFrame(results).sort_values(['layer', 'node_id']).reset_index(drop=True)
-    output_df.to_csv(output_csv_path, index=False)
-    print(f"{input_csv_path} complete.")
-
+    if output_csv_path != None:    
+        output_df.to_csv(output_csv_path, index=False)
+        print(f"results write to {output_csv_path}.")
+    return output_df
 
 # ===================GenLouvain===================
 def build_multilayer_adjacency(

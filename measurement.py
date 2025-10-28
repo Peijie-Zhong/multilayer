@@ -3,14 +3,16 @@ import pandas as pd
 from collections import defaultdict, Counter
 from sklearn.metrics import adjusted_mutual_info_score
 
-def compute_layerwise_ami_avg(name: str, data_dir: str = "sync_data", output_dir: str = "output") -> float:
-
-    gt_path = os.path.join(data_dir, f"{name}.csv")
-    pred_path = os.path.join(output_dir, f"{name}_communities.csv")
-
+def compute_layerwise_ami_avg(
+        gt_path: str, 
+        pred) -> float:
+    
     # 读取数据
     gt = pd.read_csv(gt_path)
-    pred = pd.read_csv(pred_path)
+    if isinstance(pred, str):
+        pred = pd.read_csv(pred)
+    elif not isinstance(pred, pd.DataFrame):
+        raise TypeError("pred must be str or pandas.DataFrame.")
 
     # 统一节点ID为字符串，避免类型不一致导致的集合交集问题
     for col in ["u", "v"]:
