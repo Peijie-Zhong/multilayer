@@ -180,12 +180,13 @@ def call_genlouvain(
     if S_py.size != N * T:
         S_py = np.array(list(np.array(S).flatten()), dtype=float).reshape((N * T,), order="F")
     S_mat = S_py.reshape((N, T), order="F")
+    eng.quit()
     return S_mat
 
 
 def genlouvain_communities(
     input_csv: str,
-    output_csv: str,
+    output_csv: str = None,
     omega: float = 1.0,
     gamma: float | List[float] | np.ndarray = 1.0,
     directed: bool = False,
@@ -202,7 +203,7 @@ def genlouvain_communities(
         omega=omega,
         gamma=gamma,
         algorithm=algorithm,
-        random_state=random_state,
+        random_state=random_state        
     )
 
     # Prepare output rows
@@ -213,27 +214,19 @@ def genlouvain_communities(
         for i in range(N):
             rows.append({
                 "node_id": nodes_by_index[i],
-                "layer": layer,
+                "layer": int(layer),
                 "community": int(S[i, t_idx]),
             })
-
     out_df = pd.DataFrame(rows, columns=["node_id", "layer", "community"])
-    # Stable sort by node, then layer (numeric if possible)
-    try:
-        out_df["_layer_sort"] = pd.to_numeric(out_df["layer"], errors="coerce")
-        out_df = out_df.sort_values(by=["node_id", "_layer_sort", "layer"]).drop(columns=["_layer_sort"]) 
-    except Exception:
-        out_df = out_df.sort_values(by=["node_id", "layer"]) 
-
-    out_df.to_csv(output_csv, index=False)
+    out_df = out_df.sort_values(['layer', 'node_id']).reset_index(drop=True)
+    if output_csv != None:
+        out_df.to_csv(output_csv, index=False)
+    return out_df
 
 
 # =================== Hetero GenLouvain ===================
 
 def layer_adjacency_matrix(G: nx.Graph, node_order: List[str]) -> np.ndarray:
-    """
-    把单层加权无向图转成邻接矩阵 (|V|x|V|), 顺序由 node_order 决定.
-    """
     idx = {n: i for i, n in enumerate(node_order)}
     N = len(node_order)
     rows = []
@@ -439,7 +432,6 @@ def build_B_from_blocks(
 
 def run_hetero_genlouvain(
     B: np.ndarray,
-    matlab_path_to_genlouvain: str,
     random_state: int | None = None,
     use_iterated: bool = True,
 ):
@@ -447,7 +439,7 @@ def run_hetero_genlouvain(
     import matlab
 
     eng = matlab.engine.start_matlab()
-    _ = eng.addpath(eng.genpath(matlab_path_to_genlouvain), nargout=1)
+    _ = eng.addpath(eng.genpath("GenLouvain"), nargout=1)
     B_matlab = matlab.double(B.tolist())
 
     if random_state is not None:
@@ -464,7 +456,6 @@ def run_hetero_genlouvain(
 def hetero_genlouvain_communities(
     csv_path: str,
     omega_scale: float,
-    matlab_path_to_genlouvain: str,
     metric: str = "euclidean",
     node2vec_dim: int = 64,
     seed: int = 42,
@@ -498,14 +489,13 @@ def hetero_genlouvain_communities(
 
     S_vec, Q_raw = run_hetero_genlouvain(
         B,
-        matlab_path_to_genlouvain=matlab_path_to_genlouvain,
         random_state=seed,
         use_iterated=True,
     )
     rows = []
     for idx_global, (layer, node) in enumerate(global_index):
         rows.append({
-            "layer": layer,
+            "layer": int(layer),
             "node_id": node,
             "community": int(S_vec[idx_global]),
         })

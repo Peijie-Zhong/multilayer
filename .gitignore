@@ -5,3 +5,4 @@ plot/
 .venv/
 GenLouvain/
 __pycache__/
+elliptic/
