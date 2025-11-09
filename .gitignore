@@ -1,8 +1,8 @@
 sync_data/
-transport_data/
+shanghai_bike/
 output/
-plot/
 .venv/
 GenLouvain/
 __pycache__/
 elliptic/
+DC_bike/

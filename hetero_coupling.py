@@ -1,11 +1,9 @@
-from pathlib import Path
 from typing import Dict, List, Tuple
 import numpy as np
 import pandas as pd
 import networkx as nx
 from node2vec import Node2Vec
-from ot.gromov import gromov_wasserstein, gromov_wasserstein2
-from infomap import Infomap
+from ot.gromov import gromov_wasserstein, gromov_wasserstein2, entropic_gromov_wasserstein, entropic_gromov_wasserstein2
 
 def read_edges(csv_path: str) -> pd.DataFrame:
     df = pd.read_csv(csv_path)
@@ -85,8 +83,8 @@ def gw_coupling_and_distance(emb1: pd.DataFrame, emb2: pd.DataFrame, metric="euc
     p = np.ones(n1) / max(n1, 1)
     q = np.ones(n2) / max(n2, 1)
     # π（最优耦合，带熵正则版可用 ot.gromov.entropic_gromov_wasserstein）
-    pi = gromov_wasserstein(C1, C2, p, q, loss_fun="square_loss")
+    pi = entropic_gromov_wasserstein(C1, C2, p, q, loss_fun="square_loss")
     # GW^2
-    gw2 = gromov_wasserstein2(C1, C2, p, q, loss_function="square_loss")
+    gw2 = entropic_gromov_wasserstein2(C1, C2, p, q, loss_function="square_loss")
     gw = float(np.sqrt(max(gw2, 0.0)))
     return pi, nodes1, nodes2, gw

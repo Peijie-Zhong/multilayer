@@ -430,15 +430,17 @@ def build_B_from_blocks(
     B[np.abs(B) < 1e-15] = 0.0
     return B
 
+
+import matlab.engine
+import matlab
 def run_hetero_genlouvain(
     B: np.ndarray,
+    matlab_engine: matlab.engine,
     random_state: int | None = None,
-    use_iterated: bool = True,
+    use_iterated: bool = False,
 ):
-    import matlab.engine
-    import matlab
-
-    eng = matlab.engine.start_matlab()
+    #eng = matlab.engine.start_matlab()
+    eng = matlab_engine
     _ = eng.addpath(eng.genpath("GenLouvain"), nargout=1)
     B_matlab = matlab.double(B.tolist())
 
@@ -452,10 +454,10 @@ def run_hetero_genlouvain(
     S_py = np.array(S).reshape(-1)
     return S_py, float(Q_raw)
 
-
 def hetero_genlouvain_communities(
     csv_path: str,
     omega_scale: float,
+    matlab_engine: matlab.engine, 
     metric: str = "euclidean",
     node2vec_dim: int = 64,
     seed: int = 42,
@@ -489,6 +491,7 @@ def hetero_genlouvain_communities(
 
     S_vec, Q_raw = run_hetero_genlouvain(
         B,
+        matlab_engine=matlab_engine,
         random_state=seed,
         use_iterated=True,
     )
@@ -504,3 +507,193 @@ def hetero_genlouvain_communities(
     part_df = pd.DataFrame(rows, columns=["node_id", "layer", "community"])
     part_df.to_csv(output_csv, index=False)
     return part_df, Q_raw, A_supra, B
+
+
+#=====infomap + GW coupling 
+
+
+def state_id(node: str, layer: str) -> str:
+    # 选择一个不太可能出现在节点/层名里的分隔符
+    return f"{node}|{layer}"
+
+
+def build_infomap_with_gw(
+    graphs: Dict[str, nx.Graph],
+    embeddings: Dict[str, pd.DataFrame],
+    layer_order: List[str],
+    top_k: int = 5,
+    min_weight: float = 1e-3,
+    alpha: float = 2.0,
+    emb_metric: str = "euclidean",
+    intra_weight_from_attr: str = "weight"
+) -> Tuple[Infomap, Dict[int, Tuple[str, str]]]:
+    """
+    构造扁平化“状态节点图”，节点是 (node, layer) 的组合映射为 int。
+    返回 (Infomap实例, id2state)，其中 id2state[i] = (node, layer)
+    """
+
+    # ----------- 1️⃣ 建立全局状态节点映射 -----------
+    state2id = {}
+    id2state = {}
+    next_id = 1
+
+    # 遍历所有层的所有节点，创建唯一的整数ID
+    for layer in layer_order:
+        for n in graphs[layer].nodes():
+            key = (str(n), str(layer))
+            state2id[key] = next_id
+            id2state[next_id] = key
+            next_id += 1
+
+    im = Infomap("--two-level --silent")
+
+    # ----------- 2️⃣ 层内边 -----------
+    for layer in layer_order:
+        G = graphs[layer]
+        for u, v, d in G.edges(data=True):
+            w = float(d.get(intra_weight_from_attr, INTRA_EDGE_WEIGHT))
+            uid = state2id[(str(u), str(layer))]
+            vid = state2id[(str(v), str(layer))]
+            im.addLink(int(uid), int(vid), float(w))
+
+    # ----------- 3️⃣ 层间边 (GW 耦合) -----------
+    for t in range(len(layer_order) - 1):
+        la, lb = layer_order[t], layer_order[t + 1]
+        emb_a, emb_b = embeddings[la].sort_index(), embeddings[lb].sort_index()
+        pi, nodes_a, nodes_b, gw = gw_coupling_and_distance(emb_a, emb_b, metric=emb_metric)
+
+        Omega = float(np.exp(-alpha * gw))  # 全局缩放
+        row_sums = pi.sum(axis=1, keepdims=True)
+        row_sums[row_sums == 0] = 1.0
+        P = pi / row_sums
+
+        na, nb = P.shape
+        for ia in range(na):
+            k_use = min(top_k, nb) if top_k > 0 else nb
+            idx = np.argpartition(-P[ia, :], kth=k_use - 1)[:k_use]
+            idx = idx[np.argsort(-P[ia, idx])]
+
+            src_name = nodes_a[ia]
+            src_id = state2id[(str(src_name), str(la))]
+
+            for jb in idx:
+                w = float(P[ia, jb]) * Omega
+                if w < min_weight:
+                    continue
+                dst_name = nodes_b[jb]
+                dst_id = state2id[(str(dst_name), str(lb))]
+                im.addLink(int(src_id), int(dst_id), float(w))
+
+    return im, id2state
+
+
+# ============ RUN ============
+def state_id(node: str, layer: str) -> str:
+    return f"{node}|{layer}"
+
+
+def build_infomap_with_gw(
+    graphs: Dict[str, nx.Graph],
+    embeddings: Dict[str, pd.DataFrame],
+    layer_order: List[str],
+    top_k: int = 5,
+    min_weight: float = 1e-3,
+    alpha: float = 2.0,
+    emb_metric: str = "euclidean",
+    intra_weight: int = 1
+) -> Tuple[Infomap, Dict[int, Tuple[str, str]]]:
+    state2id = {}
+    id2state = {}
+    next_id = 1
+
+    for layer in layer_order:
+        for n in graphs[layer].nodes():
+            key = (str(n), str(layer))
+            state2id[key] = next_id
+            id2state[next_id] = key
+            next_id += 1
+
+    im = Infomap("--two-level --silent")
+
+    for layer in layer_order:
+        G = graphs[layer]
+        for u, v, d in G.edges(data=True):
+            w = float(1)
+            uid = state2id[(str(u), str(layer))]
+            vid = state2id[(str(v), str(layer))]
+            im.addLink(int(uid), int(vid), float(w))
+
+    for t in range(len(layer_order) - 1):
+        la, lb = layer_order[t], layer_order[t + 1]
+        emb_a, emb_b = embeddings[la].sort_index(), embeddings[lb].sort_index()
+        pi, nodes_a, nodes_b, gw = gw_coupling_and_distance(emb_a, emb_b, metric=emb_metric)
+
+        Omega = float(np.exp(-alpha * gw))
+        row_sums = pi.sum(axis=1, keepdims=True)
+        row_sums[row_sums == 0] = 1.0
+        P = pi / row_sums
+
+        na, nb = P.shape
+        for ia in range(na):
+            k_use = min(top_k, nb) if top_k > 0 else nb
+            idx = np.argpartition(-P[ia, :], kth=k_use - 1)[:k_use]
+            idx = idx[np.argsort(-P[ia, idx])]
+
+            src_name = nodes_a[ia]
+            src_id = state2id[(str(src_name), str(la))]
+
+            for jb in idx:
+                w = float(P[ia, jb]) * Omega
+                if w < min_weight:
+                    continue
+                dst_name = nodes_b[jb]
+                dst_id = state2id[(str(dst_name), str(lb))]
+                im.addLink(int(src_id), int(dst_id), float(w))
+
+    return im, id2state
+
+def infomap_gw_coupling_communities(
+        input_path,
+        dimension=32,
+        walk_length=80,
+        num_walks=10,
+        P=1.0,
+        Q=1.0, 
+        window=10,
+        works=4, 
+        seed=42,
+        top_k=5,
+        min_weight=1e-3,
+        alpha=2.0,
+        emb_metric="euclidean",
+
+):
+    df = read_edges(input_path)
+    graphs = build_layer_graphs(df)
+    layer_names = sorted(graphs.keys(), key=lambda x: x)  # 你也可以自定义顺序
+
+    # 逐层嵌入
+    embeddings: Dict[str, pd.DataFrame] = {}
+    for layer in layer_names:
+        embeddings[layer] = compute_node2vec_embeddings(
+            graphs[layer],
+            dimensions=dimension, walk_length=walk_length, num_walks=num_walks,
+            p=P, q=Q, window=window, workers=works, seed=seed
+        )
+
+        
+    im, id2state = build_infomap_with_gw(
+        graphs, embeddings, layer_order=layer_names,
+        top_k=top_k, min_weight=min_weight, alpha=alpha, emb_metric=emb_metric
+    )
+
+    im.run()
+    partition = {n.node_id: n.module_id for n in im.tree if n.is_leaf}
+    rows = []
+    for nid, com in partition.items():
+        if nid in id2state:
+            node, layer = id2state[nid]
+            rows.append((node, int(layer), com))
+
+    assignments_df = pd.DataFrame(rows, columns=["node_id", "layer", "community"])  
+    return assignments_df
