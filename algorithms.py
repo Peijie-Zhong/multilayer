@@ -48,6 +48,7 @@ def infomap_communities(input_csv_path, output_csv_path, jsd_relax_rate=0.25):
 def build_multilayer_adjacency(
     df: pd.DataFrame,
     directed: bool = False,
+    weight: bool = False,
 ) -> Tuple[List[np.ndarray], List[str], Dict[str, int]]:
     lower_map = {c.lower(): c for c in df.columns}
     for col in ("u", "v", "layer"):
@@ -55,18 +56,32 @@ def build_multilayer_adjacency(
             raise ValueError(
                 f"Missing required column '{col}'. Found columns: {list(df.columns)}"
             )
-    df = df.rename(columns={lower_map["u"]: "u", lower_map["v"]: "v", lower_map["layer"]: "layer"})
+    df = df.rename(columns={
+        lower_map["u"]: "u",
+        lower_map["v"]: "v",
+        lower_map["layer"]: "layer"
+    })
 
     df = df.dropna(subset=["u", "v", "layer"]).copy()
     df["u"] = df["u"].astype(str)
     df["v"] = df["v"].astype(str)
 
-    # Sort layers numerically if possible, otherwise lexicographically
+    # --- weight 检查 ---
+    if weight:
+        if "weight" not in df.columns:
+            raise ValueError(
+                "use_weight=True but no column named 'weight' was found in df."
+            )
+        # 转 float，确保矩阵可用
+        df["weight"] = df["weight"].astype(float)
+
+    # Sort layers numerically if possible
     try:
         df["_layer_num"] = pd.to_numeric(df["layer"], errors="raise")
         layers_sorted_num = sorted(df["_layer_num"].unique().tolist())
         layer_text_for_num = {
-            ln: str(df.loc[df["_layer_num"] == ln, "layer"].iloc[0]) for ln in layers_sorted_num
+            ln: str(df.loc[df["_layer_num"] == ln, "layer"].iloc[0])
+            for ln in layers_sorted_num
         }
         layers_out = [layer_text_for_num[ln] for ln in layers_sorted_num]
         layer_key = "_layer_num"
@@ -74,7 +89,7 @@ def build_multilayer_adjacency(
         layers_out = sorted(df["layer"].astype(str).unique().tolist())
         layer_key = "layer"
 
-    # Node universe across all layers
+    # Node universe
     nodes = sorted(set(df["u"]).union(set(df["v"])), key=lambda x: (len(x), x))
     node_index = {n: i for i, n in enumerate(nodes)}
     N = len(nodes)
@@ -82,7 +97,6 @@ def build_multilayer_adjacency(
     A_list: List[np.ndarray] = []
     for L in layers_out:
         if layer_key == "_layer_num":
-            # get numeric key for this textual layer
             numeric = [k for k, v in layer_text_for_num.items() if v == L][0]
             sub = df[df["_layer_num"] == numeric]
         else:
@@ -95,17 +109,22 @@ def build_multilayer_adjacency(
         ui = sub["u"].map(node_index).to_numpy()
         vi = sub["v"].map(node_index).to_numpy()
 
-        data = np.ones(len(sub), dtype=float)
+        # --- 核心：根据 use_weight 决定 data 是 1 还是来自 weight ---
+        if weight:
+            data = sub["weight"].to_numpy(dtype=float)
+        else:
+            data = np.ones(len(sub), dtype=float)
+
         A = sparse.coo_matrix((data, (ui, vi)), shape=(N, N))
 
         if not directed:
             A = A + A.T
             A.setdiag(0)
             A.eliminate_zeros()
+
         A_list.append(A.toarray())
 
     return A_list, layers_out, node_index
-
 
 def call_genlouvain(
     A_list: List[np.ndarray],
@@ -185,17 +204,21 @@ def call_genlouvain(
 
 
 def genlouvain_communities(
-    input_csv: str,
+    input_data: str | pd.DataFrame,
     output_csv: str = None,
     omega: float = 1.0,
     gamma: float | List[float] | np.ndarray = 1.0,
     directed: bool = False,
+    weight: bool = False,
     random_state: int | None = None,
     algorithm: str = "naive",
 ) -> None:
+    if type(input_data) == str:
+        df = pd.read_csv(input_data)
+    else:
+        df = input_data
 
-    df = pd.read_csv(input_csv)
-    A_list, layers, node_index = build_multilayer_adjacency(df, directed=directed)
+    A_list, layers, node_index = build_multilayer_adjacency(df, directed=directed, weight=weight)
 
     S = call_genlouvain(
         A_list=A_list,
@@ -214,7 +237,7 @@ def genlouvain_communities(
         for i in range(N):
             rows.append({
                 "node_id": nodes_by_index[i],
-                "layer": int(layer),
+                "layer": str(layer),
                 "community": int(S[i, t_idx]),
             })
     out_df = pd.DataFrame(rows, columns=["node_id", "layer", "community"])

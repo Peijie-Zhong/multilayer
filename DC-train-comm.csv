@@ -1,0 +1,4607 @@
+node_id,layer,community
+Addison Road-Seat Pleasant,2025-09-22 00:00:00,1
+Anacostia,2025-09-22 00:00:00,4
+Archives-Navy Memorial-Penn Quarter,2025-09-22 00:00:00,3
+Arlington Cemetery,2025-09-22 00:00:00,3
+Ashburn,2025-09-22 00:00:00,1
+Ballston-MU,2025-09-22 00:00:00,1
+Benning Road,2025-09-22 00:00:00,1
+Bethesda,2025-09-22 00:00:00,2
+Braddock Road,2025-09-22 00:00:00,3
+Branch Ave,2025-09-22 00:00:00,3
+Brookland-CUA,2025-09-22 00:00:00,2
+Capitol Heights,2025-09-22 00:00:00,1
+Capitol South,2025-09-22 00:00:00,1
+Cheverly,2025-09-22 00:00:00,1
+Clarendon,2025-09-22 00:00:00,1
+Cleveland Park,2025-09-22 00:00:00,2
+College Park-U of Md,2025-09-22 00:00:00,4
+Columbia Heights,2025-09-22 00:00:00,4
+Congress Heights,2025-09-22 00:00:00,4
+Court House,2025-09-22 00:00:00,1
+Crystal City,2025-09-22 00:00:00,3
+Deanwood,2025-09-22 00:00:00,1
+Downtown Largo,2025-09-22 00:00:00,1
+Dunn Loring-Merrifield,2025-09-22 00:00:00,1
+Dupont Circle,2025-09-22 00:00:00,2
+East Falls Church,2025-09-22 00:00:00,1
+Eastern Market,2025-09-22 00:00:00,1
+Eisenhower Ave,2025-09-22 00:00:00,3
+Farragut North,2025-09-22 00:00:00,2
+Farragut West,2025-09-22 00:00:00,1
+Federal Center SW,2025-09-22 00:00:00,1
+Federal Triangle,2025-09-22 00:00:00,1
+Foggy Bottom-GWU,2025-09-22 00:00:00,1
+Forest Glen,2025-09-22 00:00:00,2
+Fort Totten,2025-09-22 00:00:00,4
+Franconia-Springfield,2025-09-22 00:00:00,3
+Friendship Heights,2025-09-22 00:00:00,2
+Gallery Pl-Chinatown,2025-09-22 00:00:00,4
+Georgia Ave-Petworth,2025-09-22 00:00:00,4
+Glenmont,2025-09-22 00:00:00,2
+Greenbelt,2025-09-22 00:00:00,4
+Greensboro,2025-09-22 00:00:00,1
+Grosvenor-Strathmore,2025-09-22 00:00:00,2
+Herndon,2025-09-22 00:00:00,1
+Huntington,2025-09-22 00:00:00,3
+Hyattsville Crossing,2025-09-22 00:00:00,4
+Innovation Center,2025-09-22 00:00:00,1
+Judiciary Square,2025-09-22 00:00:00,2
+King St-Old Town,2025-09-22 00:00:00,3
+L'Enfant Plaza,2025-09-22 00:00:00,3
+Landover,2025-09-22 00:00:00,1
+Loudoun Gateway,2025-09-22 00:00:00,1
+McLean,2025-09-22 00:00:00,1
+McPherson Sq,2025-09-22 00:00:00,1
+Medical Center,2025-09-22 00:00:00,2
+Metro Center,2025-09-22 00:00:00,2
+Minnesota Ave,2025-09-22 00:00:00,1
+Morgan Boulevard,2025-09-22 00:00:00,1
+Mt Vernon Sq 7th St-Convention Center,2025-09-22 00:00:00,4
+Navy Yard-Ballpark,2025-09-22 00:00:00,4
+Naylor Road,2025-09-22 00:00:00,4
+New Carrollton,2025-09-22 00:00:00,1
+NoMa-Gallaudet U,2025-09-22 00:00:00,2
+North Bethesda,2025-09-22 00:00:00,2
+Pentagon,2025-09-22 00:00:00,3
+Pentagon City,2025-09-22 00:00:00,3
+Potomac Ave,2025-09-22 00:00:00,1
+Potomac Yard,2025-09-22 00:00:00,3
+Reston Town Center,2025-09-22 00:00:00,1
+"Rhode Island Ave-Brentwood,",2025-09-22 00:00:00,2
+Rockville,2025-09-22 00:00:00,2
+Ronald Reagan Washington National Airport,2025-09-22 00:00:00,3
+Rosslyn,2025-09-22 00:00:00,1
+Shady Grove,2025-09-22 00:00:00,2
+Shaw-Howard U,2025-09-22 00:00:00,4
+Silver Spring,2025-09-22 00:00:00,2
+Smithsonian,2025-09-22 00:00:00,1
+Southern Avenue,2025-09-22 00:00:00,4
+Spring Hill,2025-09-22 00:00:00,1
+Stadium-Armory,2025-09-22 00:00:00,1
+Suitland,2025-09-22 00:00:00,4
+Takoma,2025-09-22 00:00:00,2
+Tenleytown-AU,2025-09-22 00:00:00,2
+Twinbrook,2025-09-22 00:00:00,2
+Tysons,2025-09-22 00:00:00,1
+U Street/African-Amer Civil War Memorial/Cardozo,2025-09-22 00:00:00,4
+Union Station,2025-09-22 00:00:00,2
+Van Dorn Street,2025-09-22 00:00:00,3
+Van Ness-UDC,2025-09-22 00:00:00,2
+Vienna/Fairfax-GMU,2025-09-22 00:00:00,1
+Virginia Square-GMU,2025-09-22 00:00:00,1
+Washington Dulles International Airport,2025-09-22 00:00:00,1
+Waterfront,2025-09-22 00:00:00,4
+West Falls Church,2025-09-22 00:00:00,1
+West Hyattsville,2025-09-22 00:00:00,4
+Wheaton,2025-09-22 00:00:00,2
+Wiehle-Reston East,2025-09-22 00:00:00,1
+Woodley Park-Zoo/Adams Morgan,2025-09-22 00:00:00,2
+Addison Road-Seat Pleasant,2025-09-23 00:00:00,1
+Anacostia,2025-09-23 00:00:00,4
+Archives-Navy Memorial-Penn Quarter,2025-09-23 00:00:00,4
+Arlington Cemetery,2025-09-23 00:00:00,4
+Ashburn,2025-09-23 00:00:00,1
+Ballston-MU,2025-09-23 00:00:00,1
+Benning Road,2025-09-23 00:00:00,1
+Bethesda,2025-09-23 00:00:00,2
+Braddock Road,2025-09-23 00:00:00,4
+Branch Ave,2025-09-23 00:00:00,4
+Brookland-CUA,2025-09-23 00:00:00,2
+Capitol Heights,2025-09-23 00:00:00,1
+Capitol South,2025-09-23 00:00:00,1
+Cheverly,2025-09-23 00:00:00,1
+Clarendon,2025-09-23 00:00:00,1
+Cleveland Park,2025-09-23 00:00:00,2
+College Park-U of Md,2025-09-23 00:00:00,4
+Columbia Heights,2025-09-23 00:00:00,4
+Congress Heights,2025-09-23 00:00:00,4
+Court House,2025-09-23 00:00:00,1
+Crystal City,2025-09-23 00:00:00,4
+Deanwood,2025-09-23 00:00:00,1
+Downtown Largo,2025-09-23 00:00:00,1
+Dunn Loring-Merrifield,2025-09-23 00:00:00,1
+Dupont Circle,2025-09-23 00:00:00,2
+East Falls Church,2025-09-23 00:00:00,1
+Eastern Market,2025-09-23 00:00:00,1
+Eisenhower Ave,2025-09-23 00:00:00,4
+Farragut North,2025-09-23 00:00:00,2
+Farragut West,2025-09-23 00:00:00,1
+Federal Center SW,2025-09-23 00:00:00,1
+Federal Triangle,2025-09-23 00:00:00,1
+Foggy Bottom-GWU,2025-09-23 00:00:00,1
+Forest Glen,2025-09-23 00:00:00,2
+Fort Totten,2025-09-23 00:00:00,2
+Franconia-Springfield,2025-09-23 00:00:00,4
+Friendship Heights,2025-09-23 00:00:00,2
+Gallery Pl-Chinatown,2025-09-23 00:00:00,4
+Georgia Ave-Petworth,2025-09-23 00:00:00,4
+Glenmont,2025-09-23 00:00:00,2
+Greenbelt,2025-09-23 00:00:00,4
+Greensboro,2025-09-23 00:00:00,1
+Grosvenor-Strathmore,2025-09-23 00:00:00,2
+Herndon,2025-09-23 00:00:00,1
+Huntington,2025-09-23 00:00:00,4
+Hyattsville Crossing,2025-09-23 00:00:00,4
+Innovation Center,2025-09-23 00:00:00,1
+Judiciary Square,2025-09-23 00:00:00,2
+King St-Old Town,2025-09-23 00:00:00,4
+L'Enfant Plaza,2025-09-23 00:00:00,4
+Landover,2025-09-23 00:00:00,1
+Loudoun Gateway,2025-09-23 00:00:00,1
+McLean,2025-09-23 00:00:00,1
+McPherson Sq,2025-09-23 00:00:00,1
+Medical Center,2025-09-23 00:00:00,2
+Metro Center,2025-09-23 00:00:00,2
+Minnesota Ave,2025-09-23 00:00:00,1
+Morgan Boulevard,2025-09-23 00:00:00,1
+Mt Vernon Sq 7th St-Convention Center,2025-09-23 00:00:00,4
+Navy Yard-Ballpark,2025-09-23 00:00:00,4
+Naylor Road,2025-09-23 00:00:00,4
+New Carrollton,2025-09-23 00:00:00,1
+NoMa-Gallaudet U,2025-09-23 00:00:00,2
+North Bethesda,2025-09-23 00:00:00,2
+Pentagon,2025-09-23 00:00:00,4
+Pentagon City,2025-09-23 00:00:00,4
+Potomac Ave,2025-09-23 00:00:00,1
+Potomac Yard,2025-09-23 00:00:00,4
+Reston Town Center,2025-09-23 00:00:00,1
+"Rhode Island Ave-Brentwood,",2025-09-23 00:00:00,2
+Rockville,2025-09-23 00:00:00,2
+Ronald Reagan Washington National Airport,2025-09-23 00:00:00,4
+Rosslyn,2025-09-23 00:00:00,1
+Shady Grove,2025-09-23 00:00:00,2
+Shaw-Howard U,2025-09-23 00:00:00,4
+Silver Spring,2025-09-23 00:00:00,2
+Smithsonian,2025-09-23 00:00:00,1
+Southern Avenue,2025-09-23 00:00:00,4
+Spring Hill,2025-09-23 00:00:00,1
+Stadium-Armory,2025-09-23 00:00:00,1
+Suitland,2025-09-23 00:00:00,4
+Takoma,2025-09-23 00:00:00,2
+Tenleytown-AU,2025-09-23 00:00:00,2
+Twinbrook,2025-09-23 00:00:00,2
+Tysons,2025-09-23 00:00:00,1
+U Street/African-Amer Civil War Memorial/Cardozo,2025-09-23 00:00:00,4
+Union Station,2025-09-23 00:00:00,2
+Van Dorn Street,2025-09-23 00:00:00,4
+Van Ness-UDC,2025-09-23 00:00:00,2
+Vienna/Fairfax-GMU,2025-09-23 00:00:00,1
+Virginia Square-GMU,2025-09-23 00:00:00,1
+Washington Dulles International Airport,2025-09-23 00:00:00,1
+Waterfront,2025-09-23 00:00:00,4
+West Falls Church,2025-09-23 00:00:00,1
+West Hyattsville,2025-09-23 00:00:00,4
+Wheaton,2025-09-23 00:00:00,2
+Wiehle-Reston East,2025-09-23 00:00:00,1
+Woodley Park-Zoo/Adams Morgan,2025-09-23 00:00:00,2
+Addison Road-Seat Pleasant,2025-09-24 00:00:00,1
+Anacostia,2025-09-24 00:00:00,4
+Archives-Navy Memorial-Penn Quarter,2025-09-24 00:00:00,4
+Arlington Cemetery,2025-09-24 00:00:00,4
+Ashburn,2025-09-24 00:00:00,1
+Ballston-MU,2025-09-24 00:00:00,1
+Benning Road,2025-09-24 00:00:00,1
+Bethesda,2025-09-24 00:00:00,2
+Braddock Road,2025-09-24 00:00:00,4
+Branch Ave,2025-09-24 00:00:00,4
+Brookland-CUA,2025-09-24 00:00:00,2
+Capitol Heights,2025-09-24 00:00:00,1
+Capitol South,2025-09-24 00:00:00,1
+Cheverly,2025-09-24 00:00:00,1
+Clarendon,2025-09-24 00:00:00,1
+Cleveland Park,2025-09-24 00:00:00,2
+College Park-U of Md,2025-09-24 00:00:00,4
+Columbia Heights,2025-09-24 00:00:00,4
+Congress Heights,2025-09-24 00:00:00,4
+Court House,2025-09-24 00:00:00,1
+Crystal City,2025-09-24 00:00:00,4
+Deanwood,2025-09-24 00:00:00,1
+Downtown Largo,2025-09-24 00:00:00,1
+Dunn Loring-Merrifield,2025-09-24 00:00:00,1
+Dupont Circle,2025-09-24 00:00:00,2
+East Falls Church,2025-09-24 00:00:00,1
+Eastern Market,2025-09-24 00:00:00,1
+Eisenhower Ave,2025-09-24 00:00:00,4
+Farragut North,2025-09-24 00:00:00,2
+Farragut West,2025-09-24 00:00:00,1
+Federal Center SW,2025-09-24 00:00:00,1
+Federal Triangle,2025-09-24 00:00:00,1
+Foggy Bottom-GWU,2025-09-24 00:00:00,1
+Forest Glen,2025-09-24 00:00:00,2
+Fort Totten,2025-09-24 00:00:00,2
+Franconia-Springfield,2025-09-24 00:00:00,4
+Friendship Heights,2025-09-24 00:00:00,2
+Gallery Pl-Chinatown,2025-09-24 00:00:00,4
+Georgia Ave-Petworth,2025-09-24 00:00:00,4
+Glenmont,2025-09-24 00:00:00,2
+Greenbelt,2025-09-24 00:00:00,4
+Greensboro,2025-09-24 00:00:00,1
+Grosvenor-Strathmore,2025-09-24 00:00:00,2
+Herndon,2025-09-24 00:00:00,1
+Huntington,2025-09-24 00:00:00,4
+Hyattsville Crossing,2025-09-24 00:00:00,4
+Innovation Center,2025-09-24 00:00:00,1
+Judiciary Square,2025-09-24 00:00:00,2
+King St-Old Town,2025-09-24 00:00:00,4
+L'Enfant Plaza,2025-09-24 00:00:00,4
+Landover,2025-09-24 00:00:00,1
+Loudoun Gateway,2025-09-24 00:00:00,1
+McLean,2025-09-24 00:00:00,1
+McPherson Sq,2025-09-24 00:00:00,1
+Medical Center,2025-09-24 00:00:00,2
+Metro Center,2025-09-24 00:00:00,2
+Minnesota Ave,2025-09-24 00:00:00,1
+Morgan Boulevard,2025-09-24 00:00:00,1
+Mt Vernon Sq 7th St-Convention Center,2025-09-24 00:00:00,4
+Navy Yard-Ballpark,2025-09-24 00:00:00,4
+Naylor Road,2025-09-24 00:00:00,4
+New Carrollton,2025-09-24 00:00:00,1
+NoMa-Gallaudet U,2025-09-24 00:00:00,2
+North Bethesda,2025-09-24 00:00:00,2
+Pentagon,2025-09-24 00:00:00,4
+Pentagon City,2025-09-24 00:00:00,4
+Potomac Ave,2025-09-24 00:00:00,1
+Potomac Yard,2025-09-24 00:00:00,4
+Reston Town Center,2025-09-24 00:00:00,1
+"Rhode Island Ave-Brentwood,",2025-09-24 00:00:00,2
+Rockville,2025-09-24 00:00:00,2
+Ronald Reagan Washington National Airport,2025-09-24 00:00:00,4
+Rosslyn,2025-09-24 00:00:00,1
+Shady Grove,2025-09-24 00:00:00,2
+Shaw-Howard U,2025-09-24 00:00:00,4
+Silver Spring,2025-09-24 00:00:00,2
+Smithsonian,2025-09-24 00:00:00,1
+Southern Avenue,2025-09-24 00:00:00,4
+Spring Hill,2025-09-24 00:00:00,1
+Stadium-Armory,2025-09-24 00:00:00,1
+Suitland,2025-09-24 00:00:00,4
+Takoma,2025-09-24 00:00:00,2
+Tenleytown-AU,2025-09-24 00:00:00,2
+Twinbrook,2025-09-24 00:00:00,2
+Tysons,2025-09-24 00:00:00,1
+U Street/African-Amer Civil War Memorial/Cardozo,2025-09-24 00:00:00,4
+Union Station,2025-09-24 00:00:00,2
+Van Dorn Street,2025-09-24 00:00:00,4
+Van Ness-UDC,2025-09-24 00:00:00,2
+Vienna/Fairfax-GMU,2025-09-24 00:00:00,1
+Virginia Square-GMU,2025-09-24 00:00:00,1
+Washington Dulles International Airport,2025-09-24 00:00:00,1
+Waterfront,2025-09-24 00:00:00,4
+West Falls Church,2025-09-24 00:00:00,1
+West Hyattsville,2025-09-24 00:00:00,4
+Wheaton,2025-09-24 00:00:00,2
+Wiehle-Reston East,2025-09-24 00:00:00,1
+Woodley Park-Zoo/Adams Morgan,2025-09-24 00:00:00,2
+Addison Road-Seat Pleasant,2025-09-25 00:00:00,1
+Anacostia,2025-09-25 00:00:00,4
+Archives-Navy Memorial-Penn Quarter,2025-09-25 00:00:00,4
+Arlington Cemetery,2025-09-25 00:00:00,4
+Ashburn,2025-09-25 00:00:00,1
+Ballston-MU,2025-09-25 00:00:00,1
+Benning Road,2025-09-25 00:00:00,1
+Bethesda,2025-09-25 00:00:00,2
+Braddock Road,2025-09-25 00:00:00,4
+Branch Ave,2025-09-25 00:00:00,4
+Brookland-CUA,2025-09-25 00:00:00,2
+Capitol Heights,2025-09-25 00:00:00,1
+Capitol South,2025-09-25 00:00:00,1
+Cheverly,2025-09-25 00:00:00,1
+Clarendon,2025-09-25 00:00:00,1
+Cleveland Park,2025-09-25 00:00:00,2
+College Park-U of Md,2025-09-25 00:00:00,4
+Columbia Heights,2025-09-25 00:00:00,4
+Congress Heights,2025-09-25 00:00:00,4
+Court House,2025-09-25 00:00:00,1
+Crystal City,2025-09-25 00:00:00,4
+Deanwood,2025-09-25 00:00:00,1
+Downtown Largo,2025-09-25 00:00:00,1
+Dunn Loring-Merrifield,2025-09-25 00:00:00,1
+Dupont Circle,2025-09-25 00:00:00,2
+East Falls Church,2025-09-25 00:00:00,1
+Eastern Market,2025-09-25 00:00:00,1
+Eisenhower Ave,2025-09-25 00:00:00,4
+Farragut North,2025-09-25 00:00:00,2
+Farragut West,2025-09-25 00:00:00,1
+Federal Center SW,2025-09-25 00:00:00,1
+Federal Triangle,2025-09-25 00:00:00,1
+Foggy Bottom-GWU,2025-09-25 00:00:00,1
+Forest Glen,2025-09-25 00:00:00,2
+Fort Totten,2025-09-25 00:00:00,2
+Franconia-Springfield,2025-09-25 00:00:00,4
+Friendship Heights,2025-09-25 00:00:00,2
+Gallery Pl-Chinatown,2025-09-25 00:00:00,4
+Georgia Ave-Petworth,2025-09-25 00:00:00,4
+Glenmont,2025-09-25 00:00:00,2
+Greenbelt,2025-09-25 00:00:00,4
+Greensboro,2025-09-25 00:00:00,1
+Grosvenor-Strathmore,2025-09-25 00:00:00,2
+Herndon,2025-09-25 00:00:00,1
+Huntington,2025-09-25 00:00:00,4
+Hyattsville Crossing,2025-09-25 00:00:00,4
+Innovation Center,2025-09-25 00:00:00,1
+Judiciary Square,2025-09-25 00:00:00,2
+King St-Old Town,2025-09-25 00:00:00,4
+L'Enfant Plaza,2025-09-25 00:00:00,4
+Landover,2025-09-25 00:00:00,1
+Loudoun Gateway,2025-09-25 00:00:00,1
+McLean,2025-09-25 00:00:00,1
+McPherson Sq,2025-09-25 00:00:00,1
+Medical Center,2025-09-25 00:00:00,2
+Metro Center,2025-09-25 00:00:00,2
+Minnesota Ave,2025-09-25 00:00:00,1
+Morgan Boulevard,2025-09-25 00:00:00,1
+Mt Vernon Sq 7th St-Convention Center,2025-09-25 00:00:00,4
+Navy Yard-Ballpark,2025-09-25 00:00:00,4
+Naylor Road,2025-09-25 00:00:00,4
+New Carrollton,2025-09-25 00:00:00,1
+NoMa-Gallaudet U,2025-09-25 00:00:00,2
+North Bethesda,2025-09-25 00:00:00,2
+Pentagon,2025-09-25 00:00:00,4
+Pentagon City,2025-09-25 00:00:00,4
+Potomac Ave,2025-09-25 00:00:00,1
+Potomac Yard,2025-09-25 00:00:00,4
+Reston Town Center,2025-09-25 00:00:00,1
+"Rhode Island Ave-Brentwood,",2025-09-25 00:00:00,2
+Rockville,2025-09-25 00:00:00,2
+Ronald Reagan Washington National Airport,2025-09-25 00:00:00,4
+Rosslyn,2025-09-25 00:00:00,1
+Shady Grove,2025-09-25 00:00:00,2
+Shaw-Howard U,2025-09-25 00:00:00,4
+Silver Spring,2025-09-25 00:00:00,2
+Smithsonian,2025-09-25 00:00:00,1
+Southern Avenue,2025-09-25 00:00:00,4
+Spring Hill,2025-09-25 00:00:00,1
+Stadium-Armory,2025-09-25 00:00:00,1
+Suitland,2025-09-25 00:00:00,4
+Takoma,2025-09-25 00:00:00,2
+Tenleytown-AU,2025-09-25 00:00:00,2
+Twinbrook,2025-09-25 00:00:00,2
+Tysons,2025-09-25 00:00:00,1
+U Street/African-Amer Civil War Memorial/Cardozo,2025-09-25 00:00:00,4
+Union Station,2025-09-25 00:00:00,2
+Van Dorn Street,2025-09-25 00:00:00,4
+Van Ness-UDC,2025-09-25 00:00:00,2
+Vienna/Fairfax-GMU,2025-09-25 00:00:00,1
+Virginia Square-GMU,2025-09-25 00:00:00,1
+Washington Dulles International Airport,2025-09-25 00:00:00,1
+Waterfront,2025-09-25 00:00:00,4
+West Falls Church,2025-09-25 00:00:00,1
+West Hyattsville,2025-09-25 00:00:00,4
+Wheaton,2025-09-25 00:00:00,2
+Wiehle-Reston East,2025-09-25 00:00:00,1
+Woodley Park-Zoo/Adams Morgan,2025-09-25 00:00:00,2
+Addison Road-Seat Pleasant,2025-09-26 00:00:00,1
+Anacostia,2025-09-26 00:00:00,5
+Archives-Navy Memorial-Penn Quarter,2025-09-26 00:00:00,5
+Arlington Cemetery,2025-09-26 00:00:00,4
+Ashburn,2025-09-26 00:00:00,1
+Ballston-MU,2025-09-26 00:00:00,1
+Benning Road,2025-09-26 00:00:00,1
+Bethesda,2025-09-26 00:00:00,2
+Braddock Road,2025-09-26 00:00:00,4
+Branch Ave,2025-09-26 00:00:00,5
+Brookland-CUA,2025-09-26 00:00:00,2
+Capitol Heights,2025-09-26 00:00:00,1
+Capitol South,2025-09-26 00:00:00,1
+Cheverly,2025-09-26 00:00:00,1
+Clarendon,2025-09-26 00:00:00,1
+Cleveland Park,2025-09-26 00:00:00,2
+College Park-U of Md,2025-09-26 00:00:00,5
+Columbia Heights,2025-09-26 00:00:00,5
+Congress Heights,2025-09-26 00:00:00,5
+Court House,2025-09-26 00:00:00,1
+Crystal City,2025-09-26 00:00:00,4
+Deanwood,2025-09-26 00:00:00,1
+Downtown Largo,2025-09-26 00:00:00,1
+Dunn Loring-Merrifield,2025-09-26 00:00:00,1
+Dupont Circle,2025-09-26 00:00:00,2
+East Falls Church,2025-09-26 00:00:00,1
+Eastern Market,2025-09-26 00:00:00,1
+Eisenhower Ave,2025-09-26 00:00:00,4
+Farragut North,2025-09-26 00:00:00,2
+Farragut West,2025-09-26 00:00:00,1
+Federal Center SW,2025-09-26 00:00:00,1
+Federal Triangle,2025-09-26 00:00:00,1
+Foggy Bottom-GWU,2025-09-26 00:00:00,1
+Forest Glen,2025-09-26 00:00:00,2
+Fort Totten,2025-09-26 00:00:00,5
+Franconia-Springfield,2025-09-26 00:00:00,4
+Friendship Heights,2025-09-26 00:00:00,2
+Gallery Pl-Chinatown,2025-09-26 00:00:00,5
+Georgia Ave-Petworth,2025-09-26 00:00:00,5
+Glenmont,2025-09-26 00:00:00,2
+Greenbelt,2025-09-26 00:00:00,5
+Greensboro,2025-09-26 00:00:00,1
+Grosvenor-Strathmore,2025-09-26 00:00:00,2
+Herndon,2025-09-26 00:00:00,1
+Huntington,2025-09-26 00:00:00,4
+Hyattsville Crossing,2025-09-26 00:00:00,5
+Innovation Center,2025-09-26 00:00:00,1
+Judiciary Square,2025-09-26 00:00:00,2
+King St-Old Town,2025-09-26 00:00:00,4
+L'Enfant Plaza,2025-09-26 00:00:00,4
+Landover,2025-09-26 00:00:00,1
+Loudoun Gateway,2025-09-26 00:00:00,1
+McLean,2025-09-26 00:00:00,1
+McPherson Sq,2025-09-26 00:00:00,1
+Medical Center,2025-09-26 00:00:00,2
+Metro Center,2025-09-26 00:00:00,2
+Minnesota Ave,2025-09-26 00:00:00,1
+Morgan Boulevard,2025-09-26 00:00:00,1
+Mt Vernon Sq 7th St-Convention Center,2025-09-26 00:00:00,5
+Navy Yard-Ballpark,2025-09-26 00:00:00,5
+Naylor Road,2025-09-26 00:00:00,5
+New Carrollton,2025-09-26 00:00:00,1
+NoMa-Gallaudet U,2025-09-26 00:00:00,2
+North Bethesda,2025-09-26 00:00:00,2
+Pentagon,2025-09-26 00:00:00,4
+Pentagon City,2025-09-26 00:00:00,4
+Potomac Ave,2025-09-26 00:00:00,1
+Potomac Yard,2025-09-26 00:00:00,4
+Reston Town Center,2025-09-26 00:00:00,1
+"Rhode Island Ave-Brentwood,",2025-09-26 00:00:00,2
+Rockville,2025-09-26 00:00:00,2
+Ronald Reagan Washington National Airport,2025-09-26 00:00:00,4
+Rosslyn,2025-09-26 00:00:00,1
+Shady Grove,2025-09-26 00:00:00,2
+Shaw-Howard U,2025-09-26 00:00:00,5
+Silver Spring,2025-09-26 00:00:00,2
+Smithsonian,2025-09-26 00:00:00,1
+Southern Avenue,2025-09-26 00:00:00,5
+Spring Hill,2025-09-26 00:00:00,1
+Stadium-Armory,2025-09-26 00:00:00,1
+Suitland,2025-09-26 00:00:00,5
+Takoma,2025-09-26 00:00:00,2
+Tenleytown-AU,2025-09-26 00:00:00,2
+Twinbrook,2025-09-26 00:00:00,2
+Tysons,2025-09-26 00:00:00,1
+U Street/African-Amer Civil War Memorial/Cardozo,2025-09-26 00:00:00,5
+Union Station,2025-09-26 00:00:00,2
+Van Dorn Street,2025-09-26 00:00:00,4
+Van Ness-UDC,2025-09-26 00:00:00,2
+Vienna/Fairfax-GMU,2025-09-26 00:00:00,1
+Virginia Square-GMU,2025-09-26 00:00:00,1
+Washington Dulles International Airport,2025-09-26 00:00:00,1
+Waterfront,2025-09-26 00:00:00,5
+West Falls Church,2025-09-26 00:00:00,1
+West Hyattsville,2025-09-26 00:00:00,5
+Wheaton,2025-09-26 00:00:00,2
+Wiehle-Reston East,2025-09-26 00:00:00,1
+Woodley Park-Zoo/Adams Morgan,2025-09-26 00:00:00,2
+Addison Road-Seat Pleasant,2025-09-27 00:00:00,6
+Anacostia,2025-09-27 00:00:00,5
+Archives-Navy Memorial-Penn Quarter,2025-09-27 00:00:00,5
+Arlington Cemetery,2025-09-27 00:00:00,1
+Ashburn,2025-09-27 00:00:00,1
+Ballston-MU,2025-09-27 00:00:00,1
+Benning Road,2025-09-27 00:00:00,6
+Bethesda,2025-09-27 00:00:00,2
+Braddock Road,2025-09-27 00:00:00,5
+Branch Ave,2025-09-27 00:00:00,5
+Brookland-CUA,2025-09-27 00:00:00,2
+Capitol Heights,2025-09-27 00:00:00,6
+Capitol South,2025-09-27 00:00:00,6
+Cheverly,2025-09-27 00:00:00,6
+Clarendon,2025-09-27 00:00:00,1
+Cleveland Park,2025-09-27 00:00:00,2
+College Park-U of Md,2025-09-27 00:00:00,5
+Columbia Heights,2025-09-27 00:00:00,5
+Congress Heights,2025-09-27 00:00:00,5
+Court House,2025-09-27 00:00:00,1
+Crystal City,2025-09-27 00:00:00,5
+Deanwood,2025-09-27 00:00:00,6
+Downtown Largo,2025-09-27 00:00:00,6
+Dunn Loring-Merrifield,2025-09-27 00:00:00,1
+Dupont Circle,2025-09-27 00:00:00,2
+East Falls Church,2025-09-27 00:00:00,1
+Eastern Market,2025-09-27 00:00:00,6
+Eisenhower Ave,2025-09-27 00:00:00,5
+Farragut North,2025-09-27 00:00:00,2
+Farragut West,2025-09-27 00:00:00,6
+Federal Center SW,2025-09-27 00:00:00,6
+Federal Triangle,2025-09-27 00:00:00,6
+Foggy Bottom-GWU,2025-09-27 00:00:00,6
+Forest Glen,2025-09-27 00:00:00,2
+Fort Totten,2025-09-27 00:00:00,5
+Franconia-Springfield,2025-09-27 00:00:00,5
+Friendship Heights,2025-09-27 00:00:00,2
+Gallery Pl-Chinatown,2025-09-27 00:00:00,5
+Georgia Ave-Petworth,2025-09-27 00:00:00,5
+Glenmont,2025-09-27 00:00:00,2
+Greenbelt,2025-09-27 00:00:00,5
+Greensboro,2025-09-27 00:00:00,1
+Grosvenor-Strathmore,2025-09-27 00:00:00,2
+Herndon,2025-09-27 00:00:00,1
+Huntington,2025-09-27 00:00:00,5
+Hyattsville Crossing,2025-09-27 00:00:00,5
+Innovation Center,2025-09-27 00:00:00,1
+Judiciary Square,2025-09-27 00:00:00,2
+King St-Old Town,2025-09-27 00:00:00,5
+L'Enfant Plaza,2025-09-27 00:00:00,5
+Landover,2025-09-27 00:00:00,6
+Loudoun Gateway,2025-09-27 00:00:00,1
+McLean,2025-09-27 00:00:00,1
+McPherson Sq,2025-09-27 00:00:00,6
+Medical Center,2025-09-27 00:00:00,2
+Metro Center,2025-09-27 00:00:00,2
+Minnesota Ave,2025-09-27 00:00:00,6
+Morgan Boulevard,2025-09-27 00:00:00,6
+Mt Vernon Sq 7th St-Convention Center,2025-09-27 00:00:00,5
+Navy Yard-Ballpark,2025-09-27 00:00:00,5
+Naylor Road,2025-09-27 00:00:00,5
+New Carrollton,2025-09-27 00:00:00,6
+NoMa-Gallaudet U,2025-09-27 00:00:00,2
+North Bethesda,2025-09-27 00:00:00,2
+Pentagon,2025-09-27 00:00:00,5
+Pentagon City,2025-09-27 00:00:00,5
+Potomac Ave,2025-09-27 00:00:00,6
+Potomac Yard,2025-09-27 00:00:00,5
+Reston Town Center,2025-09-27 00:00:00,1
+"Rhode Island Ave-Brentwood,",2025-09-27 00:00:00,2
+Rockville,2025-09-27 00:00:00,2
+Ronald Reagan Washington National Airport,2025-09-27 00:00:00,5
+Rosslyn,2025-09-27 00:00:00,1
+Shady Grove,2025-09-27 00:00:00,2
+Shaw-Howard U,2025-09-27 00:00:00,5
+Silver Spring,2025-09-27 00:00:00,2
+Smithsonian,2025-09-27 00:00:00,6
+Southern Avenue,2025-09-27 00:00:00,5
+Spring Hill,2025-09-27 00:00:00,1
+Stadium-Armory,2025-09-27 00:00:00,6
+Suitland,2025-09-27 00:00:00,5
+Takoma,2025-09-27 00:00:00,2
+Tenleytown-AU,2025-09-27 00:00:00,2
+Twinbrook,2025-09-27 00:00:00,2
+Tysons,2025-09-27 00:00:00,1
+U Street/African-Amer Civil War Memorial/Cardozo,2025-09-27 00:00:00,5
+Union Station,2025-09-27 00:00:00,2
+Van Dorn Street,2025-09-27 00:00:00,5
+Van Ness-UDC,2025-09-27 00:00:00,2
+Vienna/Fairfax-GMU,2025-09-27 00:00:00,1
+Virginia Square-GMU,2025-09-27 00:00:00,1
+Washington Dulles International Airport,2025-09-27 00:00:00,1
+Waterfront,2025-09-27 00:00:00,5
+West Falls Church,2025-09-27 00:00:00,1
+West Hyattsville,2025-09-27 00:00:00,5
+Wheaton,2025-09-27 00:00:00,2
+Wiehle-Reston East,2025-09-27 00:00:00,1
+Woodley Park-Zoo/Adams Morgan,2025-09-27 00:00:00,2
+Addison Road-Seat Pleasant,2025-09-28 00:00:00,6
+Anacostia,2025-09-28 00:00:00,7
+Archives-Navy Memorial-Penn Quarter,2025-09-28 00:00:00,7
+Arlington Cemetery,2025-09-28 00:00:00,1
+Ashburn,2025-09-28 00:00:00,1
+Ballston-MU,2025-09-28 00:00:00,1
+Benning Road,2025-09-28 00:00:00,6
+Bethesda,2025-09-28 00:00:00,2
+Braddock Road,2025-09-28 00:00:00,5
+Branch Ave,2025-09-28 00:00:00,7
+Brookland-CUA,2025-09-28 00:00:00,2
+Capitol Heights,2025-09-28 00:00:00,6
+Capitol South,2025-09-28 00:00:00,6
+Cheverly,2025-09-28 00:00:00,6
+Clarendon,2025-09-28 00:00:00,1
+Cleveland Park,2025-09-28 00:00:00,2
+College Park-U of Md,2025-09-28 00:00:00,7
+Columbia Heights,2025-09-28 00:00:00,7
+Congress Heights,2025-09-28 00:00:00,7
+Court House,2025-09-28 00:00:00,1
+Crystal City,2025-09-28 00:00:00,5
+Deanwood,2025-09-28 00:00:00,6
+Downtown Largo,2025-09-28 00:00:00,6
+Dunn Loring-Merrifield,2025-09-28 00:00:00,1
+Dupont Circle,2025-09-28 00:00:00,2
+East Falls Church,2025-09-28 00:00:00,1
+Eastern Market,2025-09-28 00:00:00,6
+Eisenhower Ave,2025-09-28 00:00:00,5
+Farragut North,2025-09-28 00:00:00,2
+Farragut West,2025-09-28 00:00:00,6
+Federal Center SW,2025-09-28 00:00:00,6
+Federal Triangle,2025-09-28 00:00:00,6
+Foggy Bottom-GWU,2025-09-28 00:00:00,6
+Forest Glen,2025-09-28 00:00:00,2
+Fort Totten,2025-09-28 00:00:00,7
+Franconia-Springfield,2025-09-28 00:00:00,5
+Friendship Heights,2025-09-28 00:00:00,2
+Gallery Pl-Chinatown,2025-09-28 00:00:00,2
+Georgia Ave-Petworth,2025-09-28 00:00:00,7
+Glenmont,2025-09-28 00:00:00,2
+Greenbelt,2025-09-28 00:00:00,7
+Greensboro,2025-09-28 00:00:00,1
+Grosvenor-Strathmore,2025-09-28 00:00:00,2
+Herndon,2025-09-28 00:00:00,1
+Huntington,2025-09-28 00:00:00,5
+Hyattsville Crossing,2025-09-28 00:00:00,7
+Innovation Center,2025-09-28 00:00:00,1
+Judiciary Square,2025-09-28 00:00:00,2
+King St-Old Town,2025-09-28 00:00:00,5
+L'Enfant Plaza,2025-09-28 00:00:00,5
+Landover,2025-09-28 00:00:00,6
+Loudoun Gateway,2025-09-28 00:00:00,1
+McLean,2025-09-28 00:00:00,1
+McPherson Sq,2025-09-28 00:00:00,6
+Medical Center,2025-09-28 00:00:00,2
+Metro Center,2025-09-28 00:00:00,2
+Minnesota Ave,2025-09-28 00:00:00,6
+Morgan Boulevard,2025-09-28 00:00:00,6
+Mt Vernon Sq 7th St-Convention Center,2025-09-28 00:00:00,7
+Navy Yard-Ballpark,2025-09-28 00:00:00,7
+Naylor Road,2025-09-28 00:00:00,7
+New Carrollton,2025-09-28 00:00:00,6
+NoMa-Gallaudet U,2025-09-28 00:00:00,2
+North Bethesda,2025-09-28 00:00:00,2
+Pentagon,2025-09-28 00:00:00,5
+Pentagon City,2025-09-28 00:00:00,5
+Potomac Ave,2025-09-28 00:00:00,6
+Potomac Yard,2025-09-28 00:00:00,5
+Reston Town Center,2025-09-28 00:00:00,1
+"Rhode Island Ave-Brentwood,",2025-09-28 00:00:00,2
+Rockville,2025-09-28 00:00:00,2
+Ronald Reagan Washington National Airport,2025-09-28 00:00:00,5
+Rosslyn,2025-09-28 00:00:00,1
+Shady Grove,2025-09-28 00:00:00,2
+Shaw-Howard U,2025-09-28 00:00:00,7
+Silver Spring,2025-09-28 00:00:00,2
+Smithsonian,2025-09-28 00:00:00,6
+Southern Avenue,2025-09-28 00:00:00,7
+Spring Hill,2025-09-28 00:00:00,1
+Stadium-Armory,2025-09-28 00:00:00,6
+Suitland,2025-09-28 00:00:00,7
+Takoma,2025-09-28 00:00:00,2
+Tenleytown-AU,2025-09-28 00:00:00,2
+Twinbrook,2025-09-28 00:00:00,2
+Tysons,2025-09-28 00:00:00,1
+U Street/African-Amer Civil War Memorial/Cardozo,2025-09-28 00:00:00,7
+Union Station,2025-09-28 00:00:00,2
+Van Dorn Street,2025-09-28 00:00:00,5
+Van Ness-UDC,2025-09-28 00:00:00,2
+Vienna/Fairfax-GMU,2025-09-28 00:00:00,1
+Virginia Square-GMU,2025-09-28 00:00:00,1
+Washington Dulles International Airport,2025-09-28 00:00:00,1
+Waterfront,2025-09-28 00:00:00,7
+West Falls Church,2025-09-28 00:00:00,1
+West Hyattsville,2025-09-28 00:00:00,7
+Wheaton,2025-09-28 00:00:00,2
+Wiehle-Reston East,2025-09-28 00:00:00,1
+Woodley Park-Zoo/Adams Morgan,2025-09-28 00:00:00,2
+Addison Road-Seat Pleasant,2025-09-29 00:00:00,1
+Anacostia,2025-09-29 00:00:00,7
+Archives-Navy Memorial-Penn Quarter,2025-09-29 00:00:00,7
+Arlington Cemetery,2025-09-29 00:00:00,7
+Ashburn,2025-09-29 00:00:00,1
+Ballston-MU,2025-09-29 00:00:00,1
+Benning Road,2025-09-29 00:00:00,1
+Bethesda,2025-09-29 00:00:00,2
+Braddock Road,2025-09-29 00:00:00,7
+Branch Ave,2025-09-29 00:00:00,7
+Brookland-CUA,2025-09-29 00:00:00,2
+Capitol Heights,2025-09-29 00:00:00,1
+Capitol South,2025-09-29 00:00:00,1
+Cheverly,2025-09-29 00:00:00,1
+Clarendon,2025-09-29 00:00:00,1
+Cleveland Park,2025-09-29 00:00:00,2
+College Park-U of Md,2025-09-29 00:00:00,7
+Columbia Heights,2025-09-29 00:00:00,7
+Congress Heights,2025-09-29 00:00:00,7
+Court House,2025-09-29 00:00:00,1
+Crystal City,2025-09-29 00:00:00,7
+Deanwood,2025-09-29 00:00:00,1
+Downtown Largo,2025-09-29 00:00:00,1
+Dunn Loring-Merrifield,2025-09-29 00:00:00,1
+Dupont Circle,2025-09-29 00:00:00,2
+East Falls Church,2025-09-29 00:00:00,1
+Eastern Market,2025-09-29 00:00:00,1
+Eisenhower Ave,2025-09-29 00:00:00,7
+Farragut North,2025-09-29 00:00:00,2
+Farragut West,2025-09-29 00:00:00,1
+Federal Center SW,2025-09-29 00:00:00,1
+Federal Triangle,2025-09-29 00:00:00,1
+Foggy Bottom-GWU,2025-09-29 00:00:00,1
+Forest Glen,2025-09-29 00:00:00,2
+Fort Totten,2025-09-29 00:00:00,2
+Franconia-Springfield,2025-09-29 00:00:00,7
+Friendship Heights,2025-09-29 00:00:00,2
+Gallery Pl-Chinatown,2025-09-29 00:00:00,7
+Georgia Ave-Petworth,2025-09-29 00:00:00,7
+Glenmont,2025-09-29 00:00:00,2
+Greenbelt,2025-09-29 00:00:00,7
+Greensboro,2025-09-29 00:00:00,1
+Grosvenor-Strathmore,2025-09-29 00:00:00,2
+Herndon,2025-09-29 00:00:00,1
+Huntington,2025-09-29 00:00:00,7
+Hyattsville Crossing,2025-09-29 00:00:00,7
+Innovation Center,2025-09-29 00:00:00,1
+Judiciary Square,2025-09-29 00:00:00,2
+King St-Old Town,2025-09-29 00:00:00,7
+L'Enfant Plaza,2025-09-29 00:00:00,7
+Landover,2025-09-29 00:00:00,1
+Loudoun Gateway,2025-09-29 00:00:00,1
+McLean,2025-09-29 00:00:00,1
+McPherson Sq,2025-09-29 00:00:00,1
+Medical Center,2025-09-29 00:00:00,2
+Metro Center,2025-09-29 00:00:00,2
+Minnesota Ave,2025-09-29 00:00:00,1
+Morgan Boulevard,2025-09-29 00:00:00,1
+Mt Vernon Sq 7th St-Convention Center,2025-09-29 00:00:00,7
+Navy Yard-Ballpark,2025-09-29 00:00:00,7
+Naylor Road,2025-09-29 00:00:00,7
+New Carrollton,2025-09-29 00:00:00,1
+NoMa-Gallaudet U,2025-09-29 00:00:00,2
+North Bethesda,2025-09-29 00:00:00,2
+Pentagon,2025-09-29 00:00:00,7
+Pentagon City,2025-09-29 00:00:00,7
+Potomac Ave,2025-09-29 00:00:00,1
+Potomac Yard,2025-09-29 00:00:00,7
+Reston Town Center,2025-09-29 00:00:00,1
+"Rhode Island Ave-Brentwood,",2025-09-29 00:00:00,2
+Rockville,2025-09-29 00:00:00,2
+Ronald Reagan Washington National Airport,2025-09-29 00:00:00,7
+Rosslyn,2025-09-29 00:00:00,1
+Shady Grove,2025-09-29 00:00:00,2
+Shaw-Howard U,2025-09-29 00:00:00,7
+Silver Spring,2025-09-29 00:00:00,2
+Smithsonian,2025-09-29 00:00:00,1
+Southern Avenue,2025-09-29 00:00:00,7
+Spring Hill,2025-09-29 00:00:00,1
+Stadium-Armory,2025-09-29 00:00:00,1
+Suitland,2025-09-29 00:00:00,7
+Takoma,2025-09-29 00:00:00,2
+Tenleytown-AU,2025-09-29 00:00:00,2
+Twinbrook,2025-09-29 00:00:00,2
+Tysons,2025-09-29 00:00:00,1
+U Street/African-Amer Civil War Memorial/Cardozo,2025-09-29 00:00:00,7
+Union Station,2025-09-29 00:00:00,2
+Van Dorn Street,2025-09-29 00:00:00,7
+Van Ness-UDC,2025-09-29 00:00:00,2
+Vienna/Fairfax-GMU,2025-09-29 00:00:00,1
+Virginia Square-GMU,2025-09-29 00:00:00,1
+Washington Dulles International Airport,2025-09-29 00:00:00,1
+Waterfront,2025-09-29 00:00:00,7
+West Falls Church,2025-09-29 00:00:00,1
+West Hyattsville,2025-09-29 00:00:00,7
+Wheaton,2025-09-29 00:00:00,2
+Wiehle-Reston East,2025-09-29 00:00:00,1
+Woodley Park-Zoo/Adams Morgan,2025-09-29 00:00:00,2
+Addison Road-Seat Pleasant,2025-09-30 00:00:00,1
+Anacostia,2025-09-30 00:00:00,7
+Archives-Navy Memorial-Penn Quarter,2025-09-30 00:00:00,7
+Arlington Cemetery,2025-09-30 00:00:00,7
+Ashburn,2025-09-30 00:00:00,1
+Ballston-MU,2025-09-30 00:00:00,1
+Benning Road,2025-09-30 00:00:00,1
+Bethesda,2025-09-30 00:00:00,2
+Braddock Road,2025-09-30 00:00:00,7
+Branch Ave,2025-09-30 00:00:00,7
+Brookland-CUA,2025-09-30 00:00:00,2
+Capitol Heights,2025-09-30 00:00:00,1
+Capitol South,2025-09-30 00:00:00,1
+Cheverly,2025-09-30 00:00:00,1
+Clarendon,2025-09-30 00:00:00,1
+Cleveland Park,2025-09-30 00:00:00,2
+College Park-U of Md,2025-09-30 00:00:00,7
+Columbia Heights,2025-09-30 00:00:00,7
+Congress Heights,2025-09-30 00:00:00,7
+Court House,2025-09-30 00:00:00,1
+Crystal City,2025-09-30 00:00:00,7
+Deanwood,2025-09-30 00:00:00,1
+Downtown Largo,2025-09-30 00:00:00,1
+Dunn Loring-Merrifield,2025-09-30 00:00:00,1
+Dupont Circle,2025-09-30 00:00:00,2
+East Falls Church,2025-09-30 00:00:00,1
+Eastern Market,2025-09-30 00:00:00,1
+Eisenhower Ave,2025-09-30 00:00:00,7
+Farragut North,2025-09-30 00:00:00,2
+Farragut West,2025-09-30 00:00:00,1
+Federal Center SW,2025-09-30 00:00:00,1
+Federal Triangle,2025-09-30 00:00:00,1
+Foggy Bottom-GWU,2025-09-30 00:00:00,1
+Forest Glen,2025-09-30 00:00:00,2
+Fort Totten,2025-09-30 00:00:00,2
+Franconia-Springfield,2025-09-30 00:00:00,7
+Friendship Heights,2025-09-30 00:00:00,2
+Gallery Pl-Chinatown,2025-09-30 00:00:00,7
+Georgia Ave-Petworth,2025-09-30 00:00:00,7
+Glenmont,2025-09-30 00:00:00,2
+Greenbelt,2025-09-30 00:00:00,7
+Greensboro,2025-09-30 00:00:00,1
+Grosvenor-Strathmore,2025-09-30 00:00:00,2
+Herndon,2025-09-30 00:00:00,1
+Huntington,2025-09-30 00:00:00,7
+Hyattsville Crossing,2025-09-30 00:00:00,7
+Innovation Center,2025-09-30 00:00:00,1
+Judiciary Square,2025-09-30 00:00:00,2
+King St-Old Town,2025-09-30 00:00:00,7
+L'Enfant Plaza,2025-09-30 00:00:00,7
+Landover,2025-09-30 00:00:00,1
+Loudoun Gateway,2025-09-30 00:00:00,1
+McLean,2025-09-30 00:00:00,1
+McPherson Sq,2025-09-30 00:00:00,1
+Medical Center,2025-09-30 00:00:00,2
+Metro Center,2025-09-30 00:00:00,2
+Minnesota Ave,2025-09-30 00:00:00,1
+Morgan Boulevard,2025-09-30 00:00:00,1
+Mt Vernon Sq 7th St-Convention Center,2025-09-30 00:00:00,7
+Navy Yard-Ballpark,2025-09-30 00:00:00,7
+Naylor Road,2025-09-30 00:00:00,7
+New Carrollton,2025-09-30 00:00:00,1
+NoMa-Gallaudet U,2025-09-30 00:00:00,2
+North Bethesda,2025-09-30 00:00:00,2
+Pentagon,2025-09-30 00:00:00,7
+Pentagon City,2025-09-30 00:00:00,7
+Potomac Ave,2025-09-30 00:00:00,1
+Potomac Yard,2025-09-30 00:00:00,7
+Reston Town Center,2025-09-30 00:00:00,1
+"Rhode Island Ave-Brentwood,",2025-09-30 00:00:00,2
+Rockville,2025-09-30 00:00:00,2
+Ronald Reagan Washington National Airport,2025-09-30 00:00:00,7
+Rosslyn,2025-09-30 00:00:00,1
+Shady Grove,2025-09-30 00:00:00,2
+Shaw-Howard U,2025-09-30 00:00:00,7
+Silver Spring,2025-09-30 00:00:00,2
+Smithsonian,2025-09-30 00:00:00,1
+Southern Avenue,2025-09-30 00:00:00,7
+Spring Hill,2025-09-30 00:00:00,1
+Stadium-Armory,2025-09-30 00:00:00,1
+Suitland,2025-09-30 00:00:00,7
+Takoma,2025-09-30 00:00:00,2
+Tenleytown-AU,2025-09-30 00:00:00,2
+Twinbrook,2025-09-30 00:00:00,2
+Tysons,2025-09-30 00:00:00,1
+U Street/African-Amer Civil War Memorial/Cardozo,2025-09-30 00:00:00,7
+Union Station,2025-09-30 00:00:00,2
+Van Dorn Street,2025-09-30 00:00:00,7
+Van Ness-UDC,2025-09-30 00:00:00,2
+Vienna/Fairfax-GMU,2025-09-30 00:00:00,1
+Virginia Square-GMU,2025-09-30 00:00:00,1
+Washington Dulles International Airport,2025-09-30 00:00:00,1
+Waterfront,2025-09-30 00:00:00,7
+West Falls Church,2025-09-30 00:00:00,1
+West Hyattsville,2025-09-30 00:00:00,7
+Wheaton,2025-09-30 00:00:00,2
+Wiehle-Reston East,2025-09-30 00:00:00,1
+Woodley Park-Zoo/Adams Morgan,2025-09-30 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-01 00:00:00,1
+Anacostia,2025-10-01 00:00:00,7
+Archives-Navy Memorial-Penn Quarter,2025-10-01 00:00:00,7
+Arlington Cemetery,2025-10-01 00:00:00,7
+Ashburn,2025-10-01 00:00:00,1
+Ballston-MU,2025-10-01 00:00:00,1
+Benning Road,2025-10-01 00:00:00,1
+Bethesda,2025-10-01 00:00:00,2
+Braddock Road,2025-10-01 00:00:00,7
+Branch Ave,2025-10-01 00:00:00,7
+Brookland-CUA,2025-10-01 00:00:00,2
+Capitol Heights,2025-10-01 00:00:00,1
+Capitol South,2025-10-01 00:00:00,1
+Cheverly,2025-10-01 00:00:00,1
+Clarendon,2025-10-01 00:00:00,1
+Cleveland Park,2025-10-01 00:00:00,2
+College Park-U of Md,2025-10-01 00:00:00,7
+Columbia Heights,2025-10-01 00:00:00,7
+Congress Heights,2025-10-01 00:00:00,7
+Court House,2025-10-01 00:00:00,1
+Crystal City,2025-10-01 00:00:00,7
+Deanwood,2025-10-01 00:00:00,1
+Downtown Largo,2025-10-01 00:00:00,1
+Dunn Loring-Merrifield,2025-10-01 00:00:00,1
+Dupont Circle,2025-10-01 00:00:00,2
+East Falls Church,2025-10-01 00:00:00,1
+Eastern Market,2025-10-01 00:00:00,1
+Eisenhower Ave,2025-10-01 00:00:00,7
+Farragut North,2025-10-01 00:00:00,2
+Farragut West,2025-10-01 00:00:00,1
+Federal Center SW,2025-10-01 00:00:00,1
+Federal Triangle,2025-10-01 00:00:00,1
+Foggy Bottom-GWU,2025-10-01 00:00:00,1
+Forest Glen,2025-10-01 00:00:00,2
+Fort Totten,2025-10-01 00:00:00,2
+Franconia-Springfield,2025-10-01 00:00:00,7
+Friendship Heights,2025-10-01 00:00:00,2
+Gallery Pl-Chinatown,2025-10-01 00:00:00,7
+Georgia Ave-Petworth,2025-10-01 00:00:00,7
+Glenmont,2025-10-01 00:00:00,2
+Greenbelt,2025-10-01 00:00:00,7
+Greensboro,2025-10-01 00:00:00,1
+Grosvenor-Strathmore,2025-10-01 00:00:00,2
+Herndon,2025-10-01 00:00:00,1
+Huntington,2025-10-01 00:00:00,7
+Hyattsville Crossing,2025-10-01 00:00:00,7
+Innovation Center,2025-10-01 00:00:00,1
+Judiciary Square,2025-10-01 00:00:00,2
+King St-Old Town,2025-10-01 00:00:00,7
+L'Enfant Plaza,2025-10-01 00:00:00,7
+Landover,2025-10-01 00:00:00,1
+Loudoun Gateway,2025-10-01 00:00:00,1
+McLean,2025-10-01 00:00:00,1
+McPherson Sq,2025-10-01 00:00:00,1
+Medical Center,2025-10-01 00:00:00,2
+Metro Center,2025-10-01 00:00:00,2
+Minnesota Ave,2025-10-01 00:00:00,1
+Morgan Boulevard,2025-10-01 00:00:00,1
+Mt Vernon Sq 7th St-Convention Center,2025-10-01 00:00:00,7
+Navy Yard-Ballpark,2025-10-01 00:00:00,7
+Naylor Road,2025-10-01 00:00:00,7
+New Carrollton,2025-10-01 00:00:00,1
+NoMa-Gallaudet U,2025-10-01 00:00:00,2
+North Bethesda,2025-10-01 00:00:00,2
+Pentagon,2025-10-01 00:00:00,7
+Pentagon City,2025-10-01 00:00:00,7
+Potomac Ave,2025-10-01 00:00:00,1
+Potomac Yard,2025-10-01 00:00:00,7
+Reston Town Center,2025-10-01 00:00:00,1
+"Rhode Island Ave-Brentwood,",2025-10-01 00:00:00,2
+Rockville,2025-10-01 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-01 00:00:00,7
+Rosslyn,2025-10-01 00:00:00,1
+Shady Grove,2025-10-01 00:00:00,2
+Shaw-Howard U,2025-10-01 00:00:00,7
+Silver Spring,2025-10-01 00:00:00,2
+Smithsonian,2025-10-01 00:00:00,1
+Southern Avenue,2025-10-01 00:00:00,7
+Spring Hill,2025-10-01 00:00:00,1
+Stadium-Armory,2025-10-01 00:00:00,1
+Suitland,2025-10-01 00:00:00,7
+Takoma,2025-10-01 00:00:00,2
+Tenleytown-AU,2025-10-01 00:00:00,2
+Twinbrook,2025-10-01 00:00:00,2
+Tysons,2025-10-01 00:00:00,1
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-01 00:00:00,7
+Union Station,2025-10-01 00:00:00,2
+Van Dorn Street,2025-10-01 00:00:00,7
+Van Ness-UDC,2025-10-01 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-01 00:00:00,1
+Virginia Square-GMU,2025-10-01 00:00:00,1
+Washington Dulles International Airport,2025-10-01 00:00:00,1
+Waterfront,2025-10-01 00:00:00,7
+West Falls Church,2025-10-01 00:00:00,1
+West Hyattsville,2025-10-01 00:00:00,7
+Wheaton,2025-10-01 00:00:00,2
+Wiehle-Reston East,2025-10-01 00:00:00,1
+Woodley Park-Zoo/Adams Morgan,2025-10-01 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-02 00:00:00,1
+Anacostia,2025-10-02 00:00:00,7
+Archives-Navy Memorial-Penn Quarter,2025-10-02 00:00:00,7
+Arlington Cemetery,2025-10-02 00:00:00,1
+Ashburn,2025-10-02 00:00:00,1
+Ballston-MU,2025-10-02 00:00:00,1
+Benning Road,2025-10-02 00:00:00,1
+Bethesda,2025-10-02 00:00:00,2
+Braddock Road,2025-10-02 00:00:00,7
+Branch Ave,2025-10-02 00:00:00,7
+Brookland-CUA,2025-10-02 00:00:00,2
+Capitol Heights,2025-10-02 00:00:00,1
+Capitol South,2025-10-02 00:00:00,1
+Cheverly,2025-10-02 00:00:00,1
+Clarendon,2025-10-02 00:00:00,1
+Cleveland Park,2025-10-02 00:00:00,2
+College Park-U of Md,2025-10-02 00:00:00,7
+Columbia Heights,2025-10-02 00:00:00,7
+Congress Heights,2025-10-02 00:00:00,7
+Court House,2025-10-02 00:00:00,1
+Crystal City,2025-10-02 00:00:00,7
+Deanwood,2025-10-02 00:00:00,1
+Downtown Largo,2025-10-02 00:00:00,1
+Dunn Loring-Merrifield,2025-10-02 00:00:00,1
+Dupont Circle,2025-10-02 00:00:00,2
+East Falls Church,2025-10-02 00:00:00,1
+Eastern Market,2025-10-02 00:00:00,1
+Eisenhower Ave,2025-10-02 00:00:00,7
+Farragut North,2025-10-02 00:00:00,2
+Farragut West,2025-10-02 00:00:00,1
+Federal Center SW,2025-10-02 00:00:00,1
+Federal Triangle,2025-10-02 00:00:00,1
+Foggy Bottom-GWU,2025-10-02 00:00:00,1
+Forest Glen,2025-10-02 00:00:00,2
+Fort Totten,2025-10-02 00:00:00,2
+Franconia-Springfield,2025-10-02 00:00:00,7
+Friendship Heights,2025-10-02 00:00:00,2
+Gallery Pl-Chinatown,2025-10-02 00:00:00,7
+Georgia Ave-Petworth,2025-10-02 00:00:00,7
+Glenmont,2025-10-02 00:00:00,2
+Greenbelt,2025-10-02 00:00:00,7
+Greensboro,2025-10-02 00:00:00,1
+Grosvenor-Strathmore,2025-10-02 00:00:00,2
+Herndon,2025-10-02 00:00:00,1
+Huntington,2025-10-02 00:00:00,7
+Hyattsville Crossing,2025-10-02 00:00:00,7
+Innovation Center,2025-10-02 00:00:00,1
+Judiciary Square,2025-10-02 00:00:00,2
+King St-Old Town,2025-10-02 00:00:00,7
+L'Enfant Plaza,2025-10-02 00:00:00,7
+Landover,2025-10-02 00:00:00,1
+Loudoun Gateway,2025-10-02 00:00:00,1
+McLean,2025-10-02 00:00:00,1
+McPherson Sq,2025-10-02 00:00:00,1
+Medical Center,2025-10-02 00:00:00,2
+Metro Center,2025-10-02 00:00:00,2
+Minnesota Ave,2025-10-02 00:00:00,1
+Morgan Boulevard,2025-10-02 00:00:00,1
+Mt Vernon Sq 7th St-Convention Center,2025-10-02 00:00:00,7
+Navy Yard-Ballpark,2025-10-02 00:00:00,7
+Naylor Road,2025-10-02 00:00:00,7
+New Carrollton,2025-10-02 00:00:00,1
+NoMa-Gallaudet U,2025-10-02 00:00:00,2
+North Bethesda,2025-10-02 00:00:00,2
+Pentagon,2025-10-02 00:00:00,7
+Pentagon City,2025-10-02 00:00:00,7
+Potomac Ave,2025-10-02 00:00:00,1
+Potomac Yard,2025-10-02 00:00:00,7
+Reston Town Center,2025-10-02 00:00:00,1
+"Rhode Island Ave-Brentwood,",2025-10-02 00:00:00,2
+Rockville,2025-10-02 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-02 00:00:00,7
+Rosslyn,2025-10-02 00:00:00,1
+Shady Grove,2025-10-02 00:00:00,2
+Shaw-Howard U,2025-10-02 00:00:00,7
+Silver Spring,2025-10-02 00:00:00,2
+Smithsonian,2025-10-02 00:00:00,1
+Southern Avenue,2025-10-02 00:00:00,7
+Spring Hill,2025-10-02 00:00:00,1
+Stadium-Armory,2025-10-02 00:00:00,1
+Suitland,2025-10-02 00:00:00,7
+Takoma,2025-10-02 00:00:00,2
+Tenleytown-AU,2025-10-02 00:00:00,2
+Twinbrook,2025-10-02 00:00:00,2
+Tysons,2025-10-02 00:00:00,1
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-02 00:00:00,7
+Union Station,2025-10-02 00:00:00,2
+Van Dorn Street,2025-10-02 00:00:00,7
+Van Ness-UDC,2025-10-02 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-02 00:00:00,1
+Virginia Square-GMU,2025-10-02 00:00:00,1
+Washington Dulles International Airport,2025-10-02 00:00:00,1
+Waterfront,2025-10-02 00:00:00,7
+West Falls Church,2025-10-02 00:00:00,1
+West Hyattsville,2025-10-02 00:00:00,7
+Wheaton,2025-10-02 00:00:00,2
+Wiehle-Reston East,2025-10-02 00:00:00,1
+Woodley Park-Zoo/Adams Morgan,2025-10-02 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-03 00:00:00,1
+Anacostia,2025-10-03 00:00:00,7
+Archives-Navy Memorial-Penn Quarter,2025-10-03 00:00:00,7
+Arlington Cemetery,2025-10-03 00:00:00,1
+Ashburn,2025-10-03 00:00:00,1
+Ballston-MU,2025-10-03 00:00:00,1
+Benning Road,2025-10-03 00:00:00,1
+Bethesda,2025-10-03 00:00:00,2
+Braddock Road,2025-10-03 00:00:00,1
+Branch Ave,2025-10-03 00:00:00,7
+Brookland-CUA,2025-10-03 00:00:00,2
+Capitol Heights,2025-10-03 00:00:00,1
+Capitol South,2025-10-03 00:00:00,1
+Cheverly,2025-10-03 00:00:00,1
+Clarendon,2025-10-03 00:00:00,1
+Cleveland Park,2025-10-03 00:00:00,2
+College Park-U of Md,2025-10-03 00:00:00,7
+Columbia Heights,2025-10-03 00:00:00,7
+Congress Heights,2025-10-03 00:00:00,7
+Court House,2025-10-03 00:00:00,1
+Crystal City,2025-10-03 00:00:00,1
+Deanwood,2025-10-03 00:00:00,1
+Downtown Largo,2025-10-03 00:00:00,1
+Dunn Loring-Merrifield,2025-10-03 00:00:00,1
+Dupont Circle,2025-10-03 00:00:00,2
+East Falls Church,2025-10-03 00:00:00,1
+Eastern Market,2025-10-03 00:00:00,1
+Eisenhower Ave,2025-10-03 00:00:00,1
+Farragut North,2025-10-03 00:00:00,2
+Farragut West,2025-10-03 00:00:00,1
+Federal Center SW,2025-10-03 00:00:00,1
+Federal Triangle,2025-10-03 00:00:00,1
+Foggy Bottom-GWU,2025-10-03 00:00:00,1
+Forest Glen,2025-10-03 00:00:00,2
+Fort Totten,2025-10-03 00:00:00,7
+Franconia-Springfield,2025-10-03 00:00:00,1
+Friendship Heights,2025-10-03 00:00:00,2
+Gallery Pl-Chinatown,2025-10-03 00:00:00,7
+Georgia Ave-Petworth,2025-10-03 00:00:00,7
+Glenmont,2025-10-03 00:00:00,2
+Greenbelt,2025-10-03 00:00:00,7
+Greensboro,2025-10-03 00:00:00,1
+Grosvenor-Strathmore,2025-10-03 00:00:00,2
+Herndon,2025-10-03 00:00:00,1
+Huntington,2025-10-03 00:00:00,1
+Hyattsville Crossing,2025-10-03 00:00:00,7
+Innovation Center,2025-10-03 00:00:00,1
+Judiciary Square,2025-10-03 00:00:00,2
+King St-Old Town,2025-10-03 00:00:00,1
+L'Enfant Plaza,2025-10-03 00:00:00,1
+Landover,2025-10-03 00:00:00,1
+Loudoun Gateway,2025-10-03 00:00:00,1
+McLean,2025-10-03 00:00:00,1
+McPherson Sq,2025-10-03 00:00:00,1
+Medical Center,2025-10-03 00:00:00,2
+Metro Center,2025-10-03 00:00:00,2
+Minnesota Ave,2025-10-03 00:00:00,1
+Morgan Boulevard,2025-10-03 00:00:00,1
+Mt Vernon Sq 7th St-Convention Center,2025-10-03 00:00:00,7
+Navy Yard-Ballpark,2025-10-03 00:00:00,7
+Naylor Road,2025-10-03 00:00:00,7
+New Carrollton,2025-10-03 00:00:00,1
+NoMa-Gallaudet U,2025-10-03 00:00:00,2
+North Bethesda,2025-10-03 00:00:00,2
+Pentagon,2025-10-03 00:00:00,1
+Pentagon City,2025-10-03 00:00:00,1
+Potomac Ave,2025-10-03 00:00:00,1
+Potomac Yard,2025-10-03 00:00:00,1
+Reston Town Center,2025-10-03 00:00:00,1
+"Rhode Island Ave-Brentwood,",2025-10-03 00:00:00,2
+Rockville,2025-10-03 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-03 00:00:00,1
+Rosslyn,2025-10-03 00:00:00,1
+Shady Grove,2025-10-03 00:00:00,2
+Shaw-Howard U,2025-10-03 00:00:00,7
+Silver Spring,2025-10-03 00:00:00,2
+Smithsonian,2025-10-03 00:00:00,1
+Southern Avenue,2025-10-03 00:00:00,7
+Spring Hill,2025-10-03 00:00:00,1
+Stadium-Armory,2025-10-03 00:00:00,1
+Suitland,2025-10-03 00:00:00,7
+Takoma,2025-10-03 00:00:00,2
+Tenleytown-AU,2025-10-03 00:00:00,2
+Twinbrook,2025-10-03 00:00:00,2
+Tysons,2025-10-03 00:00:00,1
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-03 00:00:00,7
+Union Station,2025-10-03 00:00:00,2
+Van Dorn Street,2025-10-03 00:00:00,1
+Van Ness-UDC,2025-10-03 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-03 00:00:00,1
+Virginia Square-GMU,2025-10-03 00:00:00,1
+Washington Dulles International Airport,2025-10-03 00:00:00,1
+Waterfront,2025-10-03 00:00:00,7
+West Falls Church,2025-10-03 00:00:00,1
+West Hyattsville,2025-10-03 00:00:00,7
+Wheaton,2025-10-03 00:00:00,2
+Wiehle-Reston East,2025-10-03 00:00:00,1
+Woodley Park-Zoo/Adams Morgan,2025-10-03 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-04 00:00:00,9
+Anacostia,2025-10-04 00:00:00,7
+Archives-Navy Memorial-Penn Quarter,2025-10-04 00:00:00,7
+Arlington Cemetery,2025-10-04 00:00:00,8
+Ashburn,2025-10-04 00:00:00,8
+Ballston-MU,2025-10-04 00:00:00,8
+Benning Road,2025-10-04 00:00:00,9
+Bethesda,2025-10-04 00:00:00,2
+Braddock Road,2025-10-04 00:00:00,8
+Branch Ave,2025-10-04 00:00:00,7
+Brookland-CUA,2025-10-04 00:00:00,2
+Capitol Heights,2025-10-04 00:00:00,9
+Capitol South,2025-10-04 00:00:00,8
+Cheverly,2025-10-04 00:00:00,1
+Clarendon,2025-10-04 00:00:00,8
+Cleveland Park,2025-10-04 00:00:00,2
+College Park-U of Md,2025-10-04 00:00:00,7
+Columbia Heights,2025-10-04 00:00:00,7
+Congress Heights,2025-10-04 00:00:00,7
+Court House,2025-10-04 00:00:00,8
+Crystal City,2025-10-04 00:00:00,8
+Deanwood,2025-10-04 00:00:00,1
+Downtown Largo,2025-10-04 00:00:00,9
+Dunn Loring-Merrifield,2025-10-04 00:00:00,8
+Dupont Circle,2025-10-04 00:00:00,2
+East Falls Church,2025-10-04 00:00:00,8
+Eastern Market,2025-10-04 00:00:00,8
+Eisenhower Ave,2025-10-04 00:00:00,8
+Farragut North,2025-10-04 00:00:00,2
+Farragut West,2025-10-04 00:00:00,8
+Federal Center SW,2025-10-04 00:00:00,8
+Federal Triangle,2025-10-04 00:00:00,8
+Foggy Bottom-GWU,2025-10-04 00:00:00,8
+Forest Glen,2025-10-04 00:00:00,2
+Fort Totten,2025-10-04 00:00:00,7
+Franconia-Springfield,2025-10-04 00:00:00,8
+Friendship Heights,2025-10-04 00:00:00,2
+Gallery Pl-Chinatown,2025-10-04 00:00:00,7
+Georgia Ave-Petworth,2025-10-04 00:00:00,7
+Glenmont,2025-10-04 00:00:00,2
+Greenbelt,2025-10-04 00:00:00,7
+Greensboro,2025-10-04 00:00:00,8
+Grosvenor-Strathmore,2025-10-04 00:00:00,2
+Herndon,2025-10-04 00:00:00,8
+Huntington,2025-10-04 00:00:00,8
+Hyattsville Crossing,2025-10-04 00:00:00,7
+Innovation Center,2025-10-04 00:00:00,8
+Judiciary Square,2025-10-04 00:00:00,2
+King St-Old Town,2025-10-04 00:00:00,8
+L'Enfant Plaza,2025-10-04 00:00:00,8
+Landover,2025-10-04 00:00:00,1
+Loudoun Gateway,2025-10-04 00:00:00,8
+McLean,2025-10-04 00:00:00,8
+McPherson Sq,2025-10-04 00:00:00,8
+Medical Center,2025-10-04 00:00:00,2
+Metro Center,2025-10-04 00:00:00,2
+Minnesota Ave,2025-10-04 00:00:00,1
+Morgan Boulevard,2025-10-04 00:00:00,9
+Mt Vernon Sq 7th St-Convention Center,2025-10-04 00:00:00,7
+Navy Yard-Ballpark,2025-10-04 00:00:00,7
+Naylor Road,2025-10-04 00:00:00,7
+New Carrollton,2025-10-04 00:00:00,1
+NoMa-Gallaudet U,2025-10-04 00:00:00,2
+North Bethesda,2025-10-04 00:00:00,2
+Pentagon,2025-10-04 00:00:00,8
+Pentagon City,2025-10-04 00:00:00,8
+Potomac Ave,2025-10-04 00:00:00,1
+Potomac Yard,2025-10-04 00:00:00,8
+Reston Town Center,2025-10-04 00:00:00,8
+"Rhode Island Ave-Brentwood,",2025-10-04 00:00:00,2
+Rockville,2025-10-04 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-04 00:00:00,8
+Rosslyn,2025-10-04 00:00:00,8
+Shady Grove,2025-10-04 00:00:00,2
+Shaw-Howard U,2025-10-04 00:00:00,7
+Silver Spring,2025-10-04 00:00:00,2
+Smithsonian,2025-10-04 00:00:00,8
+Southern Avenue,2025-10-04 00:00:00,7
+Spring Hill,2025-10-04 00:00:00,8
+Stadium-Armory,2025-10-04 00:00:00,1
+Suitland,2025-10-04 00:00:00,7
+Takoma,2025-10-04 00:00:00,2
+Tenleytown-AU,2025-10-04 00:00:00,2
+Twinbrook,2025-10-04 00:00:00,2
+Tysons,2025-10-04 00:00:00,8
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-04 00:00:00,7
+Union Station,2025-10-04 00:00:00,2
+Van Dorn Street,2025-10-04 00:00:00,8
+Van Ness-UDC,2025-10-04 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-04 00:00:00,8
+Virginia Square-GMU,2025-10-04 00:00:00,8
+Washington Dulles International Airport,2025-10-04 00:00:00,8
+Waterfront,2025-10-04 00:00:00,7
+West Falls Church,2025-10-04 00:00:00,8
+West Hyattsville,2025-10-04 00:00:00,7
+Wheaton,2025-10-04 00:00:00,2
+Wiehle-Reston East,2025-10-04 00:00:00,8
+Woodley Park-Zoo/Adams Morgan,2025-10-04 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-05 00:00:00,9
+Anacostia,2025-10-05 00:00:00,7
+Archives-Navy Memorial-Penn Quarter,2025-10-05 00:00:00,7
+Arlington Cemetery,2025-10-05 00:00:00,8
+Ashburn,2025-10-05 00:00:00,8
+Ballston-MU,2025-10-05 00:00:00,8
+Benning Road,2025-10-05 00:00:00,9
+Bethesda,2025-10-05 00:00:00,2
+Braddock Road,2025-10-05 00:00:00,8
+Branch Ave,2025-10-05 00:00:00,7
+Brookland-CUA,2025-10-05 00:00:00,2
+Capitol Heights,2025-10-05 00:00:00,9
+Capitol South,2025-10-05 00:00:00,8
+Cheverly,2025-10-05 00:00:00,1
+Clarendon,2025-10-05 00:00:00,8
+Cleveland Park,2025-10-05 00:00:00,2
+College Park-U of Md,2025-10-05 00:00:00,7
+Columbia Heights,2025-10-05 00:00:00,7
+Congress Heights,2025-10-05 00:00:00,7
+Court House,2025-10-05 00:00:00,8
+Crystal City,2025-10-05 00:00:00,8
+Deanwood,2025-10-05 00:00:00,1
+Downtown Largo,2025-10-05 00:00:00,9
+Dunn Loring-Merrifield,2025-10-05 00:00:00,8
+Dupont Circle,2025-10-05 00:00:00,2
+East Falls Church,2025-10-05 00:00:00,8
+Eastern Market,2025-10-05 00:00:00,8
+Eisenhower Ave,2025-10-05 00:00:00,8
+Farragut North,2025-10-05 00:00:00,2
+Farragut West,2025-10-05 00:00:00,8
+Federal Center SW,2025-10-05 00:00:00,8
+Federal Triangle,2025-10-05 00:00:00,8
+Foggy Bottom-GWU,2025-10-05 00:00:00,8
+Forest Glen,2025-10-05 00:00:00,2
+Fort Totten,2025-10-05 00:00:00,7
+Franconia-Springfield,2025-10-05 00:00:00,8
+Friendship Heights,2025-10-05 00:00:00,2
+Gallery Pl-Chinatown,2025-10-05 00:00:00,7
+Georgia Ave-Petworth,2025-10-05 00:00:00,7
+Glenmont,2025-10-05 00:00:00,2
+Greenbelt,2025-10-05 00:00:00,7
+Greensboro,2025-10-05 00:00:00,8
+Grosvenor-Strathmore,2025-10-05 00:00:00,2
+Herndon,2025-10-05 00:00:00,8
+Huntington,2025-10-05 00:00:00,8
+Hyattsville Crossing,2025-10-05 00:00:00,7
+Innovation Center,2025-10-05 00:00:00,8
+Judiciary Square,2025-10-05 00:00:00,2
+King St-Old Town,2025-10-05 00:00:00,8
+L'Enfant Plaza,2025-10-05 00:00:00,8
+Landover,2025-10-05 00:00:00,1
+Loudoun Gateway,2025-10-05 00:00:00,8
+McLean,2025-10-05 00:00:00,8
+McPherson Sq,2025-10-05 00:00:00,8
+Medical Center,2025-10-05 00:00:00,2
+Metro Center,2025-10-05 00:00:00,2
+Minnesota Ave,2025-10-05 00:00:00,1
+Morgan Boulevard,2025-10-05 00:00:00,9
+Mt Vernon Sq 7th St-Convention Center,2025-10-05 00:00:00,7
+Navy Yard-Ballpark,2025-10-05 00:00:00,7
+Naylor Road,2025-10-05 00:00:00,7
+New Carrollton,2025-10-05 00:00:00,1
+NoMa-Gallaudet U,2025-10-05 00:00:00,2
+North Bethesda,2025-10-05 00:00:00,2
+Pentagon,2025-10-05 00:00:00,8
+Pentagon City,2025-10-05 00:00:00,8
+Potomac Ave,2025-10-05 00:00:00,1
+Potomac Yard,2025-10-05 00:00:00,8
+Reston Town Center,2025-10-05 00:00:00,8
+"Rhode Island Ave-Brentwood,",2025-10-05 00:00:00,2
+Rockville,2025-10-05 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-05 00:00:00,8
+Rosslyn,2025-10-05 00:00:00,8
+Shady Grove,2025-10-05 00:00:00,2
+Shaw-Howard U,2025-10-05 00:00:00,7
+Silver Spring,2025-10-05 00:00:00,2
+Smithsonian,2025-10-05 00:00:00,8
+Southern Avenue,2025-10-05 00:00:00,7
+Spring Hill,2025-10-05 00:00:00,8
+Stadium-Armory,2025-10-05 00:00:00,1
+Suitland,2025-10-05 00:00:00,7
+Takoma,2025-10-05 00:00:00,2
+Tenleytown-AU,2025-10-05 00:00:00,2
+Twinbrook,2025-10-05 00:00:00,2
+Tysons,2025-10-05 00:00:00,8
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-05 00:00:00,7
+Union Station,2025-10-05 00:00:00,2
+Van Dorn Street,2025-10-05 00:00:00,8
+Van Ness-UDC,2025-10-05 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-05 00:00:00,8
+Virginia Square-GMU,2025-10-05 00:00:00,8
+Washington Dulles International Airport,2025-10-05 00:00:00,8
+Waterfront,2025-10-05 00:00:00,7
+West Falls Church,2025-10-05 00:00:00,8
+West Hyattsville,2025-10-05 00:00:00,7
+Wheaton,2025-10-05 00:00:00,2
+Wiehle-Reston East,2025-10-05 00:00:00,8
+Woodley Park-Zoo/Adams Morgan,2025-10-05 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-06 00:00:00,1
+Anacostia,2025-10-06 00:00:00,7
+Archives-Navy Memorial-Penn Quarter,2025-10-06 00:00:00,8
+Arlington Cemetery,2025-10-06 00:00:00,8
+Ashburn,2025-10-06 00:00:00,1
+Ballston-MU,2025-10-06 00:00:00,1
+Benning Road,2025-10-06 00:00:00,1
+Bethesda,2025-10-06 00:00:00,2
+Braddock Road,2025-10-06 00:00:00,8
+Branch Ave,2025-10-06 00:00:00,7
+Brookland-CUA,2025-10-06 00:00:00,2
+Capitol Heights,2025-10-06 00:00:00,1
+Capitol South,2025-10-06 00:00:00,1
+Cheverly,2025-10-06 00:00:00,1
+Clarendon,2025-10-06 00:00:00,1
+Cleveland Park,2025-10-06 00:00:00,2
+College Park-U of Md,2025-10-06 00:00:00,7
+Columbia Heights,2025-10-06 00:00:00,7
+Congress Heights,2025-10-06 00:00:00,7
+Court House,2025-10-06 00:00:00,1
+Crystal City,2025-10-06 00:00:00,8
+Deanwood,2025-10-06 00:00:00,1
+Downtown Largo,2025-10-06 00:00:00,1
+Dunn Loring-Merrifield,2025-10-06 00:00:00,1
+Dupont Circle,2025-10-06 00:00:00,2
+East Falls Church,2025-10-06 00:00:00,1
+Eastern Market,2025-10-06 00:00:00,1
+Eisenhower Ave,2025-10-06 00:00:00,8
+Farragut North,2025-10-06 00:00:00,2
+Farragut West,2025-10-06 00:00:00,1
+Federal Center SW,2025-10-06 00:00:00,1
+Federal Triangle,2025-10-06 00:00:00,1
+Foggy Bottom-GWU,2025-10-06 00:00:00,1
+Forest Glen,2025-10-06 00:00:00,2
+Fort Totten,2025-10-06 00:00:00,7
+Franconia-Springfield,2025-10-06 00:00:00,8
+Friendship Heights,2025-10-06 00:00:00,2
+Gallery Pl-Chinatown,2025-10-06 00:00:00,7
+Georgia Ave-Petworth,2025-10-06 00:00:00,7
+Glenmont,2025-10-06 00:00:00,2
+Greenbelt,2025-10-06 00:00:00,7
+Greensboro,2025-10-06 00:00:00,1
+Grosvenor-Strathmore,2025-10-06 00:00:00,2
+Herndon,2025-10-06 00:00:00,1
+Huntington,2025-10-06 00:00:00,8
+Hyattsville Crossing,2025-10-06 00:00:00,7
+Innovation Center,2025-10-06 00:00:00,1
+Judiciary Square,2025-10-06 00:00:00,2
+King St-Old Town,2025-10-06 00:00:00,8
+L'Enfant Plaza,2025-10-06 00:00:00,7
+Landover,2025-10-06 00:00:00,1
+Loudoun Gateway,2025-10-06 00:00:00,1
+McLean,2025-10-06 00:00:00,1
+McPherson Sq,2025-10-06 00:00:00,1
+Medical Center,2025-10-06 00:00:00,2
+Metro Center,2025-10-06 00:00:00,2
+Minnesota Ave,2025-10-06 00:00:00,1
+Morgan Boulevard,2025-10-06 00:00:00,1
+Mt Vernon Sq 7th St-Convention Center,2025-10-06 00:00:00,7
+Navy Yard-Ballpark,2025-10-06 00:00:00,7
+Naylor Road,2025-10-06 00:00:00,7
+New Carrollton,2025-10-06 00:00:00,1
+NoMa-Gallaudet U,2025-10-06 00:00:00,2
+North Bethesda,2025-10-06 00:00:00,2
+Pentagon,2025-10-06 00:00:00,8
+Pentagon City,2025-10-06 00:00:00,8
+Potomac Ave,2025-10-06 00:00:00,1
+Potomac Yard,2025-10-06 00:00:00,8
+Reston Town Center,2025-10-06 00:00:00,1
+"Rhode Island Ave-Brentwood,",2025-10-06 00:00:00,2
+Rockville,2025-10-06 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-06 00:00:00,8
+Rosslyn,2025-10-06 00:00:00,1
+Shady Grove,2025-10-06 00:00:00,2
+Shaw-Howard U,2025-10-06 00:00:00,7
+Silver Spring,2025-10-06 00:00:00,2
+Smithsonian,2025-10-06 00:00:00,1
+Southern Avenue,2025-10-06 00:00:00,7
+Spring Hill,2025-10-06 00:00:00,1
+Stadium-Armory,2025-10-06 00:00:00,1
+Suitland,2025-10-06 00:00:00,7
+Takoma,2025-10-06 00:00:00,2
+Tenleytown-AU,2025-10-06 00:00:00,2
+Twinbrook,2025-10-06 00:00:00,2
+Tysons,2025-10-06 00:00:00,1
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-06 00:00:00,7
+Union Station,2025-10-06 00:00:00,2
+Van Dorn Street,2025-10-06 00:00:00,8
+Van Ness-UDC,2025-10-06 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-06 00:00:00,1
+Virginia Square-GMU,2025-10-06 00:00:00,1
+Washington Dulles International Airport,2025-10-06 00:00:00,1
+Waterfront,2025-10-06 00:00:00,7
+West Falls Church,2025-10-06 00:00:00,1
+West Hyattsville,2025-10-06 00:00:00,7
+Wheaton,2025-10-06 00:00:00,2
+Wiehle-Reston East,2025-10-06 00:00:00,1
+Woodley Park-Zoo/Adams Morgan,2025-10-06 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-07 00:00:00,1
+Anacostia,2025-10-07 00:00:00,7
+Archives-Navy Memorial-Penn Quarter,2025-10-07 00:00:00,8
+Arlington Cemetery,2025-10-07 00:00:00,8
+Ashburn,2025-10-07 00:00:00,1
+Ballston-MU,2025-10-07 00:00:00,1
+Benning Road,2025-10-07 00:00:00,1
+Bethesda,2025-10-07 00:00:00,2
+Braddock Road,2025-10-07 00:00:00,8
+Branch Ave,2025-10-07 00:00:00,7
+Brookland-CUA,2025-10-07 00:00:00,2
+Capitol Heights,2025-10-07 00:00:00,1
+Capitol South,2025-10-07 00:00:00,1
+Cheverly,2025-10-07 00:00:00,1
+Clarendon,2025-10-07 00:00:00,1
+Cleveland Park,2025-10-07 00:00:00,2
+College Park-U of Md,2025-10-07 00:00:00,7
+Columbia Heights,2025-10-07 00:00:00,7
+Congress Heights,2025-10-07 00:00:00,7
+Court House,2025-10-07 00:00:00,1
+Crystal City,2025-10-07 00:00:00,8
+Deanwood,2025-10-07 00:00:00,1
+Downtown Largo,2025-10-07 00:00:00,1
+Dunn Loring-Merrifield,2025-10-07 00:00:00,1
+Dupont Circle,2025-10-07 00:00:00,2
+East Falls Church,2025-10-07 00:00:00,1
+Eastern Market,2025-10-07 00:00:00,1
+Eisenhower Ave,2025-10-07 00:00:00,8
+Farragut North,2025-10-07 00:00:00,2
+Farragut West,2025-10-07 00:00:00,1
+Federal Center SW,2025-10-07 00:00:00,1
+Federal Triangle,2025-10-07 00:00:00,1
+Foggy Bottom-GWU,2025-10-07 00:00:00,1
+Forest Glen,2025-10-07 00:00:00,2
+Fort Totten,2025-10-07 00:00:00,7
+Franconia-Springfield,2025-10-07 00:00:00,8
+Friendship Heights,2025-10-07 00:00:00,2
+Gallery Pl-Chinatown,2025-10-07 00:00:00,7
+Georgia Ave-Petworth,2025-10-07 00:00:00,7
+Glenmont,2025-10-07 00:00:00,2
+Greenbelt,2025-10-07 00:00:00,7
+Greensboro,2025-10-07 00:00:00,1
+Grosvenor-Strathmore,2025-10-07 00:00:00,2
+Herndon,2025-10-07 00:00:00,1
+Huntington,2025-10-07 00:00:00,8
+Hyattsville Crossing,2025-10-07 00:00:00,7
+Innovation Center,2025-10-07 00:00:00,1
+Judiciary Square,2025-10-07 00:00:00,2
+King St-Old Town,2025-10-07 00:00:00,8
+L'Enfant Plaza,2025-10-07 00:00:00,7
+Landover,2025-10-07 00:00:00,1
+Loudoun Gateway,2025-10-07 00:00:00,1
+McLean,2025-10-07 00:00:00,1
+McPherson Sq,2025-10-07 00:00:00,1
+Medical Center,2025-10-07 00:00:00,2
+Metro Center,2025-10-07 00:00:00,2
+Minnesota Ave,2025-10-07 00:00:00,1
+Morgan Boulevard,2025-10-07 00:00:00,1
+Mt Vernon Sq 7th St-Convention Center,2025-10-07 00:00:00,7
+Navy Yard-Ballpark,2025-10-07 00:00:00,7
+Naylor Road,2025-10-07 00:00:00,7
+New Carrollton,2025-10-07 00:00:00,1
+NoMa-Gallaudet U,2025-10-07 00:00:00,2
+North Bethesda,2025-10-07 00:00:00,2
+Pentagon,2025-10-07 00:00:00,8
+Pentagon City,2025-10-07 00:00:00,8
+Potomac Ave,2025-10-07 00:00:00,1
+Potomac Yard,2025-10-07 00:00:00,8
+Reston Town Center,2025-10-07 00:00:00,1
+"Rhode Island Ave-Brentwood,",2025-10-07 00:00:00,2
+Rockville,2025-10-07 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-07 00:00:00,8
+Rosslyn,2025-10-07 00:00:00,1
+Shady Grove,2025-10-07 00:00:00,2
+Shaw-Howard U,2025-10-07 00:00:00,7
+Silver Spring,2025-10-07 00:00:00,2
+Smithsonian,2025-10-07 00:00:00,1
+Southern Avenue,2025-10-07 00:00:00,7
+Spring Hill,2025-10-07 00:00:00,1
+Stadium-Armory,2025-10-07 00:00:00,1
+Suitland,2025-10-07 00:00:00,7
+Takoma,2025-10-07 00:00:00,2
+Tenleytown-AU,2025-10-07 00:00:00,2
+Twinbrook,2025-10-07 00:00:00,2
+Tysons,2025-10-07 00:00:00,1
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-07 00:00:00,7
+Union Station,2025-10-07 00:00:00,2
+Van Dorn Street,2025-10-07 00:00:00,8
+Van Ness-UDC,2025-10-07 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-07 00:00:00,1
+Virginia Square-GMU,2025-10-07 00:00:00,1
+Washington Dulles International Airport,2025-10-07 00:00:00,1
+Waterfront,2025-10-07 00:00:00,7
+West Falls Church,2025-10-07 00:00:00,1
+West Hyattsville,2025-10-07 00:00:00,7
+Wheaton,2025-10-07 00:00:00,2
+Wiehle-Reston East,2025-10-07 00:00:00,1
+Woodley Park-Zoo/Adams Morgan,2025-10-07 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-08 00:00:00,1
+Anacostia,2025-10-08 00:00:00,8
+Archives-Navy Memorial-Penn Quarter,2025-10-08 00:00:00,8
+Arlington Cemetery,2025-10-08 00:00:00,1
+Ashburn,2025-10-08 00:00:00,1
+Ballston-MU,2025-10-08 00:00:00,1
+Benning Road,2025-10-08 00:00:00,1
+Bethesda,2025-10-08 00:00:00,2
+Braddock Road,2025-10-08 00:00:00,8
+Branch Ave,2025-10-08 00:00:00,8
+Brookland-CUA,2025-10-08 00:00:00,2
+Capitol Heights,2025-10-08 00:00:00,1
+Capitol South,2025-10-08 00:00:00,1
+Cheverly,2025-10-08 00:00:00,1
+Clarendon,2025-10-08 00:00:00,1
+Cleveland Park,2025-10-08 00:00:00,2
+College Park-U of Md,2025-10-08 00:00:00,8
+Columbia Heights,2025-10-08 00:00:00,8
+Congress Heights,2025-10-08 00:00:00,8
+Court House,2025-10-08 00:00:00,1
+Crystal City,2025-10-08 00:00:00,8
+Deanwood,2025-10-08 00:00:00,1
+Downtown Largo,2025-10-08 00:00:00,1
+Dunn Loring-Merrifield,2025-10-08 00:00:00,1
+Dupont Circle,2025-10-08 00:00:00,2
+East Falls Church,2025-10-08 00:00:00,1
+Eastern Market,2025-10-08 00:00:00,1
+Eisenhower Ave,2025-10-08 00:00:00,8
+Farragut North,2025-10-08 00:00:00,2
+Farragut West,2025-10-08 00:00:00,1
+Federal Center SW,2025-10-08 00:00:00,1
+Federal Triangle,2025-10-08 00:00:00,1
+Foggy Bottom-GWU,2025-10-08 00:00:00,1
+Forest Glen,2025-10-08 00:00:00,2
+Fort Totten,2025-10-08 00:00:00,8
+Franconia-Springfield,2025-10-08 00:00:00,8
+Friendship Heights,2025-10-08 00:00:00,2
+Gallery Pl-Chinatown,2025-10-08 00:00:00,8
+Georgia Ave-Petworth,2025-10-08 00:00:00,8
+Glenmont,2025-10-08 00:00:00,2
+Greenbelt,2025-10-08 00:00:00,8
+Greensboro,2025-10-08 00:00:00,1
+Grosvenor-Strathmore,2025-10-08 00:00:00,2
+Herndon,2025-10-08 00:00:00,1
+Huntington,2025-10-08 00:00:00,8
+Hyattsville Crossing,2025-10-08 00:00:00,8
+Innovation Center,2025-10-08 00:00:00,1
+Judiciary Square,2025-10-08 00:00:00,2
+King St-Old Town,2025-10-08 00:00:00,8
+L'Enfant Plaza,2025-10-08 00:00:00,8
+Landover,2025-10-08 00:00:00,1
+Loudoun Gateway,2025-10-08 00:00:00,1
+McLean,2025-10-08 00:00:00,1
+McPherson Sq,2025-10-08 00:00:00,1
+Medical Center,2025-10-08 00:00:00,2
+Metro Center,2025-10-08 00:00:00,2
+Minnesota Ave,2025-10-08 00:00:00,1
+Morgan Boulevard,2025-10-08 00:00:00,1
+Mt Vernon Sq 7th St-Convention Center,2025-10-08 00:00:00,8
+Navy Yard-Ballpark,2025-10-08 00:00:00,8
+Naylor Road,2025-10-08 00:00:00,8
+New Carrollton,2025-10-08 00:00:00,1
+NoMa-Gallaudet U,2025-10-08 00:00:00,2
+North Bethesda,2025-10-08 00:00:00,2
+Pentagon,2025-10-08 00:00:00,8
+Pentagon City,2025-10-08 00:00:00,8
+Potomac Ave,2025-10-08 00:00:00,1
+Potomac Yard,2025-10-08 00:00:00,8
+Reston Town Center,2025-10-08 00:00:00,1
+"Rhode Island Ave-Brentwood,",2025-10-08 00:00:00,2
+Rockville,2025-10-08 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-08 00:00:00,8
+Rosslyn,2025-10-08 00:00:00,1
+Shady Grove,2025-10-08 00:00:00,2
+Shaw-Howard U,2025-10-08 00:00:00,8
+Silver Spring,2025-10-08 00:00:00,2
+Smithsonian,2025-10-08 00:00:00,1
+Southern Avenue,2025-10-08 00:00:00,8
+Spring Hill,2025-10-08 00:00:00,1
+Stadium-Armory,2025-10-08 00:00:00,1
+Suitland,2025-10-08 00:00:00,8
+Takoma,2025-10-08 00:00:00,2
+Tenleytown-AU,2025-10-08 00:00:00,2
+Twinbrook,2025-10-08 00:00:00,2
+Tysons,2025-10-08 00:00:00,1
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-08 00:00:00,8
+Union Station,2025-10-08 00:00:00,2
+Van Dorn Street,2025-10-08 00:00:00,8
+Van Ness-UDC,2025-10-08 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-08 00:00:00,1
+Virginia Square-GMU,2025-10-08 00:00:00,1
+Washington Dulles International Airport,2025-10-08 00:00:00,1
+Waterfront,2025-10-08 00:00:00,8
+West Falls Church,2025-10-08 00:00:00,1
+West Hyattsville,2025-10-08 00:00:00,8
+Wheaton,2025-10-08 00:00:00,2
+Wiehle-Reston East,2025-10-08 00:00:00,1
+Woodley Park-Zoo/Adams Morgan,2025-10-08 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-09 00:00:00,1
+Anacostia,2025-10-09 00:00:00,8
+Archives-Navy Memorial-Penn Quarter,2025-10-09 00:00:00,8
+Arlington Cemetery,2025-10-09 00:00:00,8
+Ashburn,2025-10-09 00:00:00,1
+Ballston-MU,2025-10-09 00:00:00,1
+Benning Road,2025-10-09 00:00:00,1
+Bethesda,2025-10-09 00:00:00,2
+Braddock Road,2025-10-09 00:00:00,8
+Branch Ave,2025-10-09 00:00:00,8
+Brookland-CUA,2025-10-09 00:00:00,2
+Capitol Heights,2025-10-09 00:00:00,1
+Capitol South,2025-10-09 00:00:00,1
+Cheverly,2025-10-09 00:00:00,1
+Clarendon,2025-10-09 00:00:00,1
+Cleveland Park,2025-10-09 00:00:00,2
+College Park-U of Md,2025-10-09 00:00:00,8
+Columbia Heights,2025-10-09 00:00:00,8
+Congress Heights,2025-10-09 00:00:00,8
+Court House,2025-10-09 00:00:00,1
+Crystal City,2025-10-09 00:00:00,8
+Deanwood,2025-10-09 00:00:00,1
+Downtown Largo,2025-10-09 00:00:00,1
+Dunn Loring-Merrifield,2025-10-09 00:00:00,1
+Dupont Circle,2025-10-09 00:00:00,2
+East Falls Church,2025-10-09 00:00:00,1
+Eastern Market,2025-10-09 00:00:00,1
+Eisenhower Ave,2025-10-09 00:00:00,8
+Farragut North,2025-10-09 00:00:00,2
+Farragut West,2025-10-09 00:00:00,1
+Federal Center SW,2025-10-09 00:00:00,1
+Federal Triangle,2025-10-09 00:00:00,1
+Foggy Bottom-GWU,2025-10-09 00:00:00,1
+Forest Glen,2025-10-09 00:00:00,2
+Fort Totten,2025-10-09 00:00:00,2
+Franconia-Springfield,2025-10-09 00:00:00,8
+Friendship Heights,2025-10-09 00:00:00,2
+Gallery Pl-Chinatown,2025-10-09 00:00:00,8
+Georgia Ave-Petworth,2025-10-09 00:00:00,8
+Glenmont,2025-10-09 00:00:00,2
+Greenbelt,2025-10-09 00:00:00,8
+Greensboro,2025-10-09 00:00:00,1
+Grosvenor-Strathmore,2025-10-09 00:00:00,2
+Herndon,2025-10-09 00:00:00,1
+Huntington,2025-10-09 00:00:00,8
+Hyattsville Crossing,2025-10-09 00:00:00,8
+Innovation Center,2025-10-09 00:00:00,1
+Judiciary Square,2025-10-09 00:00:00,2
+King St-Old Town,2025-10-09 00:00:00,8
+L'Enfant Plaza,2025-10-09 00:00:00,8
+Landover,2025-10-09 00:00:00,1
+Loudoun Gateway,2025-10-09 00:00:00,1
+McLean,2025-10-09 00:00:00,1
+McPherson Sq,2025-10-09 00:00:00,1
+Medical Center,2025-10-09 00:00:00,2
+Metro Center,2025-10-09 00:00:00,2
+Minnesota Ave,2025-10-09 00:00:00,1
+Morgan Boulevard,2025-10-09 00:00:00,1
+Mt Vernon Sq 7th St-Convention Center,2025-10-09 00:00:00,8
+Navy Yard-Ballpark,2025-10-09 00:00:00,8
+Naylor Road,2025-10-09 00:00:00,8
+New Carrollton,2025-10-09 00:00:00,1
+NoMa-Gallaudet U,2025-10-09 00:00:00,2
+North Bethesda,2025-10-09 00:00:00,2
+Pentagon,2025-10-09 00:00:00,8
+Pentagon City,2025-10-09 00:00:00,8
+Potomac Ave,2025-10-09 00:00:00,1
+Potomac Yard,2025-10-09 00:00:00,8
+Reston Town Center,2025-10-09 00:00:00,1
+"Rhode Island Ave-Brentwood,",2025-10-09 00:00:00,2
+Rockville,2025-10-09 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-09 00:00:00,8
+Rosslyn,2025-10-09 00:00:00,1
+Shady Grove,2025-10-09 00:00:00,2
+Shaw-Howard U,2025-10-09 00:00:00,8
+Silver Spring,2025-10-09 00:00:00,2
+Smithsonian,2025-10-09 00:00:00,1
+Southern Avenue,2025-10-09 00:00:00,8
+Spring Hill,2025-10-09 00:00:00,1
+Stadium-Armory,2025-10-09 00:00:00,1
+Suitland,2025-10-09 00:00:00,8
+Takoma,2025-10-09 00:00:00,2
+Tenleytown-AU,2025-10-09 00:00:00,2
+Twinbrook,2025-10-09 00:00:00,2
+Tysons,2025-10-09 00:00:00,1
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-09 00:00:00,8
+Union Station,2025-10-09 00:00:00,2
+Van Dorn Street,2025-10-09 00:00:00,8
+Van Ness-UDC,2025-10-09 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-09 00:00:00,1
+Virginia Square-GMU,2025-10-09 00:00:00,1
+Washington Dulles International Airport,2025-10-09 00:00:00,1
+Waterfront,2025-10-09 00:00:00,8
+West Falls Church,2025-10-09 00:00:00,1
+West Hyattsville,2025-10-09 00:00:00,8
+Wheaton,2025-10-09 00:00:00,2
+Wiehle-Reston East,2025-10-09 00:00:00,1
+Woodley Park-Zoo/Adams Morgan,2025-10-09 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-10 00:00:00,1
+Anacostia,2025-10-10 00:00:00,10
+Archives-Navy Memorial-Penn Quarter,2025-10-10 00:00:00,8
+Arlington Cemetery,2025-10-10 00:00:00,8
+Ashburn,2025-10-10 00:00:00,1
+Ballston-MU,2025-10-10 00:00:00,1
+Benning Road,2025-10-10 00:00:00,1
+Bethesda,2025-10-10 00:00:00,2
+Braddock Road,2025-10-10 00:00:00,8
+Branch Ave,2025-10-10 00:00:00,10
+Brookland-CUA,2025-10-10 00:00:00,2
+Capitol Heights,2025-10-10 00:00:00,1
+Capitol South,2025-10-10 00:00:00,1
+Cheverly,2025-10-10 00:00:00,1
+Clarendon,2025-10-10 00:00:00,1
+Cleveland Park,2025-10-10 00:00:00,2
+College Park-U of Md,2025-10-10 00:00:00,10
+Columbia Heights,2025-10-10 00:00:00,10
+Congress Heights,2025-10-10 00:00:00,10
+Court House,2025-10-10 00:00:00,1
+Crystal City,2025-10-10 00:00:00,8
+Deanwood,2025-10-10 00:00:00,1
+Downtown Largo,2025-10-10 00:00:00,1
+Dunn Loring-Merrifield,2025-10-10 00:00:00,1
+Dupont Circle,2025-10-10 00:00:00,2
+East Falls Church,2025-10-10 00:00:00,1
+Eastern Market,2025-10-10 00:00:00,1
+Eisenhower Ave,2025-10-10 00:00:00,8
+Farragut North,2025-10-10 00:00:00,2
+Farragut West,2025-10-10 00:00:00,1
+Federal Center SW,2025-10-10 00:00:00,1
+Federal Triangle,2025-10-10 00:00:00,1
+Foggy Bottom-GWU,2025-10-10 00:00:00,1
+Forest Glen,2025-10-10 00:00:00,2
+Fort Totten,2025-10-10 00:00:00,10
+Franconia-Springfield,2025-10-10 00:00:00,8
+Friendship Heights,2025-10-10 00:00:00,2
+Gallery Pl-Chinatown,2025-10-10 00:00:00,10
+Georgia Ave-Petworth,2025-10-10 00:00:00,10
+Glenmont,2025-10-10 00:00:00,2
+Greenbelt,2025-10-10 00:00:00,10
+Greensboro,2025-10-10 00:00:00,1
+Grosvenor-Strathmore,2025-10-10 00:00:00,2
+Herndon,2025-10-10 00:00:00,1
+Huntington,2025-10-10 00:00:00,8
+Hyattsville Crossing,2025-10-10 00:00:00,10
+Innovation Center,2025-10-10 00:00:00,1
+Judiciary Square,2025-10-10 00:00:00,2
+King St-Old Town,2025-10-10 00:00:00,8
+L'Enfant Plaza,2025-10-10 00:00:00,8
+Landover,2025-10-10 00:00:00,1
+Loudoun Gateway,2025-10-10 00:00:00,1
+McLean,2025-10-10 00:00:00,1
+McPherson Sq,2025-10-10 00:00:00,1
+Medical Center,2025-10-10 00:00:00,2
+Metro Center,2025-10-10 00:00:00,2
+Minnesota Ave,2025-10-10 00:00:00,1
+Morgan Boulevard,2025-10-10 00:00:00,1
+Mt Vernon Sq 7th St-Convention Center,2025-10-10 00:00:00,10
+Navy Yard-Ballpark,2025-10-10 00:00:00,10
+Naylor Road,2025-10-10 00:00:00,10
+New Carrollton,2025-10-10 00:00:00,1
+NoMa-Gallaudet U,2025-10-10 00:00:00,2
+North Bethesda,2025-10-10 00:00:00,2
+Pentagon,2025-10-10 00:00:00,8
+Pentagon City,2025-10-10 00:00:00,8
+Potomac Ave,2025-10-10 00:00:00,1
+Potomac Yard,2025-10-10 00:00:00,8
+Reston Town Center,2025-10-10 00:00:00,1
+"Rhode Island Ave-Brentwood,",2025-10-10 00:00:00,2
+Rockville,2025-10-10 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-10 00:00:00,8
+Rosslyn,2025-10-10 00:00:00,1
+Shady Grove,2025-10-10 00:00:00,2
+Shaw-Howard U,2025-10-10 00:00:00,10
+Silver Spring,2025-10-10 00:00:00,2
+Smithsonian,2025-10-10 00:00:00,1
+Southern Avenue,2025-10-10 00:00:00,10
+Spring Hill,2025-10-10 00:00:00,1
+Stadium-Armory,2025-10-10 00:00:00,1
+Suitland,2025-10-10 00:00:00,10
+Takoma,2025-10-10 00:00:00,2
+Tenleytown-AU,2025-10-10 00:00:00,2
+Twinbrook,2025-10-10 00:00:00,2
+Tysons,2025-10-10 00:00:00,1
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-10 00:00:00,10
+Union Station,2025-10-10 00:00:00,2
+Van Dorn Street,2025-10-10 00:00:00,8
+Van Ness-UDC,2025-10-10 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-10 00:00:00,1
+Virginia Square-GMU,2025-10-10 00:00:00,1
+Washington Dulles International Airport,2025-10-10 00:00:00,1
+Waterfront,2025-10-10 00:00:00,10
+West Falls Church,2025-10-10 00:00:00,1
+West Hyattsville,2025-10-10 00:00:00,10
+Wheaton,2025-10-10 00:00:00,2
+Wiehle-Reston East,2025-10-10 00:00:00,1
+Woodley Park-Zoo/Adams Morgan,2025-10-10 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-11 00:00:00,1
+Anacostia,2025-10-11 00:00:00,10
+Archives-Navy Memorial-Penn Quarter,2025-10-11 00:00:00,10
+Arlington Cemetery,2025-10-11 00:00:00,1
+Ashburn,2025-10-11 00:00:00,1
+Ballston-MU,2025-10-11 00:00:00,1
+Benning Road,2025-10-11 00:00:00,1
+Bethesda,2025-10-11 00:00:00,2
+Braddock Road,2025-10-11 00:00:00,1
+Branch Ave,2025-10-11 00:00:00,10
+Brookland-CUA,2025-10-11 00:00:00,2
+Capitol Heights,2025-10-11 00:00:00,1
+Capitol South,2025-10-11 00:00:00,1
+Cheverly,2025-10-11 00:00:00,1
+Clarendon,2025-10-11 00:00:00,1
+Cleveland Park,2025-10-11 00:00:00,2
+College Park-U of Md,2025-10-11 00:00:00,10
+Columbia Heights,2025-10-11 00:00:00,10
+Congress Heights,2025-10-11 00:00:00,10
+Court House,2025-10-11 00:00:00,1
+Crystal City,2025-10-11 00:00:00,1
+Deanwood,2025-10-11 00:00:00,1
+Downtown Largo,2025-10-11 00:00:00,1
+Dunn Loring-Merrifield,2025-10-11 00:00:00,1
+Dupont Circle,2025-10-11 00:00:00,2
+East Falls Church,2025-10-11 00:00:00,1
+Eastern Market,2025-10-11 00:00:00,1
+Eisenhower Ave,2025-10-11 00:00:00,1
+Farragut North,2025-10-11 00:00:00,2
+Farragut West,2025-10-11 00:00:00,1
+Federal Center SW,2025-10-11 00:00:00,1
+Federal Triangle,2025-10-11 00:00:00,1
+Foggy Bottom-GWU,2025-10-11 00:00:00,1
+Forest Glen,2025-10-11 00:00:00,2
+Fort Totten,2025-10-11 00:00:00,10
+Franconia-Springfield,2025-10-11 00:00:00,1
+Friendship Heights,2025-10-11 00:00:00,2
+Gallery Pl-Chinatown,2025-10-11 00:00:00,10
+Georgia Ave-Petworth,2025-10-11 00:00:00,10
+Glenmont,2025-10-11 00:00:00,2
+Greenbelt,2025-10-11 00:00:00,10
+Greensboro,2025-10-11 00:00:00,1
+Grosvenor-Strathmore,2025-10-11 00:00:00,2
+Herndon,2025-10-11 00:00:00,1
+Huntington,2025-10-11 00:00:00,1
+Hyattsville Crossing,2025-10-11 00:00:00,10
+Innovation Center,2025-10-11 00:00:00,1
+Judiciary Square,2025-10-11 00:00:00,2
+King St-Old Town,2025-10-11 00:00:00,1
+L'Enfant Plaza,2025-10-11 00:00:00,1
+Landover,2025-10-11 00:00:00,1
+Loudoun Gateway,2025-10-11 00:00:00,1
+McLean,2025-10-11 00:00:00,1
+McPherson Sq,2025-10-11 00:00:00,1
+Medical Center,2025-10-11 00:00:00,2
+Metro Center,2025-10-11 00:00:00,2
+Minnesota Ave,2025-10-11 00:00:00,1
+Morgan Boulevard,2025-10-11 00:00:00,1
+Mt Vernon Sq 7th St-Convention Center,2025-10-11 00:00:00,10
+Navy Yard-Ballpark,2025-10-11 00:00:00,10
+Naylor Road,2025-10-11 00:00:00,10
+New Carrollton,2025-10-11 00:00:00,1
+NoMa-Gallaudet U,2025-10-11 00:00:00,2
+North Bethesda,2025-10-11 00:00:00,2
+Pentagon,2025-10-11 00:00:00,1
+Pentagon City,2025-10-11 00:00:00,1
+Potomac Ave,2025-10-11 00:00:00,1
+Potomac Yard,2025-10-11 00:00:00,1
+Reston Town Center,2025-10-11 00:00:00,1
+"Rhode Island Ave-Brentwood,",2025-10-11 00:00:00,2
+Rockville,2025-10-11 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-11 00:00:00,1
+Rosslyn,2025-10-11 00:00:00,1
+Shady Grove,2025-10-11 00:00:00,2
+Shaw-Howard U,2025-10-11 00:00:00,10
+Silver Spring,2025-10-11 00:00:00,2
+Smithsonian,2025-10-11 00:00:00,1
+Southern Avenue,2025-10-11 00:00:00,10
+Spring Hill,2025-10-11 00:00:00,1
+Stadium-Armory,2025-10-11 00:00:00,1
+Suitland,2025-10-11 00:00:00,10
+Takoma,2025-10-11 00:00:00,2
+Tenleytown-AU,2025-10-11 00:00:00,2
+Twinbrook,2025-10-11 00:00:00,2
+Tysons,2025-10-11 00:00:00,1
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-11 00:00:00,10
+Union Station,2025-10-11 00:00:00,2
+Van Dorn Street,2025-10-11 00:00:00,1
+Van Ness-UDC,2025-10-11 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-11 00:00:00,1
+Virginia Square-GMU,2025-10-11 00:00:00,1
+Washington Dulles International Airport,2025-10-11 00:00:00,1
+Waterfront,2025-10-11 00:00:00,10
+West Falls Church,2025-10-11 00:00:00,1
+West Hyattsville,2025-10-11 00:00:00,10
+Wheaton,2025-10-11 00:00:00,2
+Wiehle-Reston East,2025-10-11 00:00:00,1
+Woodley Park-Zoo/Adams Morgan,2025-10-11 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-12 00:00:00,1
+Anacostia,2025-10-12 00:00:00,10
+Archives-Navy Memorial-Penn Quarter,2025-10-12 00:00:00,10
+Arlington Cemetery,2025-10-12 00:00:00,11
+Ashburn,2025-10-12 00:00:00,11
+Ballston-MU,2025-10-12 00:00:00,11
+Benning Road,2025-10-12 00:00:00,1
+Bethesda,2025-10-12 00:00:00,2
+Braddock Road,2025-10-12 00:00:00,11
+Branch Ave,2025-10-12 00:00:00,10
+Brookland-CUA,2025-10-12 00:00:00,2
+Capitol Heights,2025-10-12 00:00:00,1
+Capitol South,2025-10-12 00:00:00,11
+Cheverly,2025-10-12 00:00:00,11
+Clarendon,2025-10-12 00:00:00,11
+Cleveland Park,2025-10-12 00:00:00,2
+College Park-U of Md,2025-10-12 00:00:00,10
+Columbia Heights,2025-10-12 00:00:00,10
+Congress Heights,2025-10-12 00:00:00,10
+Court House,2025-10-12 00:00:00,11
+Crystal City,2025-10-12 00:00:00,11
+Deanwood,2025-10-12 00:00:00,11
+Downtown Largo,2025-10-12 00:00:00,1
+Dunn Loring-Merrifield,2025-10-12 00:00:00,11
+Dupont Circle,2025-10-12 00:00:00,2
+East Falls Church,2025-10-12 00:00:00,11
+Eastern Market,2025-10-12 00:00:00,11
+Eisenhower Ave,2025-10-12 00:00:00,11
+Farragut North,2025-10-12 00:00:00,2
+Farragut West,2025-10-12 00:00:00,11
+Federal Center SW,2025-10-12 00:00:00,11
+Federal Triangle,2025-10-12 00:00:00,11
+Foggy Bottom-GWU,2025-10-12 00:00:00,11
+Forest Glen,2025-10-12 00:00:00,2
+Fort Totten,2025-10-12 00:00:00,10
+Franconia-Springfield,2025-10-12 00:00:00,11
+Friendship Heights,2025-10-12 00:00:00,2
+Gallery Pl-Chinatown,2025-10-12 00:00:00,10
+Georgia Ave-Petworth,2025-10-12 00:00:00,10
+Glenmont,2025-10-12 00:00:00,2
+Greenbelt,2025-10-12 00:00:00,10
+Greensboro,2025-10-12 00:00:00,11
+Grosvenor-Strathmore,2025-10-12 00:00:00,2
+Herndon,2025-10-12 00:00:00,11
+Huntington,2025-10-12 00:00:00,11
+Hyattsville Crossing,2025-10-12 00:00:00,10
+Innovation Center,2025-10-12 00:00:00,11
+Judiciary Square,2025-10-12 00:00:00,2
+King St-Old Town,2025-10-12 00:00:00,11
+L'Enfant Plaza,2025-10-12 00:00:00,11
+Landover,2025-10-12 00:00:00,11
+Loudoun Gateway,2025-10-12 00:00:00,11
+McLean,2025-10-12 00:00:00,11
+McPherson Sq,2025-10-12 00:00:00,11
+Medical Center,2025-10-12 00:00:00,2
+Metro Center,2025-10-12 00:00:00,2
+Minnesota Ave,2025-10-12 00:00:00,11
+Morgan Boulevard,2025-10-12 00:00:00,1
+Mt Vernon Sq 7th St-Convention Center,2025-10-12 00:00:00,10
+Navy Yard-Ballpark,2025-10-12 00:00:00,10
+Naylor Road,2025-10-12 00:00:00,10
+New Carrollton,2025-10-12 00:00:00,11
+NoMa-Gallaudet U,2025-10-12 00:00:00,2
+North Bethesda,2025-10-12 00:00:00,2
+Pentagon,2025-10-12 00:00:00,11
+Pentagon City,2025-10-12 00:00:00,11
+Potomac Ave,2025-10-12 00:00:00,11
+Potomac Yard,2025-10-12 00:00:00,11
+Reston Town Center,2025-10-12 00:00:00,11
+"Rhode Island Ave-Brentwood,",2025-10-12 00:00:00,2
+Rockville,2025-10-12 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-12 00:00:00,11
+Rosslyn,2025-10-12 00:00:00,11
+Shady Grove,2025-10-12 00:00:00,2
+Shaw-Howard U,2025-10-12 00:00:00,10
+Silver Spring,2025-10-12 00:00:00,2
+Smithsonian,2025-10-12 00:00:00,11
+Southern Avenue,2025-10-12 00:00:00,10
+Spring Hill,2025-10-12 00:00:00,11
+Stadium-Armory,2025-10-12 00:00:00,11
+Suitland,2025-10-12 00:00:00,10
+Takoma,2025-10-12 00:00:00,2
+Tenleytown-AU,2025-10-12 00:00:00,2
+Twinbrook,2025-10-12 00:00:00,2
+Tysons,2025-10-12 00:00:00,11
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-12 00:00:00,10
+Union Station,2025-10-12 00:00:00,2
+Van Dorn Street,2025-10-12 00:00:00,11
+Van Ness-UDC,2025-10-12 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-12 00:00:00,11
+Virginia Square-GMU,2025-10-12 00:00:00,11
+Washington Dulles International Airport,2025-10-12 00:00:00,11
+Waterfront,2025-10-12 00:00:00,10
+West Falls Church,2025-10-12 00:00:00,11
+West Hyattsville,2025-10-12 00:00:00,10
+Wheaton,2025-10-12 00:00:00,2
+Wiehle-Reston East,2025-10-12 00:00:00,11
+Woodley Park-Zoo/Adams Morgan,2025-10-12 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-13 00:00:00,11
+Anacostia,2025-10-13 00:00:00,10
+Archives-Navy Memorial-Penn Quarter,2025-10-13 00:00:00,12
+Arlington Cemetery,2025-10-13 00:00:00,12
+Ashburn,2025-10-13 00:00:00,11
+Ballston-MU,2025-10-13 00:00:00,11
+Benning Road,2025-10-13 00:00:00,11
+Bethesda,2025-10-13 00:00:00,2
+Braddock Road,2025-10-13 00:00:00,12
+Branch Ave,2025-10-13 00:00:00,10
+Brookland-CUA,2025-10-13 00:00:00,2
+Capitol Heights,2025-10-13 00:00:00,11
+Capitol South,2025-10-13 00:00:00,11
+Cheverly,2025-10-13 00:00:00,11
+Clarendon,2025-10-13 00:00:00,11
+Cleveland Park,2025-10-13 00:00:00,2
+College Park-U of Md,2025-10-13 00:00:00,10
+Columbia Heights,2025-10-13 00:00:00,10
+Congress Heights,2025-10-13 00:00:00,10
+Court House,2025-10-13 00:00:00,11
+Crystal City,2025-10-13 00:00:00,12
+Deanwood,2025-10-13 00:00:00,11
+Downtown Largo,2025-10-13 00:00:00,11
+Dunn Loring-Merrifield,2025-10-13 00:00:00,11
+Dupont Circle,2025-10-13 00:00:00,2
+East Falls Church,2025-10-13 00:00:00,11
+Eastern Market,2025-10-13 00:00:00,11
+Eisenhower Ave,2025-10-13 00:00:00,12
+Farragut North,2025-10-13 00:00:00,2
+Farragut West,2025-10-13 00:00:00,11
+Federal Center SW,2025-10-13 00:00:00,11
+Federal Triangle,2025-10-13 00:00:00,11
+Foggy Bottom-GWU,2025-10-13 00:00:00,11
+Forest Glen,2025-10-13 00:00:00,2
+Fort Totten,2025-10-13 00:00:00,10
+Franconia-Springfield,2025-10-13 00:00:00,12
+Friendship Heights,2025-10-13 00:00:00,2
+Gallery Pl-Chinatown,2025-10-13 00:00:00,10
+Georgia Ave-Petworth,2025-10-13 00:00:00,10
+Glenmont,2025-10-13 00:00:00,2
+Greenbelt,2025-10-13 00:00:00,10
+Greensboro,2025-10-13 00:00:00,11
+Grosvenor-Strathmore,2025-10-13 00:00:00,2
+Herndon,2025-10-13 00:00:00,11
+Huntington,2025-10-13 00:00:00,12
+Hyattsville Crossing,2025-10-13 00:00:00,10
+Innovation Center,2025-10-13 00:00:00,11
+Judiciary Square,2025-10-13 00:00:00,2
+King St-Old Town,2025-10-13 00:00:00,12
+L'Enfant Plaza,2025-10-13 00:00:00,12
+Landover,2025-10-13 00:00:00,11
+Loudoun Gateway,2025-10-13 00:00:00,11
+McLean,2025-10-13 00:00:00,11
+McPherson Sq,2025-10-13 00:00:00,11
+Medical Center,2025-10-13 00:00:00,2
+Metro Center,2025-10-13 00:00:00,2
+Minnesota Ave,2025-10-13 00:00:00,11
+Morgan Boulevard,2025-10-13 00:00:00,11
+Mt Vernon Sq 7th St-Convention Center,2025-10-13 00:00:00,12
+Navy Yard-Ballpark,2025-10-13 00:00:00,10
+Naylor Road,2025-10-13 00:00:00,10
+New Carrollton,2025-10-13 00:00:00,11
+NoMa-Gallaudet U,2025-10-13 00:00:00,2
+North Bethesda,2025-10-13 00:00:00,2
+Pentagon,2025-10-13 00:00:00,12
+Pentagon City,2025-10-13 00:00:00,12
+Potomac Ave,2025-10-13 00:00:00,11
+Potomac Yard,2025-10-13 00:00:00,12
+Reston Town Center,2025-10-13 00:00:00,11
+"Rhode Island Ave-Brentwood,",2025-10-13 00:00:00,2
+Rockville,2025-10-13 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-13 00:00:00,12
+Rosslyn,2025-10-13 00:00:00,11
+Shady Grove,2025-10-13 00:00:00,2
+Shaw-Howard U,2025-10-13 00:00:00,10
+Silver Spring,2025-10-13 00:00:00,2
+Smithsonian,2025-10-13 00:00:00,11
+Southern Avenue,2025-10-13 00:00:00,10
+Spring Hill,2025-10-13 00:00:00,11
+Stadium-Armory,2025-10-13 00:00:00,11
+Suitland,2025-10-13 00:00:00,10
+Takoma,2025-10-13 00:00:00,2
+Tenleytown-AU,2025-10-13 00:00:00,2
+Twinbrook,2025-10-13 00:00:00,2
+Tysons,2025-10-13 00:00:00,11
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-13 00:00:00,10
+Union Station,2025-10-13 00:00:00,2
+Van Dorn Street,2025-10-13 00:00:00,12
+Van Ness-UDC,2025-10-13 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-13 00:00:00,11
+Virginia Square-GMU,2025-10-13 00:00:00,11
+Washington Dulles International Airport,2025-10-13 00:00:00,11
+Waterfront,2025-10-13 00:00:00,10
+West Falls Church,2025-10-13 00:00:00,11
+West Hyattsville,2025-10-13 00:00:00,10
+Wheaton,2025-10-13 00:00:00,2
+Wiehle-Reston East,2025-10-13 00:00:00,11
+Woodley Park-Zoo/Adams Morgan,2025-10-13 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-14 00:00:00,11
+Anacostia,2025-10-14 00:00:00,12
+Archives-Navy Memorial-Penn Quarter,2025-10-14 00:00:00,12
+Arlington Cemetery,2025-10-14 00:00:00,12
+Ashburn,2025-10-14 00:00:00,11
+Ballston-MU,2025-10-14 00:00:00,11
+Benning Road,2025-10-14 00:00:00,11
+Bethesda,2025-10-14 00:00:00,2
+Braddock Road,2025-10-14 00:00:00,12
+Branch Ave,2025-10-14 00:00:00,12
+Brookland-CUA,2025-10-14 00:00:00,2
+Capitol Heights,2025-10-14 00:00:00,11
+Capitol South,2025-10-14 00:00:00,11
+Cheverly,2025-10-14 00:00:00,11
+Clarendon,2025-10-14 00:00:00,11
+Cleveland Park,2025-10-14 00:00:00,2
+College Park-U of Md,2025-10-14 00:00:00,12
+Columbia Heights,2025-10-14 00:00:00,12
+Congress Heights,2025-10-14 00:00:00,12
+Court House,2025-10-14 00:00:00,11
+Crystal City,2025-10-14 00:00:00,12
+Deanwood,2025-10-14 00:00:00,11
+Downtown Largo,2025-10-14 00:00:00,11
+Dunn Loring-Merrifield,2025-10-14 00:00:00,11
+Dupont Circle,2025-10-14 00:00:00,2
+East Falls Church,2025-10-14 00:00:00,11
+Eastern Market,2025-10-14 00:00:00,11
+Eisenhower Ave,2025-10-14 00:00:00,12
+Farragut North,2025-10-14 00:00:00,2
+Farragut West,2025-10-14 00:00:00,11
+Federal Center SW,2025-10-14 00:00:00,11
+Federal Triangle,2025-10-14 00:00:00,11
+Foggy Bottom-GWU,2025-10-14 00:00:00,11
+Forest Glen,2025-10-14 00:00:00,2
+Fort Totten,2025-10-14 00:00:00,2
+Franconia-Springfield,2025-10-14 00:00:00,12
+Friendship Heights,2025-10-14 00:00:00,2
+Gallery Pl-Chinatown,2025-10-14 00:00:00,12
+Georgia Ave-Petworth,2025-10-14 00:00:00,12
+Glenmont,2025-10-14 00:00:00,2
+Greenbelt,2025-10-14 00:00:00,12
+Greensboro,2025-10-14 00:00:00,11
+Grosvenor-Strathmore,2025-10-14 00:00:00,2
+Herndon,2025-10-14 00:00:00,11
+Huntington,2025-10-14 00:00:00,12
+Hyattsville Crossing,2025-10-14 00:00:00,12
+Innovation Center,2025-10-14 00:00:00,11
+Judiciary Square,2025-10-14 00:00:00,2
+King St-Old Town,2025-10-14 00:00:00,12
+L'Enfant Plaza,2025-10-14 00:00:00,12
+Landover,2025-10-14 00:00:00,11
+Loudoun Gateway,2025-10-14 00:00:00,11
+McLean,2025-10-14 00:00:00,11
+McPherson Sq,2025-10-14 00:00:00,11
+Medical Center,2025-10-14 00:00:00,2
+Metro Center,2025-10-14 00:00:00,2
+Minnesota Ave,2025-10-14 00:00:00,11
+Morgan Boulevard,2025-10-14 00:00:00,11
+Mt Vernon Sq 7th St-Convention Center,2025-10-14 00:00:00,12
+Navy Yard-Ballpark,2025-10-14 00:00:00,12
+Naylor Road,2025-10-14 00:00:00,12
+New Carrollton,2025-10-14 00:00:00,11
+NoMa-Gallaudet U,2025-10-14 00:00:00,2
+North Bethesda,2025-10-14 00:00:00,2
+Pentagon,2025-10-14 00:00:00,12
+Pentagon City,2025-10-14 00:00:00,12
+Potomac Ave,2025-10-14 00:00:00,11
+Potomac Yard,2025-10-14 00:00:00,12
+Reston Town Center,2025-10-14 00:00:00,11
+"Rhode Island Ave-Brentwood,",2025-10-14 00:00:00,2
+Rockville,2025-10-14 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-14 00:00:00,12
+Rosslyn,2025-10-14 00:00:00,11
+Shady Grove,2025-10-14 00:00:00,2
+Shaw-Howard U,2025-10-14 00:00:00,12
+Silver Spring,2025-10-14 00:00:00,2
+Smithsonian,2025-10-14 00:00:00,11
+Southern Avenue,2025-10-14 00:00:00,12
+Spring Hill,2025-10-14 00:00:00,11
+Stadium-Armory,2025-10-14 00:00:00,11
+Suitland,2025-10-14 00:00:00,12
+Takoma,2025-10-14 00:00:00,2
+Tenleytown-AU,2025-10-14 00:00:00,2
+Twinbrook,2025-10-14 00:00:00,2
+Tysons,2025-10-14 00:00:00,11
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-14 00:00:00,12
+Union Station,2025-10-14 00:00:00,2
+Van Dorn Street,2025-10-14 00:00:00,12
+Van Ness-UDC,2025-10-14 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-14 00:00:00,11
+Virginia Square-GMU,2025-10-14 00:00:00,11
+Washington Dulles International Airport,2025-10-14 00:00:00,11
+Waterfront,2025-10-14 00:00:00,12
+West Falls Church,2025-10-14 00:00:00,11
+West Hyattsville,2025-10-14 00:00:00,12
+Wheaton,2025-10-14 00:00:00,2
+Wiehle-Reston East,2025-10-14 00:00:00,11
+Woodley Park-Zoo/Adams Morgan,2025-10-14 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-15 00:00:00,11
+Anacostia,2025-10-15 00:00:00,12
+Archives-Navy Memorial-Penn Quarter,2025-10-15 00:00:00,12
+Arlington Cemetery,2025-10-15 00:00:00,11
+Ashburn,2025-10-15 00:00:00,11
+Ballston-MU,2025-10-15 00:00:00,11
+Benning Road,2025-10-15 00:00:00,11
+Bethesda,2025-10-15 00:00:00,2
+Braddock Road,2025-10-15 00:00:00,12
+Branch Ave,2025-10-15 00:00:00,12
+Brookland-CUA,2025-10-15 00:00:00,2
+Capitol Heights,2025-10-15 00:00:00,11
+Capitol South,2025-10-15 00:00:00,11
+Cheverly,2025-10-15 00:00:00,11
+Clarendon,2025-10-15 00:00:00,11
+Cleveland Park,2025-10-15 00:00:00,2
+College Park-U of Md,2025-10-15 00:00:00,12
+Columbia Heights,2025-10-15 00:00:00,12
+Congress Heights,2025-10-15 00:00:00,12
+Court House,2025-10-15 00:00:00,11
+Crystal City,2025-10-15 00:00:00,12
+Deanwood,2025-10-15 00:00:00,11
+Downtown Largo,2025-10-15 00:00:00,11
+Dunn Loring-Merrifield,2025-10-15 00:00:00,11
+Dupont Circle,2025-10-15 00:00:00,2
+East Falls Church,2025-10-15 00:00:00,11
+Eastern Market,2025-10-15 00:00:00,11
+Eisenhower Ave,2025-10-15 00:00:00,12
+Farragut North,2025-10-15 00:00:00,2
+Farragut West,2025-10-15 00:00:00,11
+Federal Center SW,2025-10-15 00:00:00,11
+Federal Triangle,2025-10-15 00:00:00,11
+Foggy Bottom-GWU,2025-10-15 00:00:00,11
+Forest Glen,2025-10-15 00:00:00,2
+Fort Totten,2025-10-15 00:00:00,2
+Franconia-Springfield,2025-10-15 00:00:00,12
+Friendship Heights,2025-10-15 00:00:00,2
+Gallery Pl-Chinatown,2025-10-15 00:00:00,12
+Georgia Ave-Petworth,2025-10-15 00:00:00,12
+Glenmont,2025-10-15 00:00:00,2
+Greenbelt,2025-10-15 00:00:00,12
+Greensboro,2025-10-15 00:00:00,11
+Grosvenor-Strathmore,2025-10-15 00:00:00,2
+Herndon,2025-10-15 00:00:00,11
+Huntington,2025-10-15 00:00:00,12
+Hyattsville Crossing,2025-10-15 00:00:00,12
+Innovation Center,2025-10-15 00:00:00,11
+Judiciary Square,2025-10-15 00:00:00,2
+King St-Old Town,2025-10-15 00:00:00,12
+L'Enfant Plaza,2025-10-15 00:00:00,12
+Landover,2025-10-15 00:00:00,11
+Loudoun Gateway,2025-10-15 00:00:00,11
+McLean,2025-10-15 00:00:00,11
+McPherson Sq,2025-10-15 00:00:00,11
+Medical Center,2025-10-15 00:00:00,2
+Metro Center,2025-10-15 00:00:00,2
+Minnesota Ave,2025-10-15 00:00:00,11
+Morgan Boulevard,2025-10-15 00:00:00,11
+Mt Vernon Sq 7th St-Convention Center,2025-10-15 00:00:00,12
+Navy Yard-Ballpark,2025-10-15 00:00:00,12
+Naylor Road,2025-10-15 00:00:00,12
+New Carrollton,2025-10-15 00:00:00,11
+NoMa-Gallaudet U,2025-10-15 00:00:00,2
+North Bethesda,2025-10-15 00:00:00,2
+Pentagon,2025-10-15 00:00:00,12
+Pentagon City,2025-10-15 00:00:00,12
+Potomac Ave,2025-10-15 00:00:00,11
+Potomac Yard,2025-10-15 00:00:00,12
+Reston Town Center,2025-10-15 00:00:00,11
+"Rhode Island Ave-Brentwood,",2025-10-15 00:00:00,2
+Rockville,2025-10-15 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-15 00:00:00,12
+Rosslyn,2025-10-15 00:00:00,11
+Shady Grove,2025-10-15 00:00:00,2
+Shaw-Howard U,2025-10-15 00:00:00,12
+Silver Spring,2025-10-15 00:00:00,2
+Smithsonian,2025-10-15 00:00:00,11
+Southern Avenue,2025-10-15 00:00:00,12
+Spring Hill,2025-10-15 00:00:00,11
+Stadium-Armory,2025-10-15 00:00:00,11
+Suitland,2025-10-15 00:00:00,12
+Takoma,2025-10-15 00:00:00,2
+Tenleytown-AU,2025-10-15 00:00:00,2
+Twinbrook,2025-10-15 00:00:00,2
+Tysons,2025-10-15 00:00:00,11
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-15 00:00:00,12
+Union Station,2025-10-15 00:00:00,2
+Van Dorn Street,2025-10-15 00:00:00,12
+Van Ness-UDC,2025-10-15 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-15 00:00:00,11
+Virginia Square-GMU,2025-10-15 00:00:00,11
+Washington Dulles International Airport,2025-10-15 00:00:00,11
+Waterfront,2025-10-15 00:00:00,12
+West Falls Church,2025-10-15 00:00:00,11
+West Hyattsville,2025-10-15 00:00:00,12
+Wheaton,2025-10-15 00:00:00,2
+Wiehle-Reston East,2025-10-15 00:00:00,11
+Woodley Park-Zoo/Adams Morgan,2025-10-15 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-16 00:00:00,11
+Anacostia,2025-10-16 00:00:00,13
+Archives-Navy Memorial-Penn Quarter,2025-10-16 00:00:00,12
+Arlington Cemetery,2025-10-16 00:00:00,12
+Ashburn,2025-10-16 00:00:00,11
+Ballston-MU,2025-10-16 00:00:00,11
+Benning Road,2025-10-16 00:00:00,11
+Bethesda,2025-10-16 00:00:00,2
+Braddock Road,2025-10-16 00:00:00,12
+Branch Ave,2025-10-16 00:00:00,13
+Brookland-CUA,2025-10-16 00:00:00,2
+Capitol Heights,2025-10-16 00:00:00,11
+Capitol South,2025-10-16 00:00:00,11
+Cheverly,2025-10-16 00:00:00,11
+Clarendon,2025-10-16 00:00:00,11
+Cleveland Park,2025-10-16 00:00:00,2
+College Park-U of Md,2025-10-16 00:00:00,13
+Columbia Heights,2025-10-16 00:00:00,13
+Congress Heights,2025-10-16 00:00:00,13
+Court House,2025-10-16 00:00:00,11
+Crystal City,2025-10-16 00:00:00,12
+Deanwood,2025-10-16 00:00:00,11
+Downtown Largo,2025-10-16 00:00:00,11
+Dunn Loring-Merrifield,2025-10-16 00:00:00,11
+Dupont Circle,2025-10-16 00:00:00,2
+East Falls Church,2025-10-16 00:00:00,11
+Eastern Market,2025-10-16 00:00:00,11
+Eisenhower Ave,2025-10-16 00:00:00,12
+Farragut North,2025-10-16 00:00:00,2
+Farragut West,2025-10-16 00:00:00,11
+Federal Center SW,2025-10-16 00:00:00,11
+Federal Triangle,2025-10-16 00:00:00,11
+Foggy Bottom-GWU,2025-10-16 00:00:00,11
+Forest Glen,2025-10-16 00:00:00,2
+Fort Totten,2025-10-16 00:00:00,13
+Franconia-Springfield,2025-10-16 00:00:00,12
+Friendship Heights,2025-10-16 00:00:00,2
+Gallery Pl-Chinatown,2025-10-16 00:00:00,13
+Georgia Ave-Petworth,2025-10-16 00:00:00,13
+Glenmont,2025-10-16 00:00:00,2
+Greenbelt,2025-10-16 00:00:00,13
+Greensboro,2025-10-16 00:00:00,11
+Grosvenor-Strathmore,2025-10-16 00:00:00,2
+Herndon,2025-10-16 00:00:00,11
+Huntington,2025-10-16 00:00:00,12
+Hyattsville Crossing,2025-10-16 00:00:00,13
+Innovation Center,2025-10-16 00:00:00,11
+Judiciary Square,2025-10-16 00:00:00,2
+King St-Old Town,2025-10-16 00:00:00,12
+L'Enfant Plaza,2025-10-16 00:00:00,13
+Landover,2025-10-16 00:00:00,11
+Loudoun Gateway,2025-10-16 00:00:00,11
+McLean,2025-10-16 00:00:00,11
+McPherson Sq,2025-10-16 00:00:00,11
+Medical Center,2025-10-16 00:00:00,2
+Metro Center,2025-10-16 00:00:00,2
+Minnesota Ave,2025-10-16 00:00:00,11
+Morgan Boulevard,2025-10-16 00:00:00,11
+Mt Vernon Sq 7th St-Convention Center,2025-10-16 00:00:00,13
+Navy Yard-Ballpark,2025-10-16 00:00:00,13
+Naylor Road,2025-10-16 00:00:00,13
+New Carrollton,2025-10-16 00:00:00,11
+NoMa-Gallaudet U,2025-10-16 00:00:00,2
+North Bethesda,2025-10-16 00:00:00,2
+Pentagon,2025-10-16 00:00:00,12
+Pentagon City,2025-10-16 00:00:00,12
+Potomac Ave,2025-10-16 00:00:00,11
+Potomac Yard,2025-10-16 00:00:00,12
+Reston Town Center,2025-10-16 00:00:00,11
+"Rhode Island Ave-Brentwood,",2025-10-16 00:00:00,2
+Rockville,2025-10-16 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-16 00:00:00,12
+Rosslyn,2025-10-16 00:00:00,11
+Shady Grove,2025-10-16 00:00:00,2
+Shaw-Howard U,2025-10-16 00:00:00,13
+Silver Spring,2025-10-16 00:00:00,2
+Smithsonian,2025-10-16 00:00:00,11
+Southern Avenue,2025-10-16 00:00:00,13
+Spring Hill,2025-10-16 00:00:00,11
+Stadium-Armory,2025-10-16 00:00:00,11
+Suitland,2025-10-16 00:00:00,13
+Takoma,2025-10-16 00:00:00,2
+Tenleytown-AU,2025-10-16 00:00:00,2
+Twinbrook,2025-10-16 00:00:00,2
+Tysons,2025-10-16 00:00:00,11
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-16 00:00:00,13
+Union Station,2025-10-16 00:00:00,2
+Van Dorn Street,2025-10-16 00:00:00,12
+Van Ness-UDC,2025-10-16 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-16 00:00:00,11
+Virginia Square-GMU,2025-10-16 00:00:00,11
+Washington Dulles International Airport,2025-10-16 00:00:00,11
+Waterfront,2025-10-16 00:00:00,13
+West Falls Church,2025-10-16 00:00:00,11
+West Hyattsville,2025-10-16 00:00:00,13
+Wheaton,2025-10-16 00:00:00,2
+Wiehle-Reston East,2025-10-16 00:00:00,11
+Woodley Park-Zoo/Adams Morgan,2025-10-16 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-17 00:00:00,11
+Anacostia,2025-10-17 00:00:00,13
+Archives-Navy Memorial-Penn Quarter,2025-10-17 00:00:00,12
+Arlington Cemetery,2025-10-17 00:00:00,12
+Ashburn,2025-10-17 00:00:00,11
+Ballston-MU,2025-10-17 00:00:00,11
+Benning Road,2025-10-17 00:00:00,11
+Bethesda,2025-10-17 00:00:00,2
+Braddock Road,2025-10-17 00:00:00,12
+Branch Ave,2025-10-17 00:00:00,13
+Brookland-CUA,2025-10-17 00:00:00,2
+Capitol Heights,2025-10-17 00:00:00,11
+Capitol South,2025-10-17 00:00:00,11
+Cheverly,2025-10-17 00:00:00,11
+Clarendon,2025-10-17 00:00:00,11
+Cleveland Park,2025-10-17 00:00:00,2
+College Park-U of Md,2025-10-17 00:00:00,13
+Columbia Heights,2025-10-17 00:00:00,13
+Congress Heights,2025-10-17 00:00:00,13
+Court House,2025-10-17 00:00:00,11
+Crystal City,2025-10-17 00:00:00,12
+Deanwood,2025-10-17 00:00:00,11
+Downtown Largo,2025-10-17 00:00:00,11
+Dunn Loring-Merrifield,2025-10-17 00:00:00,11
+Dupont Circle,2025-10-17 00:00:00,2
+East Falls Church,2025-10-17 00:00:00,11
+Eastern Market,2025-10-17 00:00:00,11
+Eisenhower Ave,2025-10-17 00:00:00,12
+Farragut North,2025-10-17 00:00:00,2
+Farragut West,2025-10-17 00:00:00,11
+Federal Center SW,2025-10-17 00:00:00,11
+Federal Triangle,2025-10-17 00:00:00,11
+Foggy Bottom-GWU,2025-10-17 00:00:00,11
+Forest Glen,2025-10-17 00:00:00,2
+Fort Totten,2025-10-17 00:00:00,13
+Franconia-Springfield,2025-10-17 00:00:00,12
+Friendship Heights,2025-10-17 00:00:00,2
+Gallery Pl-Chinatown,2025-10-17 00:00:00,13
+Georgia Ave-Petworth,2025-10-17 00:00:00,13
+Glenmont,2025-10-17 00:00:00,2
+Greenbelt,2025-10-17 00:00:00,13
+Greensboro,2025-10-17 00:00:00,11
+Grosvenor-Strathmore,2025-10-17 00:00:00,2
+Herndon,2025-10-17 00:00:00,11
+Huntington,2025-10-17 00:00:00,12
+Hyattsville Crossing,2025-10-17 00:00:00,13
+Innovation Center,2025-10-17 00:00:00,11
+Judiciary Square,2025-10-17 00:00:00,2
+King St-Old Town,2025-10-17 00:00:00,12
+L'Enfant Plaza,2025-10-17 00:00:00,12
+Landover,2025-10-17 00:00:00,11
+Loudoun Gateway,2025-10-17 00:00:00,11
+McLean,2025-10-17 00:00:00,11
+McPherson Sq,2025-10-17 00:00:00,11
+Medical Center,2025-10-17 00:00:00,2
+Metro Center,2025-10-17 00:00:00,2
+Minnesota Ave,2025-10-17 00:00:00,11
+Morgan Boulevard,2025-10-17 00:00:00,11
+Mt Vernon Sq 7th St-Convention Center,2025-10-17 00:00:00,13
+Navy Yard-Ballpark,2025-10-17 00:00:00,13
+Naylor Road,2025-10-17 00:00:00,13
+New Carrollton,2025-10-17 00:00:00,11
+NoMa-Gallaudet U,2025-10-17 00:00:00,2
+North Bethesda,2025-10-17 00:00:00,2
+Pentagon,2025-10-17 00:00:00,12
+Pentagon City,2025-10-17 00:00:00,12
+Potomac Ave,2025-10-17 00:00:00,11
+Potomac Yard,2025-10-17 00:00:00,12
+Reston Town Center,2025-10-17 00:00:00,11
+"Rhode Island Ave-Brentwood,",2025-10-17 00:00:00,2
+Rockville,2025-10-17 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-17 00:00:00,12
+Rosslyn,2025-10-17 00:00:00,11
+Shady Grove,2025-10-17 00:00:00,2
+Shaw-Howard U,2025-10-17 00:00:00,13
+Silver Spring,2025-10-17 00:00:00,2
+Smithsonian,2025-10-17 00:00:00,11
+Southern Avenue,2025-10-17 00:00:00,13
+Spring Hill,2025-10-17 00:00:00,11
+Stadium-Armory,2025-10-17 00:00:00,11
+Suitland,2025-10-17 00:00:00,13
+Takoma,2025-10-17 00:00:00,2
+Tenleytown-AU,2025-10-17 00:00:00,2
+Twinbrook,2025-10-17 00:00:00,2
+Tysons,2025-10-17 00:00:00,11
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-17 00:00:00,13
+Union Station,2025-10-17 00:00:00,2
+Van Dorn Street,2025-10-17 00:00:00,12
+Van Ness-UDC,2025-10-17 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-17 00:00:00,11
+Virginia Square-GMU,2025-10-17 00:00:00,11
+Washington Dulles International Airport,2025-10-17 00:00:00,11
+Waterfront,2025-10-17 00:00:00,13
+West Falls Church,2025-10-17 00:00:00,11
+West Hyattsville,2025-10-17 00:00:00,13
+Wheaton,2025-10-17 00:00:00,2
+Wiehle-Reston East,2025-10-17 00:00:00,11
+Woodley Park-Zoo/Adams Morgan,2025-10-17 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-18 00:00:00,11
+Anacostia,2025-10-18 00:00:00,13
+Archives-Navy Memorial-Penn Quarter,2025-10-18 00:00:00,13
+Arlington Cemetery,2025-10-18 00:00:00,11
+Ashburn,2025-10-18 00:00:00,11
+Ballston-MU,2025-10-18 00:00:00,11
+Benning Road,2025-10-18 00:00:00,11
+Bethesda,2025-10-18 00:00:00,2
+Braddock Road,2025-10-18 00:00:00,11
+Branch Ave,2025-10-18 00:00:00,13
+Brookland-CUA,2025-10-18 00:00:00,13
+Capitol Heights,2025-10-18 00:00:00,11
+Capitol South,2025-10-18 00:00:00,11
+Cheverly,2025-10-18 00:00:00,11
+Clarendon,2025-10-18 00:00:00,11
+Cleveland Park,2025-10-18 00:00:00,2
+College Park-U of Md,2025-10-18 00:00:00,13
+Columbia Heights,2025-10-18 00:00:00,13
+Congress Heights,2025-10-18 00:00:00,13
+Court House,2025-10-18 00:00:00,11
+Crystal City,2025-10-18 00:00:00,11
+Deanwood,2025-10-18 00:00:00,11
+Downtown Largo,2025-10-18 00:00:00,11
+Dunn Loring-Merrifield,2025-10-18 00:00:00,11
+Dupont Circle,2025-10-18 00:00:00,2
+East Falls Church,2025-10-18 00:00:00,11
+Eastern Market,2025-10-18 00:00:00,11
+Eisenhower Ave,2025-10-18 00:00:00,11
+Farragut North,2025-10-18 00:00:00,2
+Farragut West,2025-10-18 00:00:00,11
+Federal Center SW,2025-10-18 00:00:00,11
+Federal Triangle,2025-10-18 00:00:00,11
+Foggy Bottom-GWU,2025-10-18 00:00:00,11
+Forest Glen,2025-10-18 00:00:00,13
+Fort Totten,2025-10-18 00:00:00,13
+Franconia-Springfield,2025-10-18 00:00:00,11
+Friendship Heights,2025-10-18 00:00:00,2
+Gallery Pl-Chinatown,2025-10-18 00:00:00,2
+Georgia Ave-Petworth,2025-10-18 00:00:00,13
+Glenmont,2025-10-18 00:00:00,13
+Greenbelt,2025-10-18 00:00:00,13
+Greensboro,2025-10-18 00:00:00,11
+Grosvenor-Strathmore,2025-10-18 00:00:00,2
+Herndon,2025-10-18 00:00:00,11
+Huntington,2025-10-18 00:00:00,11
+Hyattsville Crossing,2025-10-18 00:00:00,13
+Innovation Center,2025-10-18 00:00:00,11
+Judiciary Square,2025-10-18 00:00:00,2
+King St-Old Town,2025-10-18 00:00:00,11
+L'Enfant Plaza,2025-10-18 00:00:00,11
+Landover,2025-10-18 00:00:00,11
+Loudoun Gateway,2025-10-18 00:00:00,11
+McLean,2025-10-18 00:00:00,11
+McPherson Sq,2025-10-18 00:00:00,11
+Medical Center,2025-10-18 00:00:00,2
+Metro Center,2025-10-18 00:00:00,2
+Minnesota Ave,2025-10-18 00:00:00,11
+Morgan Boulevard,2025-10-18 00:00:00,11
+Mt Vernon Sq 7th St-Convention Center,2025-10-18 00:00:00,13
+Navy Yard-Ballpark,2025-10-18 00:00:00,13
+Naylor Road,2025-10-18 00:00:00,13
+New Carrollton,2025-10-18 00:00:00,11
+NoMa-Gallaudet U,2025-10-18 00:00:00,2
+North Bethesda,2025-10-18 00:00:00,2
+Pentagon,2025-10-18 00:00:00,11
+Pentagon City,2025-10-18 00:00:00,11
+Potomac Ave,2025-10-18 00:00:00,11
+Potomac Yard,2025-10-18 00:00:00,11
+Reston Town Center,2025-10-18 00:00:00,11
+"Rhode Island Ave-Brentwood,",2025-10-18 00:00:00,13
+Rockville,2025-10-18 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-18 00:00:00,11
+Rosslyn,2025-10-18 00:00:00,11
+Shady Grove,2025-10-18 00:00:00,2
+Shaw-Howard U,2025-10-18 00:00:00,13
+Silver Spring,2025-10-18 00:00:00,13
+Smithsonian,2025-10-18 00:00:00,11
+Southern Avenue,2025-10-18 00:00:00,13
+Spring Hill,2025-10-18 00:00:00,11
+Stadium-Armory,2025-10-18 00:00:00,11
+Suitland,2025-10-18 00:00:00,13
+Takoma,2025-10-18 00:00:00,13
+Tenleytown-AU,2025-10-18 00:00:00,2
+Twinbrook,2025-10-18 00:00:00,2
+Tysons,2025-10-18 00:00:00,11
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-18 00:00:00,13
+Union Station,2025-10-18 00:00:00,2
+Van Dorn Street,2025-10-18 00:00:00,11
+Van Ness-UDC,2025-10-18 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-18 00:00:00,11
+Virginia Square-GMU,2025-10-18 00:00:00,11
+Washington Dulles International Airport,2025-10-18 00:00:00,11
+Waterfront,2025-10-18 00:00:00,13
+West Falls Church,2025-10-18 00:00:00,11
+West Hyattsville,2025-10-18 00:00:00,13
+Wheaton,2025-10-18 00:00:00,13
+Wiehle-Reston East,2025-10-18 00:00:00,11
+Woodley Park-Zoo/Adams Morgan,2025-10-18 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-19 00:00:00,11
+Anacostia,2025-10-19 00:00:00,13
+Archives-Navy Memorial-Penn Quarter,2025-10-19 00:00:00,13
+Arlington Cemetery,2025-10-19 00:00:00,11
+Ashburn,2025-10-19 00:00:00,11
+Ballston-MU,2025-10-19 00:00:00,11
+Benning Road,2025-10-19 00:00:00,11
+Bethesda,2025-10-19 00:00:00,2
+Braddock Road,2025-10-19 00:00:00,11
+Branch Ave,2025-10-19 00:00:00,13
+Brookland-CUA,2025-10-19 00:00:00,13
+Capitol Heights,2025-10-19 00:00:00,11
+Capitol South,2025-10-19 00:00:00,11
+Cheverly,2025-10-19 00:00:00,11
+Clarendon,2025-10-19 00:00:00,11
+Cleveland Park,2025-10-19 00:00:00,2
+College Park-U of Md,2025-10-19 00:00:00,13
+Columbia Heights,2025-10-19 00:00:00,13
+Congress Heights,2025-10-19 00:00:00,13
+Court House,2025-10-19 00:00:00,11
+Crystal City,2025-10-19 00:00:00,11
+Deanwood,2025-10-19 00:00:00,11
+Downtown Largo,2025-10-19 00:00:00,11
+Dunn Loring-Merrifield,2025-10-19 00:00:00,11
+Dupont Circle,2025-10-19 00:00:00,2
+East Falls Church,2025-10-19 00:00:00,11
+Eastern Market,2025-10-19 00:00:00,11
+Eisenhower Ave,2025-10-19 00:00:00,11
+Farragut North,2025-10-19 00:00:00,2
+Farragut West,2025-10-19 00:00:00,11
+Federal Center SW,2025-10-19 00:00:00,11
+Federal Triangle,2025-10-19 00:00:00,11
+Foggy Bottom-GWU,2025-10-19 00:00:00,11
+Forest Glen,2025-10-19 00:00:00,13
+Fort Totten,2025-10-19 00:00:00,13
+Franconia-Springfield,2025-10-19 00:00:00,11
+Friendship Heights,2025-10-19 00:00:00,2
+Gallery Pl-Chinatown,2025-10-19 00:00:00,13
+Georgia Ave-Petworth,2025-10-19 00:00:00,13
+Glenmont,2025-10-19 00:00:00,13
+Greenbelt,2025-10-19 00:00:00,13
+Greensboro,2025-10-19 00:00:00,11
+Grosvenor-Strathmore,2025-10-19 00:00:00,2
+Herndon,2025-10-19 00:00:00,11
+Huntington,2025-10-19 00:00:00,11
+Hyattsville Crossing,2025-10-19 00:00:00,13
+Innovation Center,2025-10-19 00:00:00,11
+Judiciary Square,2025-10-19 00:00:00,2
+King St-Old Town,2025-10-19 00:00:00,11
+L'Enfant Plaza,2025-10-19 00:00:00,11
+Landover,2025-10-19 00:00:00,11
+Loudoun Gateway,2025-10-19 00:00:00,11
+McLean,2025-10-19 00:00:00,11
+McPherson Sq,2025-10-19 00:00:00,11
+Medical Center,2025-10-19 00:00:00,2
+Metro Center,2025-10-19 00:00:00,11
+Minnesota Ave,2025-10-19 00:00:00,11
+Morgan Boulevard,2025-10-19 00:00:00,11
+Mt Vernon Sq 7th St-Convention Center,2025-10-19 00:00:00,13
+Navy Yard-Ballpark,2025-10-19 00:00:00,13
+Naylor Road,2025-10-19 00:00:00,13
+New Carrollton,2025-10-19 00:00:00,11
+NoMa-Gallaudet U,2025-10-19 00:00:00,2
+North Bethesda,2025-10-19 00:00:00,2
+Pentagon,2025-10-19 00:00:00,11
+Pentagon City,2025-10-19 00:00:00,11
+Potomac Ave,2025-10-19 00:00:00,11
+Potomac Yard,2025-10-19 00:00:00,11
+Reston Town Center,2025-10-19 00:00:00,11
+"Rhode Island Ave-Brentwood,",2025-10-19 00:00:00,13
+Rockville,2025-10-19 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-19 00:00:00,11
+Rosslyn,2025-10-19 00:00:00,11
+Shady Grove,2025-10-19 00:00:00,2
+Shaw-Howard U,2025-10-19 00:00:00,13
+Silver Spring,2025-10-19 00:00:00,13
+Smithsonian,2025-10-19 00:00:00,11
+Southern Avenue,2025-10-19 00:00:00,13
+Spring Hill,2025-10-19 00:00:00,11
+Stadium-Armory,2025-10-19 00:00:00,11
+Suitland,2025-10-19 00:00:00,13
+Takoma,2025-10-19 00:00:00,13
+Tenleytown-AU,2025-10-19 00:00:00,2
+Twinbrook,2025-10-19 00:00:00,2
+Tysons,2025-10-19 00:00:00,11
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-19 00:00:00,13
+Union Station,2025-10-19 00:00:00,2
+Van Dorn Street,2025-10-19 00:00:00,11
+Van Ness-UDC,2025-10-19 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-19 00:00:00,11
+Virginia Square-GMU,2025-10-19 00:00:00,11
+Washington Dulles International Airport,2025-10-19 00:00:00,11
+Waterfront,2025-10-19 00:00:00,13
+West Falls Church,2025-10-19 00:00:00,11
+West Hyattsville,2025-10-19 00:00:00,13
+Wheaton,2025-10-19 00:00:00,13
+Wiehle-Reston East,2025-10-19 00:00:00,11
+Woodley Park-Zoo/Adams Morgan,2025-10-19 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-20 00:00:00,11
+Anacostia,2025-10-20 00:00:00,14
+Archives-Navy Memorial-Penn Quarter,2025-10-20 00:00:00,13
+Arlington Cemetery,2025-10-20 00:00:00,13
+Ashburn,2025-10-20 00:00:00,11
+Ballston-MU,2025-10-20 00:00:00,11
+Benning Road,2025-10-20 00:00:00,11
+Bethesda,2025-10-20 00:00:00,2
+Braddock Road,2025-10-20 00:00:00,13
+Branch Ave,2025-10-20 00:00:00,14
+Brookland-CUA,2025-10-20 00:00:00,2
+Capitol Heights,2025-10-20 00:00:00,11
+Capitol South,2025-10-20 00:00:00,11
+Cheverly,2025-10-20 00:00:00,11
+Clarendon,2025-10-20 00:00:00,11
+Cleveland Park,2025-10-20 00:00:00,2
+College Park-U of Md,2025-10-20 00:00:00,14
+Columbia Heights,2025-10-20 00:00:00,14
+Congress Heights,2025-10-20 00:00:00,14
+Court House,2025-10-20 00:00:00,11
+Crystal City,2025-10-20 00:00:00,13
+Deanwood,2025-10-20 00:00:00,11
+Downtown Largo,2025-10-20 00:00:00,11
+Dunn Loring-Merrifield,2025-10-20 00:00:00,11
+Dupont Circle,2025-10-20 00:00:00,2
+East Falls Church,2025-10-20 00:00:00,11
+Eastern Market,2025-10-20 00:00:00,11
+Eisenhower Ave,2025-10-20 00:00:00,13
+Farragut North,2025-10-20 00:00:00,2
+Farragut West,2025-10-20 00:00:00,11
+Federal Center SW,2025-10-20 00:00:00,11
+Federal Triangle,2025-10-20 00:00:00,11
+Foggy Bottom-GWU,2025-10-20 00:00:00,11
+Forest Glen,2025-10-20 00:00:00,2
+Fort Totten,2025-10-20 00:00:00,14
+Franconia-Springfield,2025-10-20 00:00:00,13
+Friendship Heights,2025-10-20 00:00:00,2
+Gallery Pl-Chinatown,2025-10-20 00:00:00,14
+Georgia Ave-Petworth,2025-10-20 00:00:00,14
+Glenmont,2025-10-20 00:00:00,2
+Greenbelt,2025-10-20 00:00:00,14
+Greensboro,2025-10-20 00:00:00,11
+Grosvenor-Strathmore,2025-10-20 00:00:00,2
+Herndon,2025-10-20 00:00:00,11
+Huntington,2025-10-20 00:00:00,13
+Hyattsville Crossing,2025-10-20 00:00:00,14
+Innovation Center,2025-10-20 00:00:00,11
+Judiciary Square,2025-10-20 00:00:00,2
+King St-Old Town,2025-10-20 00:00:00,13
+L'Enfant Plaza,2025-10-20 00:00:00,14
+Landover,2025-10-20 00:00:00,11
+Loudoun Gateway,2025-10-20 00:00:00,11
+McLean,2025-10-20 00:00:00,11
+McPherson Sq,2025-10-20 00:00:00,11
+Medical Center,2025-10-20 00:00:00,2
+Metro Center,2025-10-20 00:00:00,2
+Minnesota Ave,2025-10-20 00:00:00,11
+Morgan Boulevard,2025-10-20 00:00:00,11
+Mt Vernon Sq 7th St-Convention Center,2025-10-20 00:00:00,14
+Navy Yard-Ballpark,2025-10-20 00:00:00,14
+Naylor Road,2025-10-20 00:00:00,14
+New Carrollton,2025-10-20 00:00:00,11
+NoMa-Gallaudet U,2025-10-20 00:00:00,2
+North Bethesda,2025-10-20 00:00:00,2
+Pentagon,2025-10-20 00:00:00,13
+Pentagon City,2025-10-20 00:00:00,13
+Potomac Ave,2025-10-20 00:00:00,11
+Potomac Yard,2025-10-20 00:00:00,13
+Reston Town Center,2025-10-20 00:00:00,11
+"Rhode Island Ave-Brentwood,",2025-10-20 00:00:00,2
+Rockville,2025-10-20 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-20 00:00:00,13
+Rosslyn,2025-10-20 00:00:00,11
+Shady Grove,2025-10-20 00:00:00,2
+Shaw-Howard U,2025-10-20 00:00:00,14
+Silver Spring,2025-10-20 00:00:00,2
+Smithsonian,2025-10-20 00:00:00,11
+Southern Avenue,2025-10-20 00:00:00,14
+Spring Hill,2025-10-20 00:00:00,11
+Stadium-Armory,2025-10-20 00:00:00,11
+Suitland,2025-10-20 00:00:00,14
+Takoma,2025-10-20 00:00:00,2
+Tenleytown-AU,2025-10-20 00:00:00,2
+Twinbrook,2025-10-20 00:00:00,2
+Tysons,2025-10-20 00:00:00,11
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-20 00:00:00,14
+Union Station,2025-10-20 00:00:00,2
+Van Dorn Street,2025-10-20 00:00:00,13
+Van Ness-UDC,2025-10-20 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-20 00:00:00,11
+Virginia Square-GMU,2025-10-20 00:00:00,11
+Washington Dulles International Airport,2025-10-20 00:00:00,11
+Waterfront,2025-10-20 00:00:00,14
+West Falls Church,2025-10-20 00:00:00,11
+West Hyattsville,2025-10-20 00:00:00,14
+Wheaton,2025-10-20 00:00:00,2
+Wiehle-Reston East,2025-10-20 00:00:00,11
+Woodley Park-Zoo/Adams Morgan,2025-10-20 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-21 00:00:00,11
+Anacostia,2025-10-21 00:00:00,14
+Archives-Navy Memorial-Penn Quarter,2025-10-21 00:00:00,14
+Arlington Cemetery,2025-10-21 00:00:00,14
+Ashburn,2025-10-21 00:00:00,11
+Ballston-MU,2025-10-21 00:00:00,11
+Benning Road,2025-10-21 00:00:00,11
+Bethesda,2025-10-21 00:00:00,2
+Braddock Road,2025-10-21 00:00:00,14
+Branch Ave,2025-10-21 00:00:00,14
+Brookland-CUA,2025-10-21 00:00:00,2
+Capitol Heights,2025-10-21 00:00:00,11
+Capitol South,2025-10-21 00:00:00,11
+Cheverly,2025-10-21 00:00:00,11
+Clarendon,2025-10-21 00:00:00,11
+Cleveland Park,2025-10-21 00:00:00,2
+College Park-U of Md,2025-10-21 00:00:00,14
+Columbia Heights,2025-10-21 00:00:00,14
+Congress Heights,2025-10-21 00:00:00,14
+Court House,2025-10-21 00:00:00,11
+Crystal City,2025-10-21 00:00:00,14
+Deanwood,2025-10-21 00:00:00,11
+Downtown Largo,2025-10-21 00:00:00,11
+Dunn Loring-Merrifield,2025-10-21 00:00:00,11
+Dupont Circle,2025-10-21 00:00:00,2
+East Falls Church,2025-10-21 00:00:00,11
+Eastern Market,2025-10-21 00:00:00,11
+Eisenhower Ave,2025-10-21 00:00:00,14
+Farragut North,2025-10-21 00:00:00,2
+Farragut West,2025-10-21 00:00:00,11
+Federal Center SW,2025-10-21 00:00:00,11
+Federal Triangle,2025-10-21 00:00:00,11
+Foggy Bottom-GWU,2025-10-21 00:00:00,11
+Forest Glen,2025-10-21 00:00:00,2
+Fort Totten,2025-10-21 00:00:00,2
+Franconia-Springfield,2025-10-21 00:00:00,14
+Friendship Heights,2025-10-21 00:00:00,2
+Gallery Pl-Chinatown,2025-10-21 00:00:00,14
+Georgia Ave-Petworth,2025-10-21 00:00:00,14
+Glenmont,2025-10-21 00:00:00,2
+Greenbelt,2025-10-21 00:00:00,14
+Greensboro,2025-10-21 00:00:00,11
+Grosvenor-Strathmore,2025-10-21 00:00:00,2
+Herndon,2025-10-21 00:00:00,11
+Huntington,2025-10-21 00:00:00,14
+Hyattsville Crossing,2025-10-21 00:00:00,14
+Innovation Center,2025-10-21 00:00:00,11
+Judiciary Square,2025-10-21 00:00:00,2
+King St-Old Town,2025-10-21 00:00:00,14
+L'Enfant Plaza,2025-10-21 00:00:00,14
+Landover,2025-10-21 00:00:00,11
+Loudoun Gateway,2025-10-21 00:00:00,11
+McLean,2025-10-21 00:00:00,11
+McPherson Sq,2025-10-21 00:00:00,11
+Medical Center,2025-10-21 00:00:00,2
+Metro Center,2025-10-21 00:00:00,2
+Minnesota Ave,2025-10-21 00:00:00,11
+Morgan Boulevard,2025-10-21 00:00:00,11
+Mt Vernon Sq 7th St-Convention Center,2025-10-21 00:00:00,14
+Navy Yard-Ballpark,2025-10-21 00:00:00,14
+Naylor Road,2025-10-21 00:00:00,14
+New Carrollton,2025-10-21 00:00:00,11
+NoMa-Gallaudet U,2025-10-21 00:00:00,2
+North Bethesda,2025-10-21 00:00:00,2
+Pentagon,2025-10-21 00:00:00,14
+Pentagon City,2025-10-21 00:00:00,14
+Potomac Ave,2025-10-21 00:00:00,11
+Potomac Yard,2025-10-21 00:00:00,14
+Reston Town Center,2025-10-21 00:00:00,11
+"Rhode Island Ave-Brentwood,",2025-10-21 00:00:00,2
+Rockville,2025-10-21 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-21 00:00:00,14
+Rosslyn,2025-10-21 00:00:00,11
+Shady Grove,2025-10-21 00:00:00,2
+Shaw-Howard U,2025-10-21 00:00:00,14
+Silver Spring,2025-10-21 00:00:00,2
+Smithsonian,2025-10-21 00:00:00,11
+Southern Avenue,2025-10-21 00:00:00,14
+Spring Hill,2025-10-21 00:00:00,11
+Stadium-Armory,2025-10-21 00:00:00,11
+Suitland,2025-10-21 00:00:00,14
+Takoma,2025-10-21 00:00:00,2
+Tenleytown-AU,2025-10-21 00:00:00,2
+Twinbrook,2025-10-21 00:00:00,2
+Tysons,2025-10-21 00:00:00,11
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-21 00:00:00,14
+Union Station,2025-10-21 00:00:00,2
+Van Dorn Street,2025-10-21 00:00:00,14
+Van Ness-UDC,2025-10-21 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-21 00:00:00,11
+Virginia Square-GMU,2025-10-21 00:00:00,11
+Washington Dulles International Airport,2025-10-21 00:00:00,11
+Waterfront,2025-10-21 00:00:00,14
+West Falls Church,2025-10-21 00:00:00,11
+West Hyattsville,2025-10-21 00:00:00,14
+Wheaton,2025-10-21 00:00:00,2
+Wiehle-Reston East,2025-10-21 00:00:00,11
+Woodley Park-Zoo/Adams Morgan,2025-10-21 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-22 00:00:00,11
+Anacostia,2025-10-22 00:00:00,15
+Archives-Navy Memorial-Penn Quarter,2025-10-22 00:00:00,14
+Arlington Cemetery,2025-10-22 00:00:00,14
+Ashburn,2025-10-22 00:00:00,11
+Ballston-MU,2025-10-22 00:00:00,11
+Benning Road,2025-10-22 00:00:00,11
+Bethesda,2025-10-22 00:00:00,2
+Braddock Road,2025-10-22 00:00:00,14
+Branch Ave,2025-10-22 00:00:00,15
+Brookland-CUA,2025-10-22 00:00:00,2
+Capitol Heights,2025-10-22 00:00:00,11
+Capitol South,2025-10-22 00:00:00,11
+Cheverly,2025-10-22 00:00:00,11
+Clarendon,2025-10-22 00:00:00,11
+Cleveland Park,2025-10-22 00:00:00,2
+College Park-U of Md,2025-10-22 00:00:00,15
+Columbia Heights,2025-10-22 00:00:00,15
+Congress Heights,2025-10-22 00:00:00,15
+Court House,2025-10-22 00:00:00,11
+Crystal City,2025-10-22 00:00:00,14
+Deanwood,2025-10-22 00:00:00,11
+Downtown Largo,2025-10-22 00:00:00,11
+Dunn Loring-Merrifield,2025-10-22 00:00:00,11
+Dupont Circle,2025-10-22 00:00:00,2
+East Falls Church,2025-10-22 00:00:00,11
+Eastern Market,2025-10-22 00:00:00,11
+Eisenhower Ave,2025-10-22 00:00:00,14
+Farragut North,2025-10-22 00:00:00,2
+Farragut West,2025-10-22 00:00:00,11
+Federal Center SW,2025-10-22 00:00:00,11
+Federal Triangle,2025-10-22 00:00:00,11
+Foggy Bottom-GWU,2025-10-22 00:00:00,11
+Forest Glen,2025-10-22 00:00:00,2
+Fort Totten,2025-10-22 00:00:00,15
+Franconia-Springfield,2025-10-22 00:00:00,14
+Friendship Heights,2025-10-22 00:00:00,2
+Gallery Pl-Chinatown,2025-10-22 00:00:00,15
+Georgia Ave-Petworth,2025-10-22 00:00:00,15
+Glenmont,2025-10-22 00:00:00,2
+Greenbelt,2025-10-22 00:00:00,15
+Greensboro,2025-10-22 00:00:00,11
+Grosvenor-Strathmore,2025-10-22 00:00:00,2
+Herndon,2025-10-22 00:00:00,11
+Huntington,2025-10-22 00:00:00,14
+Hyattsville Crossing,2025-10-22 00:00:00,15
+Innovation Center,2025-10-22 00:00:00,11
+Judiciary Square,2025-10-22 00:00:00,2
+King St-Old Town,2025-10-22 00:00:00,14
+L'Enfant Plaza,2025-10-22 00:00:00,15
+Landover,2025-10-22 00:00:00,11
+Loudoun Gateway,2025-10-22 00:00:00,11
+McLean,2025-10-22 00:00:00,11
+McPherson Sq,2025-10-22 00:00:00,11
+Medical Center,2025-10-22 00:00:00,2
+Metro Center,2025-10-22 00:00:00,2
+Minnesota Ave,2025-10-22 00:00:00,11
+Morgan Boulevard,2025-10-22 00:00:00,11
+Mt Vernon Sq 7th St-Convention Center,2025-10-22 00:00:00,15
+Navy Yard-Ballpark,2025-10-22 00:00:00,15
+Naylor Road,2025-10-22 00:00:00,15
+New Carrollton,2025-10-22 00:00:00,11
+NoMa-Gallaudet U,2025-10-22 00:00:00,2
+North Bethesda,2025-10-22 00:00:00,2
+Pentagon,2025-10-22 00:00:00,14
+Pentagon City,2025-10-22 00:00:00,14
+Potomac Ave,2025-10-22 00:00:00,11
+Potomac Yard,2025-10-22 00:00:00,14
+Reston Town Center,2025-10-22 00:00:00,11
+"Rhode Island Ave-Brentwood,",2025-10-22 00:00:00,2
+Rockville,2025-10-22 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-22 00:00:00,14
+Rosslyn,2025-10-22 00:00:00,11
+Shady Grove,2025-10-22 00:00:00,2
+Shaw-Howard U,2025-10-22 00:00:00,15
+Silver Spring,2025-10-22 00:00:00,2
+Smithsonian,2025-10-22 00:00:00,11
+Southern Avenue,2025-10-22 00:00:00,15
+Spring Hill,2025-10-22 00:00:00,11
+Stadium-Armory,2025-10-22 00:00:00,11
+Suitland,2025-10-22 00:00:00,15
+Takoma,2025-10-22 00:00:00,2
+Tenleytown-AU,2025-10-22 00:00:00,2
+Twinbrook,2025-10-22 00:00:00,2
+Tysons,2025-10-22 00:00:00,11
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-22 00:00:00,15
+Union Station,2025-10-22 00:00:00,2
+Van Dorn Street,2025-10-22 00:00:00,14
+Van Ness-UDC,2025-10-22 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-22 00:00:00,11
+Virginia Square-GMU,2025-10-22 00:00:00,11
+Washington Dulles International Airport,2025-10-22 00:00:00,11
+Waterfront,2025-10-22 00:00:00,15
+West Falls Church,2025-10-22 00:00:00,11
+West Hyattsville,2025-10-22 00:00:00,15
+Wheaton,2025-10-22 00:00:00,2
+Wiehle-Reston East,2025-10-22 00:00:00,11
+Woodley Park-Zoo/Adams Morgan,2025-10-22 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-23 00:00:00,11
+Anacostia,2025-10-23 00:00:00,15
+Archives-Navy Memorial-Penn Quarter,2025-10-23 00:00:00,14
+Arlington Cemetery,2025-10-23 00:00:00,14
+Ashburn,2025-10-23 00:00:00,11
+Ballston-MU,2025-10-23 00:00:00,11
+Benning Road,2025-10-23 00:00:00,11
+Bethesda,2025-10-23 00:00:00,2
+Braddock Road,2025-10-23 00:00:00,14
+Branch Ave,2025-10-23 00:00:00,15
+Brookland-CUA,2025-10-23 00:00:00,2
+Capitol Heights,2025-10-23 00:00:00,11
+Capitol South,2025-10-23 00:00:00,11
+Cheverly,2025-10-23 00:00:00,11
+Clarendon,2025-10-23 00:00:00,11
+Cleveland Park,2025-10-23 00:00:00,2
+College Park-U of Md,2025-10-23 00:00:00,15
+Columbia Heights,2025-10-23 00:00:00,15
+Congress Heights,2025-10-23 00:00:00,15
+Court House,2025-10-23 00:00:00,11
+Crystal City,2025-10-23 00:00:00,14
+Deanwood,2025-10-23 00:00:00,11
+Downtown Largo,2025-10-23 00:00:00,11
+Dunn Loring-Merrifield,2025-10-23 00:00:00,11
+Dupont Circle,2025-10-23 00:00:00,2
+East Falls Church,2025-10-23 00:00:00,11
+Eastern Market,2025-10-23 00:00:00,11
+Eisenhower Ave,2025-10-23 00:00:00,14
+Farragut North,2025-10-23 00:00:00,2
+Farragut West,2025-10-23 00:00:00,11
+Federal Center SW,2025-10-23 00:00:00,11
+Federal Triangle,2025-10-23 00:00:00,11
+Foggy Bottom-GWU,2025-10-23 00:00:00,11
+Forest Glen,2025-10-23 00:00:00,2
+Fort Totten,2025-10-23 00:00:00,15
+Franconia-Springfield,2025-10-23 00:00:00,14
+Friendship Heights,2025-10-23 00:00:00,2
+Gallery Pl-Chinatown,2025-10-23 00:00:00,15
+Georgia Ave-Petworth,2025-10-23 00:00:00,15
+Glenmont,2025-10-23 00:00:00,2
+Greenbelt,2025-10-23 00:00:00,15
+Greensboro,2025-10-23 00:00:00,11
+Grosvenor-Strathmore,2025-10-23 00:00:00,2
+Herndon,2025-10-23 00:00:00,11
+Huntington,2025-10-23 00:00:00,14
+Hyattsville Crossing,2025-10-23 00:00:00,15
+Innovation Center,2025-10-23 00:00:00,11
+Judiciary Square,2025-10-23 00:00:00,2
+King St-Old Town,2025-10-23 00:00:00,14
+L'Enfant Plaza,2025-10-23 00:00:00,14
+Landover,2025-10-23 00:00:00,11
+Loudoun Gateway,2025-10-23 00:00:00,11
+McLean,2025-10-23 00:00:00,11
+McPherson Sq,2025-10-23 00:00:00,11
+Medical Center,2025-10-23 00:00:00,2
+Metro Center,2025-10-23 00:00:00,2
+Minnesota Ave,2025-10-23 00:00:00,11
+Morgan Boulevard,2025-10-23 00:00:00,11
+Mt Vernon Sq 7th St-Convention Center,2025-10-23 00:00:00,15
+Navy Yard-Ballpark,2025-10-23 00:00:00,15
+Naylor Road,2025-10-23 00:00:00,15
+New Carrollton,2025-10-23 00:00:00,11
+NoMa-Gallaudet U,2025-10-23 00:00:00,2
+North Bethesda,2025-10-23 00:00:00,2
+Pentagon,2025-10-23 00:00:00,14
+Pentagon City,2025-10-23 00:00:00,14
+Potomac Ave,2025-10-23 00:00:00,11
+Potomac Yard,2025-10-23 00:00:00,14
+Reston Town Center,2025-10-23 00:00:00,11
+"Rhode Island Ave-Brentwood,",2025-10-23 00:00:00,2
+Rockville,2025-10-23 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-23 00:00:00,14
+Rosslyn,2025-10-23 00:00:00,11
+Shady Grove,2025-10-23 00:00:00,2
+Shaw-Howard U,2025-10-23 00:00:00,15
+Silver Spring,2025-10-23 00:00:00,2
+Smithsonian,2025-10-23 00:00:00,11
+Southern Avenue,2025-10-23 00:00:00,15
+Spring Hill,2025-10-23 00:00:00,11
+Stadium-Armory,2025-10-23 00:00:00,11
+Suitland,2025-10-23 00:00:00,15
+Takoma,2025-10-23 00:00:00,2
+Tenleytown-AU,2025-10-23 00:00:00,2
+Twinbrook,2025-10-23 00:00:00,2
+Tysons,2025-10-23 00:00:00,11
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-23 00:00:00,15
+Union Station,2025-10-23 00:00:00,2
+Van Dorn Street,2025-10-23 00:00:00,14
+Van Ness-UDC,2025-10-23 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-23 00:00:00,11
+Virginia Square-GMU,2025-10-23 00:00:00,11
+Washington Dulles International Airport,2025-10-23 00:00:00,11
+Waterfront,2025-10-23 00:00:00,15
+West Falls Church,2025-10-23 00:00:00,11
+West Hyattsville,2025-10-23 00:00:00,15
+Wheaton,2025-10-23 00:00:00,2
+Wiehle-Reston East,2025-10-23 00:00:00,11
+Woodley Park-Zoo/Adams Morgan,2025-10-23 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-24 00:00:00,11
+Anacostia,2025-10-24 00:00:00,15
+Archives-Navy Memorial-Penn Quarter,2025-10-24 00:00:00,14
+Arlington Cemetery,2025-10-24 00:00:00,14
+Ashburn,2025-10-24 00:00:00,11
+Ballston-MU,2025-10-24 00:00:00,11
+Benning Road,2025-10-24 00:00:00,11
+Bethesda,2025-10-24 00:00:00,2
+Braddock Road,2025-10-24 00:00:00,14
+Branch Ave,2025-10-24 00:00:00,15
+Brookland-CUA,2025-10-24 00:00:00,2
+Capitol Heights,2025-10-24 00:00:00,11
+Capitol South,2025-10-24 00:00:00,11
+Cheverly,2025-10-24 00:00:00,11
+Clarendon,2025-10-24 00:00:00,11
+Cleveland Park,2025-10-24 00:00:00,2
+College Park-U of Md,2025-10-24 00:00:00,15
+Columbia Heights,2025-10-24 00:00:00,15
+Congress Heights,2025-10-24 00:00:00,15
+Court House,2025-10-24 00:00:00,11
+Crystal City,2025-10-24 00:00:00,14
+Deanwood,2025-10-24 00:00:00,11
+Downtown Largo,2025-10-24 00:00:00,11
+Dunn Loring-Merrifield,2025-10-24 00:00:00,11
+Dupont Circle,2025-10-24 00:00:00,2
+East Falls Church,2025-10-24 00:00:00,11
+Eastern Market,2025-10-24 00:00:00,11
+Eisenhower Ave,2025-10-24 00:00:00,14
+Farragut North,2025-10-24 00:00:00,2
+Farragut West,2025-10-24 00:00:00,11
+Federal Center SW,2025-10-24 00:00:00,11
+Federal Triangle,2025-10-24 00:00:00,11
+Foggy Bottom-GWU,2025-10-24 00:00:00,11
+Forest Glen,2025-10-24 00:00:00,2
+Fort Totten,2025-10-24 00:00:00,15
+Franconia-Springfield,2025-10-24 00:00:00,14
+Friendship Heights,2025-10-24 00:00:00,2
+Gallery Pl-Chinatown,2025-10-24 00:00:00,15
+Georgia Ave-Petworth,2025-10-24 00:00:00,15
+Glenmont,2025-10-24 00:00:00,2
+Greenbelt,2025-10-24 00:00:00,15
+Greensboro,2025-10-24 00:00:00,11
+Grosvenor-Strathmore,2025-10-24 00:00:00,2
+Herndon,2025-10-24 00:00:00,11
+Huntington,2025-10-24 00:00:00,14
+Hyattsville Crossing,2025-10-24 00:00:00,15
+Innovation Center,2025-10-24 00:00:00,11
+Judiciary Square,2025-10-24 00:00:00,2
+King St-Old Town,2025-10-24 00:00:00,14
+L'Enfant Plaza,2025-10-24 00:00:00,15
+Landover,2025-10-24 00:00:00,11
+Loudoun Gateway,2025-10-24 00:00:00,11
+McLean,2025-10-24 00:00:00,11
+McPherson Sq,2025-10-24 00:00:00,11
+Medical Center,2025-10-24 00:00:00,2
+Metro Center,2025-10-24 00:00:00,2
+Minnesota Ave,2025-10-24 00:00:00,11
+Morgan Boulevard,2025-10-24 00:00:00,11
+Mt Vernon Sq 7th St-Convention Center,2025-10-24 00:00:00,15
+Navy Yard-Ballpark,2025-10-24 00:00:00,15
+Naylor Road,2025-10-24 00:00:00,15
+New Carrollton,2025-10-24 00:00:00,11
+NoMa-Gallaudet U,2025-10-24 00:00:00,2
+North Bethesda,2025-10-24 00:00:00,2
+Pentagon,2025-10-24 00:00:00,14
+Pentagon City,2025-10-24 00:00:00,14
+Potomac Ave,2025-10-24 00:00:00,11
+Potomac Yard,2025-10-24 00:00:00,14
+Reston Town Center,2025-10-24 00:00:00,11
+"Rhode Island Ave-Brentwood,",2025-10-24 00:00:00,2
+Rockville,2025-10-24 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-24 00:00:00,14
+Rosslyn,2025-10-24 00:00:00,11
+Shady Grove,2025-10-24 00:00:00,2
+Shaw-Howard U,2025-10-24 00:00:00,15
+Silver Spring,2025-10-24 00:00:00,2
+Smithsonian,2025-10-24 00:00:00,11
+Southern Avenue,2025-10-24 00:00:00,15
+Spring Hill,2025-10-24 00:00:00,11
+Stadium-Armory,2025-10-24 00:00:00,11
+Suitland,2025-10-24 00:00:00,15
+Takoma,2025-10-24 00:00:00,2
+Tenleytown-AU,2025-10-24 00:00:00,2
+Twinbrook,2025-10-24 00:00:00,2
+Tysons,2025-10-24 00:00:00,11
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-24 00:00:00,15
+Union Station,2025-10-24 00:00:00,2
+Van Dorn Street,2025-10-24 00:00:00,14
+Van Ness-UDC,2025-10-24 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-24 00:00:00,11
+Virginia Square-GMU,2025-10-24 00:00:00,11
+Washington Dulles International Airport,2025-10-24 00:00:00,11
+Waterfront,2025-10-24 00:00:00,15
+West Falls Church,2025-10-24 00:00:00,11
+West Hyattsville,2025-10-24 00:00:00,15
+Wheaton,2025-10-24 00:00:00,2
+Wiehle-Reston East,2025-10-24 00:00:00,11
+Woodley Park-Zoo/Adams Morgan,2025-10-24 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-25 00:00:00,15
+Anacostia,2025-10-25 00:00:00,15
+Archives-Navy Memorial-Penn Quarter,2025-10-25 00:00:00,15
+Arlington Cemetery,2025-10-25 00:00:00,11
+Ashburn,2025-10-25 00:00:00,11
+Ballston-MU,2025-10-25 00:00:00,11
+Benning Road,2025-10-25 00:00:00,15
+Bethesda,2025-10-25 00:00:00,2
+Braddock Road,2025-10-25 00:00:00,11
+Branch Ave,2025-10-25 00:00:00,15
+Brookland-CUA,2025-10-25 00:00:00,2
+Capitol Heights,2025-10-25 00:00:00,15
+Capitol South,2025-10-25 00:00:00,11
+Cheverly,2025-10-25 00:00:00,11
+Clarendon,2025-10-25 00:00:00,11
+Cleveland Park,2025-10-25 00:00:00,2
+College Park-U of Md,2025-10-25 00:00:00,15
+Columbia Heights,2025-10-25 00:00:00,15
+Congress Heights,2025-10-25 00:00:00,15
+Court House,2025-10-25 00:00:00,11
+Crystal City,2025-10-25 00:00:00,11
+Deanwood,2025-10-25 00:00:00,15
+Downtown Largo,2025-10-25 00:00:00,15
+Dunn Loring-Merrifield,2025-10-25 00:00:00,11
+Dupont Circle,2025-10-25 00:00:00,2
+East Falls Church,2025-10-25 00:00:00,11
+Eastern Market,2025-10-25 00:00:00,11
+Eisenhower Ave,2025-10-25 00:00:00,11
+Farragut North,2025-10-25 00:00:00,2
+Farragut West,2025-10-25 00:00:00,11
+Federal Center SW,2025-10-25 00:00:00,11
+Federal Triangle,2025-10-25 00:00:00,11
+Foggy Bottom-GWU,2025-10-25 00:00:00,11
+Forest Glen,2025-10-25 00:00:00,2
+Fort Totten,2025-10-25 00:00:00,15
+Franconia-Springfield,2025-10-25 00:00:00,11
+Friendship Heights,2025-10-25 00:00:00,2
+Gallery Pl-Chinatown,2025-10-25 00:00:00,15
+Georgia Ave-Petworth,2025-10-25 00:00:00,15
+Glenmont,2025-10-25 00:00:00,2
+Greenbelt,2025-10-25 00:00:00,15
+Greensboro,2025-10-25 00:00:00,11
+Grosvenor-Strathmore,2025-10-25 00:00:00,2
+Herndon,2025-10-25 00:00:00,11
+Huntington,2025-10-25 00:00:00,11
+Hyattsville Crossing,2025-10-25 00:00:00,15
+Innovation Center,2025-10-25 00:00:00,11
+Judiciary Square,2025-10-25 00:00:00,2
+King St-Old Town,2025-10-25 00:00:00,11
+L'Enfant Plaza,2025-10-25 00:00:00,11
+Landover,2025-10-25 00:00:00,11
+Loudoun Gateway,2025-10-25 00:00:00,11
+McLean,2025-10-25 00:00:00,11
+McPherson Sq,2025-10-25 00:00:00,11
+Medical Center,2025-10-25 00:00:00,2
+Metro Center,2025-10-25 00:00:00,11
+Minnesota Ave,2025-10-25 00:00:00,15
+Morgan Boulevard,2025-10-25 00:00:00,15
+Mt Vernon Sq 7th St-Convention Center,2025-10-25 00:00:00,15
+Navy Yard-Ballpark,2025-10-25 00:00:00,15
+Naylor Road,2025-10-25 00:00:00,15
+New Carrollton,2025-10-25 00:00:00,11
+NoMa-Gallaudet U,2025-10-25 00:00:00,2
+North Bethesda,2025-10-25 00:00:00,2
+Pentagon,2025-10-25 00:00:00,11
+Pentagon City,2025-10-25 00:00:00,11
+Potomac Ave,2025-10-25 00:00:00,11
+Potomac Yard,2025-10-25 00:00:00,11
+Reston Town Center,2025-10-25 00:00:00,11
+"Rhode Island Ave-Brentwood,",2025-10-25 00:00:00,2
+Rockville,2025-10-25 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-25 00:00:00,11
+Rosslyn,2025-10-25 00:00:00,11
+Shady Grove,2025-10-25 00:00:00,2
+Shaw-Howard U,2025-10-25 00:00:00,15
+Silver Spring,2025-10-25 00:00:00,2
+Smithsonian,2025-10-25 00:00:00,11
+Southern Avenue,2025-10-25 00:00:00,15
+Spring Hill,2025-10-25 00:00:00,11
+Stadium-Armory,2025-10-25 00:00:00,11
+Suitland,2025-10-25 00:00:00,15
+Takoma,2025-10-25 00:00:00,2
+Tenleytown-AU,2025-10-25 00:00:00,2
+Twinbrook,2025-10-25 00:00:00,2
+Tysons,2025-10-25 00:00:00,11
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-25 00:00:00,15
+Union Station,2025-10-25 00:00:00,2
+Van Dorn Street,2025-10-25 00:00:00,11
+Van Ness-UDC,2025-10-25 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-25 00:00:00,11
+Virginia Square-GMU,2025-10-25 00:00:00,11
+Washington Dulles International Airport,2025-10-25 00:00:00,11
+Waterfront,2025-10-25 00:00:00,15
+West Falls Church,2025-10-25 00:00:00,11
+West Hyattsville,2025-10-25 00:00:00,15
+Wheaton,2025-10-25 00:00:00,2
+Wiehle-Reston East,2025-10-25 00:00:00,11
+Woodley Park-Zoo/Adams Morgan,2025-10-25 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-26 00:00:00,15
+Anacostia,2025-10-26 00:00:00,15
+Archives-Navy Memorial-Penn Quarter,2025-10-26 00:00:00,15
+Arlington Cemetery,2025-10-26 00:00:00,11
+Ashburn,2025-10-26 00:00:00,11
+Ballston-MU,2025-10-26 00:00:00,11
+Benning Road,2025-10-26 00:00:00,15
+Bethesda,2025-10-26 00:00:00,2
+Braddock Road,2025-10-26 00:00:00,11
+Branch Ave,2025-10-26 00:00:00,15
+Brookland-CUA,2025-10-26 00:00:00,2
+Capitol Heights,2025-10-26 00:00:00,15
+Capitol South,2025-10-26 00:00:00,11
+Cheverly,2025-10-26 00:00:00,15
+Clarendon,2025-10-26 00:00:00,11
+Cleveland Park,2025-10-26 00:00:00,2
+College Park-U of Md,2025-10-26 00:00:00,15
+Columbia Heights,2025-10-26 00:00:00,15
+Congress Heights,2025-10-26 00:00:00,15
+Court House,2025-10-26 00:00:00,11
+Crystal City,2025-10-26 00:00:00,11
+Deanwood,2025-10-26 00:00:00,15
+Downtown Largo,2025-10-26 00:00:00,15
+Dunn Loring-Merrifield,2025-10-26 00:00:00,11
+Dupont Circle,2025-10-26 00:00:00,2
+East Falls Church,2025-10-26 00:00:00,11
+Eastern Market,2025-10-26 00:00:00,15
+Eisenhower Ave,2025-10-26 00:00:00,11
+Farragut North,2025-10-26 00:00:00,2
+Farragut West,2025-10-26 00:00:00,11
+Federal Center SW,2025-10-26 00:00:00,11
+Federal Triangle,2025-10-26 00:00:00,11
+Foggy Bottom-GWU,2025-10-26 00:00:00,11
+Forest Glen,2025-10-26 00:00:00,2
+Fort Totten,2025-10-26 00:00:00,15
+Franconia-Springfield,2025-10-26 00:00:00,11
+Friendship Heights,2025-10-26 00:00:00,2
+Gallery Pl-Chinatown,2025-10-26 00:00:00,15
+Georgia Ave-Petworth,2025-10-26 00:00:00,15
+Glenmont,2025-10-26 00:00:00,2
+Greenbelt,2025-10-26 00:00:00,15
+Greensboro,2025-10-26 00:00:00,11
+Grosvenor-Strathmore,2025-10-26 00:00:00,2
+Herndon,2025-10-26 00:00:00,11
+Huntington,2025-10-26 00:00:00,11
+Hyattsville Crossing,2025-10-26 00:00:00,15
+Innovation Center,2025-10-26 00:00:00,11
+Judiciary Square,2025-10-26 00:00:00,2
+King St-Old Town,2025-10-26 00:00:00,11
+L'Enfant Plaza,2025-10-26 00:00:00,11
+Landover,2025-10-26 00:00:00,15
+Loudoun Gateway,2025-10-26 00:00:00,11
+McLean,2025-10-26 00:00:00,11
+McPherson Sq,2025-10-26 00:00:00,11
+Medical Center,2025-10-26 00:00:00,2
+Metro Center,2025-10-26 00:00:00,2
+Minnesota Ave,2025-10-26 00:00:00,15
+Morgan Boulevard,2025-10-26 00:00:00,15
+Mt Vernon Sq 7th St-Convention Center,2025-10-26 00:00:00,15
+Navy Yard-Ballpark,2025-10-26 00:00:00,15
+Naylor Road,2025-10-26 00:00:00,15
+New Carrollton,2025-10-26 00:00:00,11
+NoMa-Gallaudet U,2025-10-26 00:00:00,2
+North Bethesda,2025-10-26 00:00:00,2
+Pentagon,2025-10-26 00:00:00,11
+Pentagon City,2025-10-26 00:00:00,11
+Potomac Ave,2025-10-26 00:00:00,15
+Potomac Yard,2025-10-26 00:00:00,11
+Reston Town Center,2025-10-26 00:00:00,11
+"Rhode Island Ave-Brentwood,",2025-10-26 00:00:00,2
+Rockville,2025-10-26 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-26 00:00:00,11
+Rosslyn,2025-10-26 00:00:00,11
+Shady Grove,2025-10-26 00:00:00,2
+Shaw-Howard U,2025-10-26 00:00:00,15
+Silver Spring,2025-10-26 00:00:00,2
+Smithsonian,2025-10-26 00:00:00,11
+Southern Avenue,2025-10-26 00:00:00,15
+Spring Hill,2025-10-26 00:00:00,11
+Stadium-Armory,2025-10-26 00:00:00,15
+Suitland,2025-10-26 00:00:00,15
+Takoma,2025-10-26 00:00:00,2
+Tenleytown-AU,2025-10-26 00:00:00,2
+Twinbrook,2025-10-26 00:00:00,2
+Tysons,2025-10-26 00:00:00,11
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-26 00:00:00,15
+Union Station,2025-10-26 00:00:00,2
+Van Dorn Street,2025-10-26 00:00:00,11
+Van Ness-UDC,2025-10-26 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-26 00:00:00,11
+Virginia Square-GMU,2025-10-26 00:00:00,11
+Washington Dulles International Airport,2025-10-26 00:00:00,11
+Waterfront,2025-10-26 00:00:00,15
+West Falls Church,2025-10-26 00:00:00,11
+West Hyattsville,2025-10-26 00:00:00,15
+Wheaton,2025-10-26 00:00:00,2
+Wiehle-Reston East,2025-10-26 00:00:00,11
+Woodley Park-Zoo/Adams Morgan,2025-10-26 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-27 00:00:00,16
+Anacostia,2025-10-27 00:00:00,15
+Archives-Navy Memorial-Penn Quarter,2025-10-27 00:00:00,11
+Arlington Cemetery,2025-10-27 00:00:00,11
+Ashburn,2025-10-27 00:00:00,16
+Ballston-MU,2025-10-27 00:00:00,16
+Benning Road,2025-10-27 00:00:00,16
+Bethesda,2025-10-27 00:00:00,2
+Braddock Road,2025-10-27 00:00:00,11
+Branch Ave,2025-10-27 00:00:00,15
+Brookland-CUA,2025-10-27 00:00:00,2
+Capitol Heights,2025-10-27 00:00:00,16
+Capitol South,2025-10-27 00:00:00,16
+Cheverly,2025-10-27 00:00:00,16
+Clarendon,2025-10-27 00:00:00,16
+Cleveland Park,2025-10-27 00:00:00,2
+College Park-U of Md,2025-10-27 00:00:00,15
+Columbia Heights,2025-10-27 00:00:00,15
+Congress Heights,2025-10-27 00:00:00,15
+Court House,2025-10-27 00:00:00,16
+Crystal City,2025-10-27 00:00:00,11
+Deanwood,2025-10-27 00:00:00,16
+Downtown Largo,2025-10-27 00:00:00,16
+Dunn Loring-Merrifield,2025-10-27 00:00:00,16
+Dupont Circle,2025-10-27 00:00:00,2
+East Falls Church,2025-10-27 00:00:00,16
+Eastern Market,2025-10-27 00:00:00,16
+Eisenhower Ave,2025-10-27 00:00:00,11
+Farragut North,2025-10-27 00:00:00,2
+Farragut West,2025-10-27 00:00:00,16
+Federal Center SW,2025-10-27 00:00:00,16
+Federal Triangle,2025-10-27 00:00:00,16
+Foggy Bottom-GWU,2025-10-27 00:00:00,16
+Forest Glen,2025-10-27 00:00:00,2
+Fort Totten,2025-10-27 00:00:00,15
+Franconia-Springfield,2025-10-27 00:00:00,11
+Friendship Heights,2025-10-27 00:00:00,2
+Gallery Pl-Chinatown,2025-10-27 00:00:00,15
+Georgia Ave-Petworth,2025-10-27 00:00:00,15
+Glenmont,2025-10-27 00:00:00,2
+Greenbelt,2025-10-27 00:00:00,15
+Greensboro,2025-10-27 00:00:00,16
+Grosvenor-Strathmore,2025-10-27 00:00:00,2
+Herndon,2025-10-27 00:00:00,16
+Huntington,2025-10-27 00:00:00,11
+Hyattsville Crossing,2025-10-27 00:00:00,15
+Innovation Center,2025-10-27 00:00:00,16
+Judiciary Square,2025-10-27 00:00:00,2
+King St-Old Town,2025-10-27 00:00:00,11
+L'Enfant Plaza,2025-10-27 00:00:00,15
+Landover,2025-10-27 00:00:00,16
+Loudoun Gateway,2025-10-27 00:00:00,16
+McLean,2025-10-27 00:00:00,16
+McPherson Sq,2025-10-27 00:00:00,16
+Medical Center,2025-10-27 00:00:00,2
+Metro Center,2025-10-27 00:00:00,2
+Minnesota Ave,2025-10-27 00:00:00,16
+Morgan Boulevard,2025-10-27 00:00:00,16
+Mt Vernon Sq 7th St-Convention Center,2025-10-27 00:00:00,15
+Navy Yard-Ballpark,2025-10-27 00:00:00,15
+Naylor Road,2025-10-27 00:00:00,15
+New Carrollton,2025-10-27 00:00:00,16
+NoMa-Gallaudet U,2025-10-27 00:00:00,2
+North Bethesda,2025-10-27 00:00:00,2
+Pentagon,2025-10-27 00:00:00,11
+Pentagon City,2025-10-27 00:00:00,11
+Potomac Ave,2025-10-27 00:00:00,16
+Potomac Yard,2025-10-27 00:00:00,11
+Reston Town Center,2025-10-27 00:00:00,16
+"Rhode Island Ave-Brentwood,",2025-10-27 00:00:00,2
+Rockville,2025-10-27 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-27 00:00:00,11
+Rosslyn,2025-10-27 00:00:00,16
+Shady Grove,2025-10-27 00:00:00,2
+Shaw-Howard U,2025-10-27 00:00:00,15
+Silver Spring,2025-10-27 00:00:00,2
+Smithsonian,2025-10-27 00:00:00,16
+Southern Avenue,2025-10-27 00:00:00,15
+Spring Hill,2025-10-27 00:00:00,16
+Stadium-Armory,2025-10-27 00:00:00,16
+Suitland,2025-10-27 00:00:00,15
+Takoma,2025-10-27 00:00:00,2
+Tenleytown-AU,2025-10-27 00:00:00,2
+Twinbrook,2025-10-27 00:00:00,2
+Tysons,2025-10-27 00:00:00,16
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-27 00:00:00,15
+Union Station,2025-10-27 00:00:00,2
+Van Dorn Street,2025-10-27 00:00:00,11
+Van Ness-UDC,2025-10-27 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-27 00:00:00,16
+Virginia Square-GMU,2025-10-27 00:00:00,16
+Washington Dulles International Airport,2025-10-27 00:00:00,16
+Waterfront,2025-10-27 00:00:00,15
+West Falls Church,2025-10-27 00:00:00,16
+West Hyattsville,2025-10-27 00:00:00,15
+Wheaton,2025-10-27 00:00:00,2
+Wiehle-Reston East,2025-10-27 00:00:00,16
+Woodley Park-Zoo/Adams Morgan,2025-10-27 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-28 00:00:00,16
+Anacostia,2025-10-28 00:00:00,15
+Archives-Navy Memorial-Penn Quarter,2025-10-28 00:00:00,11
+Arlington Cemetery,2025-10-28 00:00:00,11
+Ashburn,2025-10-28 00:00:00,16
+Ballston-MU,2025-10-28 00:00:00,16
+Benning Road,2025-10-28 00:00:00,16
+Bethesda,2025-10-28 00:00:00,2
+Braddock Road,2025-10-28 00:00:00,11
+Branch Ave,2025-10-28 00:00:00,15
+Brookland-CUA,2025-10-28 00:00:00,2
+Capitol Heights,2025-10-28 00:00:00,16
+Capitol South,2025-10-28 00:00:00,16
+Cheverly,2025-10-28 00:00:00,16
+Clarendon,2025-10-28 00:00:00,16
+Cleveland Park,2025-10-28 00:00:00,2
+College Park-U of Md,2025-10-28 00:00:00,15
+Columbia Heights,2025-10-28 00:00:00,15
+Congress Heights,2025-10-28 00:00:00,15
+Court House,2025-10-28 00:00:00,16
+Crystal City,2025-10-28 00:00:00,11
+Deanwood,2025-10-28 00:00:00,16
+Downtown Largo,2025-10-28 00:00:00,16
+Dunn Loring-Merrifield,2025-10-28 00:00:00,16
+Dupont Circle,2025-10-28 00:00:00,2
+East Falls Church,2025-10-28 00:00:00,16
+Eastern Market,2025-10-28 00:00:00,16
+Eisenhower Ave,2025-10-28 00:00:00,11
+Farragut North,2025-10-28 00:00:00,2
+Farragut West,2025-10-28 00:00:00,16
+Federal Center SW,2025-10-28 00:00:00,16
+Federal Triangle,2025-10-28 00:00:00,16
+Foggy Bottom-GWU,2025-10-28 00:00:00,16
+Forest Glen,2025-10-28 00:00:00,2
+Fort Totten,2025-10-28 00:00:00,15
+Franconia-Springfield,2025-10-28 00:00:00,11
+Friendship Heights,2025-10-28 00:00:00,2
+Gallery Pl-Chinatown,2025-10-28 00:00:00,15
+Georgia Ave-Petworth,2025-10-28 00:00:00,15
+Glenmont,2025-10-28 00:00:00,2
+Greenbelt,2025-10-28 00:00:00,15
+Greensboro,2025-10-28 00:00:00,16
+Grosvenor-Strathmore,2025-10-28 00:00:00,2
+Herndon,2025-10-28 00:00:00,16
+Huntington,2025-10-28 00:00:00,11
+Hyattsville Crossing,2025-10-28 00:00:00,15
+Innovation Center,2025-10-28 00:00:00,16
+Judiciary Square,2025-10-28 00:00:00,2
+King St-Old Town,2025-10-28 00:00:00,11
+L'Enfant Plaza,2025-10-28 00:00:00,11
+Landover,2025-10-28 00:00:00,16
+Loudoun Gateway,2025-10-28 00:00:00,16
+McLean,2025-10-28 00:00:00,16
+McPherson Sq,2025-10-28 00:00:00,16
+Medical Center,2025-10-28 00:00:00,2
+Metro Center,2025-10-28 00:00:00,2
+Minnesota Ave,2025-10-28 00:00:00,16
+Morgan Boulevard,2025-10-28 00:00:00,16
+Mt Vernon Sq 7th St-Convention Center,2025-10-28 00:00:00,15
+Navy Yard-Ballpark,2025-10-28 00:00:00,15
+Naylor Road,2025-10-28 00:00:00,15
+New Carrollton,2025-10-28 00:00:00,16
+NoMa-Gallaudet U,2025-10-28 00:00:00,2
+North Bethesda,2025-10-28 00:00:00,2
+Pentagon,2025-10-28 00:00:00,11
+Pentagon City,2025-10-28 00:00:00,11
+Potomac Ave,2025-10-28 00:00:00,16
+Potomac Yard,2025-10-28 00:00:00,11
+Reston Town Center,2025-10-28 00:00:00,16
+"Rhode Island Ave-Brentwood,",2025-10-28 00:00:00,2
+Rockville,2025-10-28 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-28 00:00:00,11
+Rosslyn,2025-10-28 00:00:00,16
+Shady Grove,2025-10-28 00:00:00,2
+Shaw-Howard U,2025-10-28 00:00:00,15
+Silver Spring,2025-10-28 00:00:00,2
+Smithsonian,2025-10-28 00:00:00,16
+Southern Avenue,2025-10-28 00:00:00,15
+Spring Hill,2025-10-28 00:00:00,16
+Stadium-Armory,2025-10-28 00:00:00,16
+Suitland,2025-10-28 00:00:00,15
+Takoma,2025-10-28 00:00:00,2
+Tenleytown-AU,2025-10-28 00:00:00,2
+Twinbrook,2025-10-28 00:00:00,2
+Tysons,2025-10-28 00:00:00,16
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-28 00:00:00,15
+Union Station,2025-10-28 00:00:00,2
+Van Dorn Street,2025-10-28 00:00:00,11
+Van Ness-UDC,2025-10-28 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-28 00:00:00,16
+Virginia Square-GMU,2025-10-28 00:00:00,16
+Washington Dulles International Airport,2025-10-28 00:00:00,16
+Waterfront,2025-10-28 00:00:00,15
+West Falls Church,2025-10-28 00:00:00,16
+West Hyattsville,2025-10-28 00:00:00,15
+Wheaton,2025-10-28 00:00:00,2
+Wiehle-Reston East,2025-10-28 00:00:00,16
+Woodley Park-Zoo/Adams Morgan,2025-10-28 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-29 00:00:00,16
+Anacostia,2025-10-29 00:00:00,15
+Archives-Navy Memorial-Penn Quarter,2025-10-29 00:00:00,11
+Arlington Cemetery,2025-10-29 00:00:00,11
+Ashburn,2025-10-29 00:00:00,16
+Ballston-MU,2025-10-29 00:00:00,16
+Benning Road,2025-10-29 00:00:00,16
+Bethesda,2025-10-29 00:00:00,2
+Braddock Road,2025-10-29 00:00:00,11
+Branch Ave,2025-10-29 00:00:00,15
+Brookland-CUA,2025-10-29 00:00:00,2
+Capitol Heights,2025-10-29 00:00:00,16
+Capitol South,2025-10-29 00:00:00,16
+Cheverly,2025-10-29 00:00:00,16
+Clarendon,2025-10-29 00:00:00,16
+Cleveland Park,2025-10-29 00:00:00,2
+College Park-U of Md,2025-10-29 00:00:00,15
+Columbia Heights,2025-10-29 00:00:00,15
+Congress Heights,2025-10-29 00:00:00,15
+Court House,2025-10-29 00:00:00,16
+Crystal City,2025-10-29 00:00:00,11
+Deanwood,2025-10-29 00:00:00,16
+Downtown Largo,2025-10-29 00:00:00,16
+Dunn Loring-Merrifield,2025-10-29 00:00:00,16
+Dupont Circle,2025-10-29 00:00:00,2
+East Falls Church,2025-10-29 00:00:00,16
+Eastern Market,2025-10-29 00:00:00,16
+Eisenhower Ave,2025-10-29 00:00:00,11
+Farragut North,2025-10-29 00:00:00,2
+Farragut West,2025-10-29 00:00:00,16
+Federal Center SW,2025-10-29 00:00:00,16
+Federal Triangle,2025-10-29 00:00:00,16
+Foggy Bottom-GWU,2025-10-29 00:00:00,16
+Forest Glen,2025-10-29 00:00:00,2
+Fort Totten,2025-10-29 00:00:00,15
+Franconia-Springfield,2025-10-29 00:00:00,11
+Friendship Heights,2025-10-29 00:00:00,2
+Gallery Pl-Chinatown,2025-10-29 00:00:00,15
+Georgia Ave-Petworth,2025-10-29 00:00:00,15
+Glenmont,2025-10-29 00:00:00,2
+Greenbelt,2025-10-29 00:00:00,15
+Greensboro,2025-10-29 00:00:00,16
+Grosvenor-Strathmore,2025-10-29 00:00:00,2
+Herndon,2025-10-29 00:00:00,16
+Huntington,2025-10-29 00:00:00,11
+Hyattsville Crossing,2025-10-29 00:00:00,15
+Innovation Center,2025-10-29 00:00:00,16
+Judiciary Square,2025-10-29 00:00:00,2
+King St-Old Town,2025-10-29 00:00:00,11
+L'Enfant Plaza,2025-10-29 00:00:00,15
+Landover,2025-10-29 00:00:00,16
+Loudoun Gateway,2025-10-29 00:00:00,16
+McLean,2025-10-29 00:00:00,16
+McPherson Sq,2025-10-29 00:00:00,16
+Medical Center,2025-10-29 00:00:00,2
+Metro Center,2025-10-29 00:00:00,2
+Minnesota Ave,2025-10-29 00:00:00,16
+Morgan Boulevard,2025-10-29 00:00:00,16
+Mt Vernon Sq 7th St-Convention Center,2025-10-29 00:00:00,15
+Navy Yard-Ballpark,2025-10-29 00:00:00,15
+Naylor Road,2025-10-29 00:00:00,15
+New Carrollton,2025-10-29 00:00:00,16
+NoMa-Gallaudet U,2025-10-29 00:00:00,2
+North Bethesda,2025-10-29 00:00:00,2
+Pentagon,2025-10-29 00:00:00,11
+Pentagon City,2025-10-29 00:00:00,11
+Potomac Ave,2025-10-29 00:00:00,16
+Potomac Yard,2025-10-29 00:00:00,11
+Reston Town Center,2025-10-29 00:00:00,16
+"Rhode Island Ave-Brentwood,",2025-10-29 00:00:00,2
+Rockville,2025-10-29 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-29 00:00:00,11
+Rosslyn,2025-10-29 00:00:00,16
+Shady Grove,2025-10-29 00:00:00,2
+Shaw-Howard U,2025-10-29 00:00:00,15
+Silver Spring,2025-10-29 00:00:00,2
+Smithsonian,2025-10-29 00:00:00,16
+Southern Avenue,2025-10-29 00:00:00,15
+Spring Hill,2025-10-29 00:00:00,16
+Stadium-Armory,2025-10-29 00:00:00,16
+Suitland,2025-10-29 00:00:00,15
+Takoma,2025-10-29 00:00:00,2
+Tenleytown-AU,2025-10-29 00:00:00,2
+Twinbrook,2025-10-29 00:00:00,2
+Tysons,2025-10-29 00:00:00,16
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-29 00:00:00,15
+Union Station,2025-10-29 00:00:00,2
+Van Dorn Street,2025-10-29 00:00:00,11
+Van Ness-UDC,2025-10-29 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-29 00:00:00,16
+Virginia Square-GMU,2025-10-29 00:00:00,16
+Washington Dulles International Airport,2025-10-29 00:00:00,16
+Waterfront,2025-10-29 00:00:00,15
+West Falls Church,2025-10-29 00:00:00,16
+West Hyattsville,2025-10-29 00:00:00,15
+Wheaton,2025-10-29 00:00:00,2
+Wiehle-Reston East,2025-10-29 00:00:00,16
+Woodley Park-Zoo/Adams Morgan,2025-10-29 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-30 00:00:00,16
+Anacostia,2025-10-30 00:00:00,15
+Archives-Navy Memorial-Penn Quarter,2025-10-30 00:00:00,11
+Arlington Cemetery,2025-10-30 00:00:00,11
+Ashburn,2025-10-30 00:00:00,16
+Ballston-MU,2025-10-30 00:00:00,16
+Benning Road,2025-10-30 00:00:00,16
+Bethesda,2025-10-30 00:00:00,2
+Braddock Road,2025-10-30 00:00:00,11
+Branch Ave,2025-10-30 00:00:00,15
+Brookland-CUA,2025-10-30 00:00:00,2
+Capitol Heights,2025-10-30 00:00:00,16
+Capitol South,2025-10-30 00:00:00,16
+Cheverly,2025-10-30 00:00:00,16
+Clarendon,2025-10-30 00:00:00,16
+Cleveland Park,2025-10-30 00:00:00,2
+College Park-U of Md,2025-10-30 00:00:00,15
+Columbia Heights,2025-10-30 00:00:00,15
+Congress Heights,2025-10-30 00:00:00,15
+Court House,2025-10-30 00:00:00,16
+Crystal City,2025-10-30 00:00:00,11
+Deanwood,2025-10-30 00:00:00,16
+Downtown Largo,2025-10-30 00:00:00,16
+Dunn Loring-Merrifield,2025-10-30 00:00:00,16
+Dupont Circle,2025-10-30 00:00:00,2
+East Falls Church,2025-10-30 00:00:00,16
+Eastern Market,2025-10-30 00:00:00,16
+Eisenhower Ave,2025-10-30 00:00:00,11
+Farragut North,2025-10-30 00:00:00,2
+Farragut West,2025-10-30 00:00:00,16
+Federal Center SW,2025-10-30 00:00:00,16
+Federal Triangle,2025-10-30 00:00:00,16
+Foggy Bottom-GWU,2025-10-30 00:00:00,16
+Forest Glen,2025-10-30 00:00:00,2
+Fort Totten,2025-10-30 00:00:00,15
+Franconia-Springfield,2025-10-30 00:00:00,11
+Friendship Heights,2025-10-30 00:00:00,2
+Gallery Pl-Chinatown,2025-10-30 00:00:00,15
+Georgia Ave-Petworth,2025-10-30 00:00:00,15
+Glenmont,2025-10-30 00:00:00,2
+Greenbelt,2025-10-30 00:00:00,15
+Greensboro,2025-10-30 00:00:00,16
+Grosvenor-Strathmore,2025-10-30 00:00:00,2
+Herndon,2025-10-30 00:00:00,16
+Huntington,2025-10-30 00:00:00,11
+Hyattsville Crossing,2025-10-30 00:00:00,15
+Innovation Center,2025-10-30 00:00:00,16
+Judiciary Square,2025-10-30 00:00:00,2
+King St-Old Town,2025-10-30 00:00:00,11
+L'Enfant Plaza,2025-10-30 00:00:00,15
+Landover,2025-10-30 00:00:00,16
+Loudoun Gateway,2025-10-30 00:00:00,16
+McLean,2025-10-30 00:00:00,16
+McPherson Sq,2025-10-30 00:00:00,16
+Medical Center,2025-10-30 00:00:00,2
+Metro Center,2025-10-30 00:00:00,2
+Minnesota Ave,2025-10-30 00:00:00,16
+Morgan Boulevard,2025-10-30 00:00:00,16
+Mt Vernon Sq 7th St-Convention Center,2025-10-30 00:00:00,15
+Navy Yard-Ballpark,2025-10-30 00:00:00,15
+Naylor Road,2025-10-30 00:00:00,15
+New Carrollton,2025-10-30 00:00:00,16
+NoMa-Gallaudet U,2025-10-30 00:00:00,2
+North Bethesda,2025-10-30 00:00:00,2
+Pentagon,2025-10-30 00:00:00,11
+Pentagon City,2025-10-30 00:00:00,11
+Potomac Ave,2025-10-30 00:00:00,16
+Potomac Yard,2025-10-30 00:00:00,11
+Reston Town Center,2025-10-30 00:00:00,16
+"Rhode Island Ave-Brentwood,",2025-10-30 00:00:00,2
+Rockville,2025-10-30 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-30 00:00:00,11
+Rosslyn,2025-10-30 00:00:00,16
+Shady Grove,2025-10-30 00:00:00,2
+Shaw-Howard U,2025-10-30 00:00:00,15
+Silver Spring,2025-10-30 00:00:00,2
+Smithsonian,2025-10-30 00:00:00,16
+Southern Avenue,2025-10-30 00:00:00,15
+Spring Hill,2025-10-30 00:00:00,16
+Stadium-Armory,2025-10-30 00:00:00,16
+Suitland,2025-10-30 00:00:00,15
+Takoma,2025-10-30 00:00:00,2
+Tenleytown-AU,2025-10-30 00:00:00,2
+Twinbrook,2025-10-30 00:00:00,2
+Tysons,2025-10-30 00:00:00,16
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-30 00:00:00,15
+Union Station,2025-10-30 00:00:00,2
+Van Dorn Street,2025-10-30 00:00:00,11
+Van Ness-UDC,2025-10-30 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-30 00:00:00,16
+Virginia Square-GMU,2025-10-30 00:00:00,16
+Washington Dulles International Airport,2025-10-30 00:00:00,16
+Waterfront,2025-10-30 00:00:00,15
+West Falls Church,2025-10-30 00:00:00,16
+West Hyattsville,2025-10-30 00:00:00,15
+Wheaton,2025-10-30 00:00:00,2
+Wiehle-Reston East,2025-10-30 00:00:00,16
+Woodley Park-Zoo/Adams Morgan,2025-10-30 00:00:00,2
+Addison Road-Seat Pleasant,2025-10-31 00:00:00,16
+Anacostia,2025-10-31 00:00:00,15
+Archives-Navy Memorial-Penn Quarter,2025-10-31 00:00:00,11
+Arlington Cemetery,2025-10-31 00:00:00,11
+Ashburn,2025-10-31 00:00:00,16
+Ballston-MU,2025-10-31 00:00:00,16
+Benning Road,2025-10-31 00:00:00,16
+Bethesda,2025-10-31 00:00:00,2
+Braddock Road,2025-10-31 00:00:00,11
+Branch Ave,2025-10-31 00:00:00,15
+Brookland-CUA,2025-10-31 00:00:00,2
+Capitol Heights,2025-10-31 00:00:00,16
+Capitol South,2025-10-31 00:00:00,16
+Cheverly,2025-10-31 00:00:00,16
+Clarendon,2025-10-31 00:00:00,16
+Cleveland Park,2025-10-31 00:00:00,2
+College Park-U of Md,2025-10-31 00:00:00,15
+Columbia Heights,2025-10-31 00:00:00,15
+Congress Heights,2025-10-31 00:00:00,15
+Court House,2025-10-31 00:00:00,16
+Crystal City,2025-10-31 00:00:00,11
+Deanwood,2025-10-31 00:00:00,16
+Downtown Largo,2025-10-31 00:00:00,16
+Dunn Loring-Merrifield,2025-10-31 00:00:00,16
+Dupont Circle,2025-10-31 00:00:00,2
+East Falls Church,2025-10-31 00:00:00,16
+Eastern Market,2025-10-31 00:00:00,16
+Eisenhower Ave,2025-10-31 00:00:00,11
+Farragut North,2025-10-31 00:00:00,2
+Farragut West,2025-10-31 00:00:00,16
+Federal Center SW,2025-10-31 00:00:00,16
+Federal Triangle,2025-10-31 00:00:00,16
+Foggy Bottom-GWU,2025-10-31 00:00:00,16
+Forest Glen,2025-10-31 00:00:00,2
+Fort Totten,2025-10-31 00:00:00,15
+Franconia-Springfield,2025-10-31 00:00:00,11
+Friendship Heights,2025-10-31 00:00:00,2
+Gallery Pl-Chinatown,2025-10-31 00:00:00,15
+Georgia Ave-Petworth,2025-10-31 00:00:00,15
+Glenmont,2025-10-31 00:00:00,2
+Greenbelt,2025-10-31 00:00:00,15
+Greensboro,2025-10-31 00:00:00,16
+Grosvenor-Strathmore,2025-10-31 00:00:00,2
+Herndon,2025-10-31 00:00:00,16
+Huntington,2025-10-31 00:00:00,11
+Hyattsville Crossing,2025-10-31 00:00:00,15
+Innovation Center,2025-10-31 00:00:00,16
+Judiciary Square,2025-10-31 00:00:00,2
+King St-Old Town,2025-10-31 00:00:00,11
+L'Enfant Plaza,2025-10-31 00:00:00,15
+Landover,2025-10-31 00:00:00,16
+Loudoun Gateway,2025-10-31 00:00:00,16
+McLean,2025-10-31 00:00:00,16
+McPherson Sq,2025-10-31 00:00:00,16
+Medical Center,2025-10-31 00:00:00,2
+Metro Center,2025-10-31 00:00:00,2
+Minnesota Ave,2025-10-31 00:00:00,16
+Morgan Boulevard,2025-10-31 00:00:00,16
+Mt Vernon Sq 7th St-Convention Center,2025-10-31 00:00:00,15
+Navy Yard-Ballpark,2025-10-31 00:00:00,15
+Naylor Road,2025-10-31 00:00:00,15
+New Carrollton,2025-10-31 00:00:00,16
+NoMa-Gallaudet U,2025-10-31 00:00:00,2
+North Bethesda,2025-10-31 00:00:00,2
+Pentagon,2025-10-31 00:00:00,11
+Pentagon City,2025-10-31 00:00:00,11
+Potomac Ave,2025-10-31 00:00:00,16
+Potomac Yard,2025-10-31 00:00:00,11
+Reston Town Center,2025-10-31 00:00:00,16
+"Rhode Island Ave-Brentwood,",2025-10-31 00:00:00,2
+Rockville,2025-10-31 00:00:00,2
+Ronald Reagan Washington National Airport,2025-10-31 00:00:00,11
+Rosslyn,2025-10-31 00:00:00,16
+Shady Grove,2025-10-31 00:00:00,2
+Shaw-Howard U,2025-10-31 00:00:00,15
+Silver Spring,2025-10-31 00:00:00,2
+Smithsonian,2025-10-31 00:00:00,16
+Southern Avenue,2025-10-31 00:00:00,15
+Spring Hill,2025-10-31 00:00:00,16
+Stadium-Armory,2025-10-31 00:00:00,16
+Suitland,2025-10-31 00:00:00,15
+Takoma,2025-10-31 00:00:00,2
+Tenleytown-AU,2025-10-31 00:00:00,2
+Twinbrook,2025-10-31 00:00:00,2
+Tysons,2025-10-31 00:00:00,16
+U Street/African-Amer Civil War Memorial/Cardozo,2025-10-31 00:00:00,15
+Union Station,2025-10-31 00:00:00,2
+Van Dorn Street,2025-10-31 00:00:00,11
+Van Ness-UDC,2025-10-31 00:00:00,2
+Vienna/Fairfax-GMU,2025-10-31 00:00:00,16
+Virginia Square-GMU,2025-10-31 00:00:00,16
+Washington Dulles International Airport,2025-10-31 00:00:00,16
+Waterfront,2025-10-31 00:00:00,15
+West Falls Church,2025-10-31 00:00:00,16
+West Hyattsville,2025-10-31 00:00:00,15
+Wheaton,2025-10-31 00:00:00,2
+Wiehle-Reston East,2025-10-31 00:00:00,16
+Woodley Park-Zoo/Adams Morgan,2025-10-31 00:00:00,2
+Addison Road-Seat Pleasant,2025-11-01 00:00:00,16
+Anacostia,2025-11-01 00:00:00,15
+Archives-Navy Memorial-Penn Quarter,2025-11-01 00:00:00,15
+Arlington Cemetery,2025-11-01 00:00:00,16
+Ashburn,2025-11-01 00:00:00,16
+Ballston-MU,2025-11-01 00:00:00,16
+Benning Road,2025-11-01 00:00:00,16
+Bethesda,2025-11-01 00:00:00,2
+Braddock Road,2025-11-01 00:00:00,16
+Branch Ave,2025-11-01 00:00:00,15
+Brookland-CUA,2025-11-01 00:00:00,2
+Capitol Heights,2025-11-01 00:00:00,16
+Capitol South,2025-11-01 00:00:00,16
+Cheverly,2025-11-01 00:00:00,16
+Clarendon,2025-11-01 00:00:00,16
+Cleveland Park,2025-11-01 00:00:00,2
+College Park-U of Md,2025-11-01 00:00:00,15
+Columbia Heights,2025-11-01 00:00:00,15
+Congress Heights,2025-11-01 00:00:00,15
+Court House,2025-11-01 00:00:00,16
+Crystal City,2025-11-01 00:00:00,16
+Deanwood,2025-11-01 00:00:00,16
+Downtown Largo,2025-11-01 00:00:00,16
+Dunn Loring-Merrifield,2025-11-01 00:00:00,16
+Dupont Circle,2025-11-01 00:00:00,2
+East Falls Church,2025-11-01 00:00:00,16
+Eastern Market,2025-11-01 00:00:00,16
+Eisenhower Ave,2025-11-01 00:00:00,16
+Farragut North,2025-11-01 00:00:00,2
+Farragut West,2025-11-01 00:00:00,16
+Federal Center SW,2025-11-01 00:00:00,16
+Federal Triangle,2025-11-01 00:00:00,16
+Foggy Bottom-GWU,2025-11-01 00:00:00,16
+Forest Glen,2025-11-01 00:00:00,2
+Fort Totten,2025-11-01 00:00:00,15
+Franconia-Springfield,2025-11-01 00:00:00,16
+Friendship Heights,2025-11-01 00:00:00,2
+Gallery Pl-Chinatown,2025-11-01 00:00:00,15
+Georgia Ave-Petworth,2025-11-01 00:00:00,15
+Glenmont,2025-11-01 00:00:00,2
+Greenbelt,2025-11-01 00:00:00,15
+Greensboro,2025-11-01 00:00:00,16
+Grosvenor-Strathmore,2025-11-01 00:00:00,2
+Herndon,2025-11-01 00:00:00,16
+Huntington,2025-11-01 00:00:00,16
+Hyattsville Crossing,2025-11-01 00:00:00,15
+Innovation Center,2025-11-01 00:00:00,16
+Judiciary Square,2025-11-01 00:00:00,2
+King St-Old Town,2025-11-01 00:00:00,16
+L'Enfant Plaza,2025-11-01 00:00:00,16
+Landover,2025-11-01 00:00:00,16
+Loudoun Gateway,2025-11-01 00:00:00,16
+McLean,2025-11-01 00:00:00,16
+McPherson Sq,2025-11-01 00:00:00,16
+Medical Center,2025-11-01 00:00:00,2
+Metro Center,2025-11-01 00:00:00,2
+Minnesota Ave,2025-11-01 00:00:00,16
+Morgan Boulevard,2025-11-01 00:00:00,16
+Mt Vernon Sq 7th St-Convention Center,2025-11-01 00:00:00,15
+Navy Yard-Ballpark,2025-11-01 00:00:00,15
+Naylor Road,2025-11-01 00:00:00,15
+New Carrollton,2025-11-01 00:00:00,16
+NoMa-Gallaudet U,2025-11-01 00:00:00,2
+North Bethesda,2025-11-01 00:00:00,2
+Pentagon,2025-11-01 00:00:00,16
+Pentagon City,2025-11-01 00:00:00,16
+Potomac Ave,2025-11-01 00:00:00,16
+Potomac Yard,2025-11-01 00:00:00,16
+Reston Town Center,2025-11-01 00:00:00,16
+"Rhode Island Ave-Brentwood,",2025-11-01 00:00:00,2
+Rockville,2025-11-01 00:00:00,2
+Ronald Reagan Washington National Airport,2025-11-01 00:00:00,16
+Rosslyn,2025-11-01 00:00:00,16
+Shady Grove,2025-11-01 00:00:00,2
+Shaw-Howard U,2025-11-01 00:00:00,15
+Silver Spring,2025-11-01 00:00:00,2
+Smithsonian,2025-11-01 00:00:00,16
+Southern Avenue,2025-11-01 00:00:00,15
+Spring Hill,2025-11-01 00:00:00,16
+Stadium-Armory,2025-11-01 00:00:00,16
+Suitland,2025-11-01 00:00:00,15
+Takoma,2025-11-01 00:00:00,2
+Tenleytown-AU,2025-11-01 00:00:00,2
+Twinbrook,2025-11-01 00:00:00,2
+Tysons,2025-11-01 00:00:00,16
+U Street/African-Amer Civil War Memorial/Cardozo,2025-11-01 00:00:00,15
+Union Station,2025-11-01 00:00:00,2
+Van Dorn Street,2025-11-01 00:00:00,16
+Van Ness-UDC,2025-11-01 00:00:00,2
+Vienna/Fairfax-GMU,2025-11-01 00:00:00,16
+Virginia Square-GMU,2025-11-01 00:00:00,16
+Washington Dulles International Airport,2025-11-01 00:00:00,16
+Waterfront,2025-11-01 00:00:00,15
+West Falls Church,2025-11-01 00:00:00,16
+West Hyattsville,2025-11-01 00:00:00,15
+Wheaton,2025-11-01 00:00:00,2
+Wiehle-Reston East,2025-11-01 00:00:00,16
+Woodley Park-Zoo/Adams Morgan,2025-11-01 00:00:00,2
+Addison Road-Seat Pleasant,2025-11-02 00:00:00,16
+Anacostia,2025-11-02 00:00:00,15
+Archives-Navy Memorial-Penn Quarter,2025-11-02 00:00:00,15
+Arlington Cemetery,2025-11-02 00:00:00,16
+Ashburn,2025-11-02 00:00:00,16
+Ballston-MU,2025-11-02 00:00:00,16
+Benning Road,2025-11-02 00:00:00,16
+Bethesda,2025-11-02 00:00:00,2
+Braddock Road,2025-11-02 00:00:00,16
+Branch Ave,2025-11-02 00:00:00,15
+Brookland-CUA,2025-11-02 00:00:00,2
+Capitol Heights,2025-11-02 00:00:00,16
+Capitol South,2025-11-02 00:00:00,16
+Cheverly,2025-11-02 00:00:00,16
+Clarendon,2025-11-02 00:00:00,16
+Cleveland Park,2025-11-02 00:00:00,2
+College Park-U of Md,2025-11-02 00:00:00,15
+Columbia Heights,2025-11-02 00:00:00,15
+Congress Heights,2025-11-02 00:00:00,15
+Court House,2025-11-02 00:00:00,16
+Crystal City,2025-11-02 00:00:00,16
+Deanwood,2025-11-02 00:00:00,16
+Downtown Largo,2025-11-02 00:00:00,16
+Dunn Loring-Merrifield,2025-11-02 00:00:00,16
+Dupont Circle,2025-11-02 00:00:00,2
+East Falls Church,2025-11-02 00:00:00,16
+Eastern Market,2025-11-02 00:00:00,16
+Eisenhower Ave,2025-11-02 00:00:00,16
+Farragut North,2025-11-02 00:00:00,2
+Farragut West,2025-11-02 00:00:00,16
+Federal Center SW,2025-11-02 00:00:00,16
+Federal Triangle,2025-11-02 00:00:00,16
+Foggy Bottom-GWU,2025-11-02 00:00:00,16
+Forest Glen,2025-11-02 00:00:00,2
+Fort Totten,2025-11-02 00:00:00,15
+Franconia-Springfield,2025-11-02 00:00:00,16
+Friendship Heights,2025-11-02 00:00:00,2
+Gallery Pl-Chinatown,2025-11-02 00:00:00,15
+Georgia Ave-Petworth,2025-11-02 00:00:00,15
+Glenmont,2025-11-02 00:00:00,2
+Greenbelt,2025-11-02 00:00:00,15
+Greensboro,2025-11-02 00:00:00,16
+Grosvenor-Strathmore,2025-11-02 00:00:00,2
+Herndon,2025-11-02 00:00:00,16
+Huntington,2025-11-02 00:00:00,16
+Hyattsville Crossing,2025-11-02 00:00:00,15
+Innovation Center,2025-11-02 00:00:00,16
+Judiciary Square,2025-11-02 00:00:00,2
+King St-Old Town,2025-11-02 00:00:00,16
+L'Enfant Plaza,2025-11-02 00:00:00,16
+Landover,2025-11-02 00:00:00,16
+Loudoun Gateway,2025-11-02 00:00:00,16
+McLean,2025-11-02 00:00:00,16
+McPherson Sq,2025-11-02 00:00:00,16
+Medical Center,2025-11-02 00:00:00,2
+Metro Center,2025-11-02 00:00:00,2
+Minnesota Ave,2025-11-02 00:00:00,16
+Morgan Boulevard,2025-11-02 00:00:00,16
+Mt Vernon Sq 7th St-Convention Center,2025-11-02 00:00:00,15
+Navy Yard-Ballpark,2025-11-02 00:00:00,15
+Naylor Road,2025-11-02 00:00:00,15
+New Carrollton,2025-11-02 00:00:00,16
+NoMa-Gallaudet U,2025-11-02 00:00:00,2
+North Bethesda,2025-11-02 00:00:00,2
+Pentagon,2025-11-02 00:00:00,16
+Pentagon City,2025-11-02 00:00:00,16
+Potomac Ave,2025-11-02 00:00:00,16
+Potomac Yard,2025-11-02 00:00:00,16
+Reston Town Center,2025-11-02 00:00:00,16
+"Rhode Island Ave-Brentwood,",2025-11-02 00:00:00,2
+Rockville,2025-11-02 00:00:00,2
+Ronald Reagan Washington National Airport,2025-11-02 00:00:00,16
+Rosslyn,2025-11-02 00:00:00,16
+Shady Grove,2025-11-02 00:00:00,2
+Shaw-Howard U,2025-11-02 00:00:00,15
+Silver Spring,2025-11-02 00:00:00,2
+Smithsonian,2025-11-02 00:00:00,16
+Southern Avenue,2025-11-02 00:00:00,15
+Spring Hill,2025-11-02 00:00:00,16
+Stadium-Armory,2025-11-02 00:00:00,16
+Suitland,2025-11-02 00:00:00,15
+Takoma,2025-11-02 00:00:00,2
+Tenleytown-AU,2025-11-02 00:00:00,2
+Twinbrook,2025-11-02 00:00:00,2
+Tysons,2025-11-02 00:00:00,16
+U Street/African-Amer Civil War Memorial/Cardozo,2025-11-02 00:00:00,15
+Union Station,2025-11-02 00:00:00,2
+Van Dorn Street,2025-11-02 00:00:00,16
+Van Ness-UDC,2025-11-02 00:00:00,2
+Vienna/Fairfax-GMU,2025-11-02 00:00:00,16
+Virginia Square-GMU,2025-11-02 00:00:00,16
+Washington Dulles International Airport,2025-11-02 00:00:00,16
+Waterfront,2025-11-02 00:00:00,15
+West Falls Church,2025-11-02 00:00:00,16
+West Hyattsville,2025-11-02 00:00:00,15
+Wheaton,2025-11-02 00:00:00,2
+Wiehle-Reston East,2025-11-02 00:00:00,16
+Woodley Park-Zoo/Adams Morgan,2025-11-02 00:00:00,2
+Addison Road-Seat Pleasant,2025-11-03 00:00:00,16
+Anacostia,2025-11-03 00:00:00,15
+Archives-Navy Memorial-Penn Quarter,2025-11-03 00:00:00,17
+Arlington Cemetery,2025-11-03 00:00:00,17
+Ashburn,2025-11-03 00:00:00,16
+Ballston-MU,2025-11-03 00:00:00,16
+Benning Road,2025-11-03 00:00:00,16
+Bethesda,2025-11-03 00:00:00,2
+Braddock Road,2025-11-03 00:00:00,17
+Branch Ave,2025-11-03 00:00:00,15
+Brookland-CUA,2025-11-03 00:00:00,2
+Capitol Heights,2025-11-03 00:00:00,16
+Capitol South,2025-11-03 00:00:00,16
+Cheverly,2025-11-03 00:00:00,16
+Clarendon,2025-11-03 00:00:00,16
+Cleveland Park,2025-11-03 00:00:00,2
+College Park-U of Md,2025-11-03 00:00:00,15
+Columbia Heights,2025-11-03 00:00:00,15
+Congress Heights,2025-11-03 00:00:00,15
+Court House,2025-11-03 00:00:00,16
+Crystal City,2025-11-03 00:00:00,17
+Deanwood,2025-11-03 00:00:00,16
+Downtown Largo,2025-11-03 00:00:00,16
+Dunn Loring-Merrifield,2025-11-03 00:00:00,16
+Dupont Circle,2025-11-03 00:00:00,2
+East Falls Church,2025-11-03 00:00:00,16
+Eastern Market,2025-11-03 00:00:00,16
+Eisenhower Ave,2025-11-03 00:00:00,17
+Farragut North,2025-11-03 00:00:00,2
+Farragut West,2025-11-03 00:00:00,16
+Federal Center SW,2025-11-03 00:00:00,16
+Federal Triangle,2025-11-03 00:00:00,16
+Foggy Bottom-GWU,2025-11-03 00:00:00,16
+Forest Glen,2025-11-03 00:00:00,2
+Fort Totten,2025-11-03 00:00:00,15
+Franconia-Springfield,2025-11-03 00:00:00,17
+Friendship Heights,2025-11-03 00:00:00,2
+Gallery Pl-Chinatown,2025-11-03 00:00:00,15
+Georgia Ave-Petworth,2025-11-03 00:00:00,15
+Glenmont,2025-11-03 00:00:00,2
+Greenbelt,2025-11-03 00:00:00,15
+Greensboro,2025-11-03 00:00:00,16
+Grosvenor-Strathmore,2025-11-03 00:00:00,2
+Herndon,2025-11-03 00:00:00,16
+Huntington,2025-11-03 00:00:00,17
+Hyattsville Crossing,2025-11-03 00:00:00,15
+Innovation Center,2025-11-03 00:00:00,16
+Judiciary Square,2025-11-03 00:00:00,2
+King St-Old Town,2025-11-03 00:00:00,17
+L'Enfant Plaza,2025-11-03 00:00:00,17
+Landover,2025-11-03 00:00:00,16
+Loudoun Gateway,2025-11-03 00:00:00,16
+McLean,2025-11-03 00:00:00,16
+McPherson Sq,2025-11-03 00:00:00,16
+Medical Center,2025-11-03 00:00:00,2
+Metro Center,2025-11-03 00:00:00,2
+Minnesota Ave,2025-11-03 00:00:00,16
+Morgan Boulevard,2025-11-03 00:00:00,16
+Mt Vernon Sq 7th St-Convention Center,2025-11-03 00:00:00,15
+Navy Yard-Ballpark,2025-11-03 00:00:00,15
+Naylor Road,2025-11-03 00:00:00,15
+New Carrollton,2025-11-03 00:00:00,16
+NoMa-Gallaudet U,2025-11-03 00:00:00,2
+North Bethesda,2025-11-03 00:00:00,2
+Pentagon,2025-11-03 00:00:00,17
+Pentagon City,2025-11-03 00:00:00,17
+Potomac Ave,2025-11-03 00:00:00,16
+Potomac Yard,2025-11-03 00:00:00,17
+Reston Town Center,2025-11-03 00:00:00,16
+"Rhode Island Ave-Brentwood,",2025-11-03 00:00:00,2
+Rockville,2025-11-03 00:00:00,2
+Ronald Reagan Washington National Airport,2025-11-03 00:00:00,17
+Rosslyn,2025-11-03 00:00:00,16
+Shady Grove,2025-11-03 00:00:00,2
+Shaw-Howard U,2025-11-03 00:00:00,15
+Silver Spring,2025-11-03 00:00:00,2
+Smithsonian,2025-11-03 00:00:00,16
+Southern Avenue,2025-11-03 00:00:00,15
+Spring Hill,2025-11-03 00:00:00,16
+Stadium-Armory,2025-11-03 00:00:00,16
+Suitland,2025-11-03 00:00:00,15
+Takoma,2025-11-03 00:00:00,2
+Tenleytown-AU,2025-11-03 00:00:00,2
+Twinbrook,2025-11-03 00:00:00,2
+Tysons,2025-11-03 00:00:00,16
+U Street/African-Amer Civil War Memorial/Cardozo,2025-11-03 00:00:00,15
+Union Station,2025-11-03 00:00:00,2
+Van Dorn Street,2025-11-03 00:00:00,17
+Van Ness-UDC,2025-11-03 00:00:00,2
+Vienna/Fairfax-GMU,2025-11-03 00:00:00,16
+Virginia Square-GMU,2025-11-03 00:00:00,16
+Washington Dulles International Airport,2025-11-03 00:00:00,16
+Waterfront,2025-11-03 00:00:00,15
+West Falls Church,2025-11-03 00:00:00,16
+West Hyattsville,2025-11-03 00:00:00,15
+Wheaton,2025-11-03 00:00:00,2
+Wiehle-Reston East,2025-11-03 00:00:00,16
+Woodley Park-Zoo/Adams Morgan,2025-11-03 00:00:00,2
+Addison Road-Seat Pleasant,2025-11-04 00:00:00,16
+Anacostia,2025-11-04 00:00:00,15
+Archives-Navy Memorial-Penn Quarter,2025-11-04 00:00:00,17
+Arlington Cemetery,2025-11-04 00:00:00,17
+Ashburn,2025-11-04 00:00:00,16
+Ballston-MU,2025-11-04 00:00:00,16
+Benning Road,2025-11-04 00:00:00,16
+Bethesda,2025-11-04 00:00:00,2
+Braddock Road,2025-11-04 00:00:00,17
+Branch Ave,2025-11-04 00:00:00,15
+Brookland-CUA,2025-11-04 00:00:00,2
+Capitol Heights,2025-11-04 00:00:00,16
+Capitol South,2025-11-04 00:00:00,16
+Cheverly,2025-11-04 00:00:00,16
+Clarendon,2025-11-04 00:00:00,16
+Cleveland Park,2025-11-04 00:00:00,2
+College Park-U of Md,2025-11-04 00:00:00,15
+Columbia Heights,2025-11-04 00:00:00,15
+Congress Heights,2025-11-04 00:00:00,15
+Court House,2025-11-04 00:00:00,16
+Crystal City,2025-11-04 00:00:00,17
+Deanwood,2025-11-04 00:00:00,16
+Downtown Largo,2025-11-04 00:00:00,16
+Dunn Loring-Merrifield,2025-11-04 00:00:00,16
+Dupont Circle,2025-11-04 00:00:00,2
+East Falls Church,2025-11-04 00:00:00,16
+Eastern Market,2025-11-04 00:00:00,16
+Eisenhower Ave,2025-11-04 00:00:00,17
+Farragut North,2025-11-04 00:00:00,2
+Farragut West,2025-11-04 00:00:00,16
+Federal Center SW,2025-11-04 00:00:00,16
+Federal Triangle,2025-11-04 00:00:00,16
+Foggy Bottom-GWU,2025-11-04 00:00:00,16
+Forest Glen,2025-11-04 00:00:00,2
+Fort Totten,2025-11-04 00:00:00,15
+Franconia-Springfield,2025-11-04 00:00:00,17
+Friendship Heights,2025-11-04 00:00:00,2
+Gallery Pl-Chinatown,2025-11-04 00:00:00,15
+Georgia Ave-Petworth,2025-11-04 00:00:00,15
+Glenmont,2025-11-04 00:00:00,2
+Greenbelt,2025-11-04 00:00:00,15
+Greensboro,2025-11-04 00:00:00,16
+Grosvenor-Strathmore,2025-11-04 00:00:00,2
+Herndon,2025-11-04 00:00:00,16
+Huntington,2025-11-04 00:00:00,17
+Hyattsville Crossing,2025-11-04 00:00:00,15
+Innovation Center,2025-11-04 00:00:00,16
+Judiciary Square,2025-11-04 00:00:00,2
+King St-Old Town,2025-11-04 00:00:00,17
+L'Enfant Plaza,2025-11-04 00:00:00,17
+Landover,2025-11-04 00:00:00,16
+Loudoun Gateway,2025-11-04 00:00:00,16
+McLean,2025-11-04 00:00:00,16
+McPherson Sq,2025-11-04 00:00:00,16
+Medical Center,2025-11-04 00:00:00,2
+Metro Center,2025-11-04 00:00:00,2
+Minnesota Ave,2025-11-04 00:00:00,16
+Morgan Boulevard,2025-11-04 00:00:00,16
+Mt Vernon Sq 7th St-Convention Center,2025-11-04 00:00:00,15
+Navy Yard-Ballpark,2025-11-04 00:00:00,15
+Naylor Road,2025-11-04 00:00:00,15
+New Carrollton,2025-11-04 00:00:00,16
+NoMa-Gallaudet U,2025-11-04 00:00:00,2
+North Bethesda,2025-11-04 00:00:00,2
+Pentagon,2025-11-04 00:00:00,17
+Pentagon City,2025-11-04 00:00:00,17
+Potomac Ave,2025-11-04 00:00:00,16
+Potomac Yard,2025-11-04 00:00:00,17
+Reston Town Center,2025-11-04 00:00:00,16
+"Rhode Island Ave-Brentwood,",2025-11-04 00:00:00,2
+Rockville,2025-11-04 00:00:00,2
+Ronald Reagan Washington National Airport,2025-11-04 00:00:00,17
+Rosslyn,2025-11-04 00:00:00,16
+Shady Grove,2025-11-04 00:00:00,2
+Shaw-Howard U,2025-11-04 00:00:00,15
+Silver Spring,2025-11-04 00:00:00,2
+Smithsonian,2025-11-04 00:00:00,16
+Southern Avenue,2025-11-04 00:00:00,15
+Spring Hill,2025-11-04 00:00:00,16
+Stadium-Armory,2025-11-04 00:00:00,16
+Suitland,2025-11-04 00:00:00,15
+Takoma,2025-11-04 00:00:00,2
+Tenleytown-AU,2025-11-04 00:00:00,2
+Twinbrook,2025-11-04 00:00:00,2
+Tysons,2025-11-04 00:00:00,16
+U Street/African-Amer Civil War Memorial/Cardozo,2025-11-04 00:00:00,15
+Union Station,2025-11-04 00:00:00,2
+Van Dorn Street,2025-11-04 00:00:00,17
+Van Ness-UDC,2025-11-04 00:00:00,2
+Vienna/Fairfax-GMU,2025-11-04 00:00:00,16
+Virginia Square-GMU,2025-11-04 00:00:00,16
+Washington Dulles International Airport,2025-11-04 00:00:00,16
+Waterfront,2025-11-04 00:00:00,15
+West Falls Church,2025-11-04 00:00:00,16
+West Hyattsville,2025-11-04 00:00:00,15
+Wheaton,2025-11-04 00:00:00,2
+Wiehle-Reston East,2025-11-04 00:00:00,16
+Woodley Park-Zoo/Adams Morgan,2025-11-04 00:00:00,2
+Addison Road-Seat Pleasant,2025-11-05 00:00:00,16
+Anacostia,2025-11-05 00:00:00,15
+Archives-Navy Memorial-Penn Quarter,2025-11-05 00:00:00,15
+Arlington Cemetery,2025-11-05 00:00:00,15
+Ashburn,2025-11-05 00:00:00,16
+Ballston-MU,2025-11-05 00:00:00,16
+Benning Road,2025-11-05 00:00:00,16
+Bethesda,2025-11-05 00:00:00,2
+Braddock Road,2025-11-05 00:00:00,15
+Branch Ave,2025-11-05 00:00:00,15
+Brookland-CUA,2025-11-05 00:00:00,2
+Capitol Heights,2025-11-05 00:00:00,16
+Capitol South,2025-11-05 00:00:00,16
+Cheverly,2025-11-05 00:00:00,16
+Clarendon,2025-11-05 00:00:00,16
+Cleveland Park,2025-11-05 00:00:00,2
+College Park-U of Md,2025-11-05 00:00:00,15
+Columbia Heights,2025-11-05 00:00:00,15
+Congress Heights,2025-11-05 00:00:00,15
+Court House,2025-11-05 00:00:00,16
+Crystal City,2025-11-05 00:00:00,15
+Deanwood,2025-11-05 00:00:00,16
+Downtown Largo,2025-11-05 00:00:00,16
+Dunn Loring-Merrifield,2025-11-05 00:00:00,16
+Dupont Circle,2025-11-05 00:00:00,2
+East Falls Church,2025-11-05 00:00:00,16
+Eastern Market,2025-11-05 00:00:00,16
+Eisenhower Ave,2025-11-05 00:00:00,15
+Farragut North,2025-11-05 00:00:00,2
+Farragut West,2025-11-05 00:00:00,16
+Federal Center SW,2025-11-05 00:00:00,16
+Federal Triangle,2025-11-05 00:00:00,16
+Foggy Bottom-GWU,2025-11-05 00:00:00,16
+Forest Glen,2025-11-05 00:00:00,2
+Fort Totten,2025-11-05 00:00:00,2
+Franconia-Springfield,2025-11-05 00:00:00,15
+Friendship Heights,2025-11-05 00:00:00,2
+Gallery Pl-Chinatown,2025-11-05 00:00:00,15
+Georgia Ave-Petworth,2025-11-05 00:00:00,15
+Glenmont,2025-11-05 00:00:00,2
+Greenbelt,2025-11-05 00:00:00,15
+Greensboro,2025-11-05 00:00:00,16
+Grosvenor-Strathmore,2025-11-05 00:00:00,2
+Herndon,2025-11-05 00:00:00,16
+Huntington,2025-11-05 00:00:00,15
+Hyattsville Crossing,2025-11-05 00:00:00,15
+Innovation Center,2025-11-05 00:00:00,16
+Judiciary Square,2025-11-05 00:00:00,2
+King St-Old Town,2025-11-05 00:00:00,15
+L'Enfant Plaza,2025-11-05 00:00:00,15
+Landover,2025-11-05 00:00:00,16
+Loudoun Gateway,2025-11-05 00:00:00,16
+McLean,2025-11-05 00:00:00,16
+McPherson Sq,2025-11-05 00:00:00,16
+Medical Center,2025-11-05 00:00:00,2
+Metro Center,2025-11-05 00:00:00,2
+Minnesota Ave,2025-11-05 00:00:00,16
+Morgan Boulevard,2025-11-05 00:00:00,16
+Mt Vernon Sq 7th St-Convention Center,2025-11-05 00:00:00,15
+Navy Yard-Ballpark,2025-11-05 00:00:00,15
+Naylor Road,2025-11-05 00:00:00,15
+New Carrollton,2025-11-05 00:00:00,16
+NoMa-Gallaudet U,2025-11-05 00:00:00,2
+North Bethesda,2025-11-05 00:00:00,2
+Pentagon,2025-11-05 00:00:00,15
+Pentagon City,2025-11-05 00:00:00,15
+Potomac Ave,2025-11-05 00:00:00,16
+Potomac Yard,2025-11-05 00:00:00,15
+Reston Town Center,2025-11-05 00:00:00,16
+"Rhode Island Ave-Brentwood,",2025-11-05 00:00:00,2
+Rockville,2025-11-05 00:00:00,2
+Ronald Reagan Washington National Airport,2025-11-05 00:00:00,15
+Rosslyn,2025-11-05 00:00:00,16
+Shady Grove,2025-11-05 00:00:00,2
+Shaw-Howard U,2025-11-05 00:00:00,15
+Silver Spring,2025-11-05 00:00:00,2
+Smithsonian,2025-11-05 00:00:00,16
+Southern Avenue,2025-11-05 00:00:00,15
+Spring Hill,2025-11-05 00:00:00,16
+Stadium-Armory,2025-11-05 00:00:00,16
+Suitland,2025-11-05 00:00:00,15
+Takoma,2025-11-05 00:00:00,2
+Tenleytown-AU,2025-11-05 00:00:00,2
+Twinbrook,2025-11-05 00:00:00,2
+Tysons,2025-11-05 00:00:00,16
+U Street/African-Amer Civil War Memorial/Cardozo,2025-11-05 00:00:00,15
+Union Station,2025-11-05 00:00:00,2
+Van Dorn Street,2025-11-05 00:00:00,15
+Van Ness-UDC,2025-11-05 00:00:00,2
+Vienna/Fairfax-GMU,2025-11-05 00:00:00,16
+Virginia Square-GMU,2025-11-05 00:00:00,16
+Washington Dulles International Airport,2025-11-05 00:00:00,16
+Waterfront,2025-11-05 00:00:00,15
+West Falls Church,2025-11-05 00:00:00,16
+West Hyattsville,2025-11-05 00:00:00,15
+Wheaton,2025-11-05 00:00:00,2
+Wiehle-Reston East,2025-11-05 00:00:00,16
+Woodley Park-Zoo/Adams Morgan,2025-11-05 00:00:00,2
+Addison Road-Seat Pleasant,2025-11-06 00:00:00,16
+Anacostia,2025-11-06 00:00:00,18
+Archives-Navy Memorial-Penn Quarter,2025-11-06 00:00:00,15
+Arlington Cemetery,2025-11-06 00:00:00,15
+Ashburn,2025-11-06 00:00:00,16
+Ballston-MU,2025-11-06 00:00:00,16
+Benning Road,2025-11-06 00:00:00,16
+Bethesda,2025-11-06 00:00:00,2
+Braddock Road,2025-11-06 00:00:00,15
+Branch Ave,2025-11-06 00:00:00,18
+Brookland-CUA,2025-11-06 00:00:00,2
+Capitol Heights,2025-11-06 00:00:00,16
+Capitol South,2025-11-06 00:00:00,16
+Cheverly,2025-11-06 00:00:00,16
+Clarendon,2025-11-06 00:00:00,16
+Cleveland Park,2025-11-06 00:00:00,2
+College Park-U of Md,2025-11-06 00:00:00,18
+Columbia Heights,2025-11-06 00:00:00,18
+Congress Heights,2025-11-06 00:00:00,18
+Court House,2025-11-06 00:00:00,16
+Crystal City,2025-11-06 00:00:00,15
+Deanwood,2025-11-06 00:00:00,16
+Downtown Largo,2025-11-06 00:00:00,16
+Dunn Loring-Merrifield,2025-11-06 00:00:00,16
+Dupont Circle,2025-11-06 00:00:00,2
+East Falls Church,2025-11-06 00:00:00,16
+Eastern Market,2025-11-06 00:00:00,16
+Eisenhower Ave,2025-11-06 00:00:00,15
+Farragut North,2025-11-06 00:00:00,2
+Farragut West,2025-11-06 00:00:00,16
+Federal Center SW,2025-11-06 00:00:00,16
+Federal Triangle,2025-11-06 00:00:00,16
+Foggy Bottom-GWU,2025-11-06 00:00:00,16
+Forest Glen,2025-11-06 00:00:00,2
+Fort Totten,2025-11-06 00:00:00,18
+Franconia-Springfield,2025-11-06 00:00:00,15
+Friendship Heights,2025-11-06 00:00:00,2
+Gallery Pl-Chinatown,2025-11-06 00:00:00,18
+Georgia Ave-Petworth,2025-11-06 00:00:00,18
+Glenmont,2025-11-06 00:00:00,2
+Greenbelt,2025-11-06 00:00:00,18
+Greensboro,2025-11-06 00:00:00,16
+Grosvenor-Strathmore,2025-11-06 00:00:00,2
+Herndon,2025-11-06 00:00:00,16
+Huntington,2025-11-06 00:00:00,15
+Hyattsville Crossing,2025-11-06 00:00:00,18
+Innovation Center,2025-11-06 00:00:00,16
+Judiciary Square,2025-11-06 00:00:00,2
+King St-Old Town,2025-11-06 00:00:00,15
+L'Enfant Plaza,2025-11-06 00:00:00,15
+Landover,2025-11-06 00:00:00,16
+Loudoun Gateway,2025-11-06 00:00:00,16
+McLean,2025-11-06 00:00:00,16
+McPherson Sq,2025-11-06 00:00:00,16
+Medical Center,2025-11-06 00:00:00,2
+Metro Center,2025-11-06 00:00:00,2
+Minnesota Ave,2025-11-06 00:00:00,16
+Morgan Boulevard,2025-11-06 00:00:00,16
+Mt Vernon Sq 7th St-Convention Center,2025-11-06 00:00:00,18
+Navy Yard-Ballpark,2025-11-06 00:00:00,18
+Naylor Road,2025-11-06 00:00:00,18
+New Carrollton,2025-11-06 00:00:00,16
+NoMa-Gallaudet U,2025-11-06 00:00:00,2
+North Bethesda,2025-11-06 00:00:00,2
+Pentagon,2025-11-06 00:00:00,15
+Pentagon City,2025-11-06 00:00:00,15
+Potomac Ave,2025-11-06 00:00:00,16
+Potomac Yard,2025-11-06 00:00:00,15
+Reston Town Center,2025-11-06 00:00:00,16
+"Rhode Island Ave-Brentwood,",2025-11-06 00:00:00,2
+Rockville,2025-11-06 00:00:00,2
+Ronald Reagan Washington National Airport,2025-11-06 00:00:00,15
+Rosslyn,2025-11-06 00:00:00,16
+Shady Grove,2025-11-06 00:00:00,2
+Shaw-Howard U,2025-11-06 00:00:00,18
+Silver Spring,2025-11-06 00:00:00,2
+Smithsonian,2025-11-06 00:00:00,16
+Southern Avenue,2025-11-06 00:00:00,18
+Spring Hill,2025-11-06 00:00:00,16
+Stadium-Armory,2025-11-06 00:00:00,16
+Suitland,2025-11-06 00:00:00,18
+Takoma,2025-11-06 00:00:00,2
+Tenleytown-AU,2025-11-06 00:00:00,2
+Twinbrook,2025-11-06 00:00:00,2
+Tysons,2025-11-06 00:00:00,16
+U Street/African-Amer Civil War Memorial/Cardozo,2025-11-06 00:00:00,18
+Union Station,2025-11-06 00:00:00,2
+Van Dorn Street,2025-11-06 00:00:00,15
+Van Ness-UDC,2025-11-06 00:00:00,2
+Vienna/Fairfax-GMU,2025-11-06 00:00:00,16
+Virginia Square-GMU,2025-11-06 00:00:00,16
+Washington Dulles International Airport,2025-11-06 00:00:00,16
+Waterfront,2025-11-06 00:00:00,18
+West Falls Church,2025-11-06 00:00:00,16
+West Hyattsville,2025-11-06 00:00:00,18
+Wheaton,2025-11-06 00:00:00,2
+Wiehle-Reston East,2025-11-06 00:00:00,16
+Woodley Park-Zoo/Adams Morgan,2025-11-06 00:00:00,2
+Addison Road-Seat Pleasant,2025-11-07 00:00:00,16
+Anacostia,2025-11-07 00:00:00,18
+Archives-Navy Memorial-Penn Quarter,2025-11-07 00:00:00,15
+Arlington Cemetery,2025-11-07 00:00:00,15
+Ashburn,2025-11-07 00:00:00,16
+Ballston-MU,2025-11-07 00:00:00,16
+Benning Road,2025-11-07 00:00:00,16
+Bethesda,2025-11-07 00:00:00,2
+Braddock Road,2025-11-07 00:00:00,15
+Branch Ave,2025-11-07 00:00:00,18
+Brookland-CUA,2025-11-07 00:00:00,2
+Capitol Heights,2025-11-07 00:00:00,16
+Capitol South,2025-11-07 00:00:00,16
+Cheverly,2025-11-07 00:00:00,16
+Clarendon,2025-11-07 00:00:00,16
+Cleveland Park,2025-11-07 00:00:00,2
+College Park-U of Md,2025-11-07 00:00:00,18
+Columbia Heights,2025-11-07 00:00:00,18
+Congress Heights,2025-11-07 00:00:00,18
+Court House,2025-11-07 00:00:00,16
+Crystal City,2025-11-07 00:00:00,15
+Deanwood,2025-11-07 00:00:00,16
+Downtown Largo,2025-11-07 00:00:00,16
+Dunn Loring-Merrifield,2025-11-07 00:00:00,16
+Dupont Circle,2025-11-07 00:00:00,2
+East Falls Church,2025-11-07 00:00:00,16
+Eastern Market,2025-11-07 00:00:00,16
+Eisenhower Ave,2025-11-07 00:00:00,15
+Farragut North,2025-11-07 00:00:00,2
+Farragut West,2025-11-07 00:00:00,16
+Federal Center SW,2025-11-07 00:00:00,16
+Federal Triangle,2025-11-07 00:00:00,16
+Foggy Bottom-GWU,2025-11-07 00:00:00,16
+Forest Glen,2025-11-07 00:00:00,2
+Fort Totten,2025-11-07 00:00:00,18
+Franconia-Springfield,2025-11-07 00:00:00,15
+Friendship Heights,2025-11-07 00:00:00,2
+Gallery Pl-Chinatown,2025-11-07 00:00:00,18
+Georgia Ave-Petworth,2025-11-07 00:00:00,18
+Glenmont,2025-11-07 00:00:00,2
+Greenbelt,2025-11-07 00:00:00,18
+Greensboro,2025-11-07 00:00:00,16
+Grosvenor-Strathmore,2025-11-07 00:00:00,2
+Herndon,2025-11-07 00:00:00,16
+Huntington,2025-11-07 00:00:00,15
+Hyattsville Crossing,2025-11-07 00:00:00,18
+Innovation Center,2025-11-07 00:00:00,16
+Judiciary Square,2025-11-07 00:00:00,2
+King St-Old Town,2025-11-07 00:00:00,15
+L'Enfant Plaza,2025-11-07 00:00:00,15
+Landover,2025-11-07 00:00:00,16
+Loudoun Gateway,2025-11-07 00:00:00,16
+McLean,2025-11-07 00:00:00,16
+McPherson Sq,2025-11-07 00:00:00,16
+Medical Center,2025-11-07 00:00:00,2
+Metro Center,2025-11-07 00:00:00,2
+Minnesota Ave,2025-11-07 00:00:00,16
+Morgan Boulevard,2025-11-07 00:00:00,16
+Mt Vernon Sq 7th St-Convention Center,2025-11-07 00:00:00,18
+Navy Yard-Ballpark,2025-11-07 00:00:00,18
+Naylor Road,2025-11-07 00:00:00,18
+New Carrollton,2025-11-07 00:00:00,16
+NoMa-Gallaudet U,2025-11-07 00:00:00,2
+North Bethesda,2025-11-07 00:00:00,2
+Pentagon,2025-11-07 00:00:00,15
+Pentagon City,2025-11-07 00:00:00,15
+Potomac Ave,2025-11-07 00:00:00,16
+Potomac Yard,2025-11-07 00:00:00,15
+Reston Town Center,2025-11-07 00:00:00,16
+"Rhode Island Ave-Brentwood,",2025-11-07 00:00:00,2
+Rockville,2025-11-07 00:00:00,2
+Ronald Reagan Washington National Airport,2025-11-07 00:00:00,15
+Rosslyn,2025-11-07 00:00:00,16
+Shady Grove,2025-11-07 00:00:00,2
+Shaw-Howard U,2025-11-07 00:00:00,18
+Silver Spring,2025-11-07 00:00:00,2
+Smithsonian,2025-11-07 00:00:00,16
+Southern Avenue,2025-11-07 00:00:00,18
+Spring Hill,2025-11-07 00:00:00,16
+Stadium-Armory,2025-11-07 00:00:00,16
+Suitland,2025-11-07 00:00:00,18
+Takoma,2025-11-07 00:00:00,2
+Tenleytown-AU,2025-11-07 00:00:00,2
+Twinbrook,2025-11-07 00:00:00,2
+Tysons,2025-11-07 00:00:00,16
+U Street/African-Amer Civil War Memorial/Cardozo,2025-11-07 00:00:00,18
+Union Station,2025-11-07 00:00:00,2
+Van Dorn Street,2025-11-07 00:00:00,15
+Van Ness-UDC,2025-11-07 00:00:00,2
+Vienna/Fairfax-GMU,2025-11-07 00:00:00,16
+Virginia Square-GMU,2025-11-07 00:00:00,16
+Washington Dulles International Airport,2025-11-07 00:00:00,16
+Waterfront,2025-11-07 00:00:00,18
+West Falls Church,2025-11-07 00:00:00,16
+West Hyattsville,2025-11-07 00:00:00,18
+Wheaton,2025-11-07 00:00:00,2
+Wiehle-Reston East,2025-11-07 00:00:00,16
+Woodley Park-Zoo/Adams Morgan,2025-11-07 00:00:00,2
